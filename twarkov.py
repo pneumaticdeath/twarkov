@@ -166,7 +166,7 @@ class TwarkovChain(MarkovChain):
     else:
       return True # no familiarity threshold
 
-  def GetMessage(self, seed=None, max_len=140,
+  def GetMessage(self, seed=None, max_len=280,
                  depth=None, sep=" ", trunc_char=None, labelset=None):
     """Get a random message.
 
@@ -227,8 +227,8 @@ class CharChain(TwarkovChain):
     return text
 
   def GetMessage(self, seed=None, max_len=140,
-                 depth=None, sep='', trunc_char=" "):
-    return TwarkovChain.GetMessage(self, seed, max_len, depth, sep, trunc_char)
+                 depth=None, sep='', trunc_char=" ", labelset=None):
+    return TwarkovChain.GetMessage(self, seed, max_len, depth, sep, trunc_char, labelset)
 
 if __name__ == "__main__":
   tc = TwarkovChain()
