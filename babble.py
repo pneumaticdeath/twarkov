@@ -29,7 +29,7 @@ _words = ["This ", "I ", "Just ", "My ", "The ", "I'm ", "It's ", "If ", "At ",
           "On ", "And ", "For ", "Is ", "So ", "Oh ",
           ]
 
-def babble(chain, count=200, depth=None):
+def babble(chain, count=200, depth=None, attribution=False):
   msg_cnt = 0
   ls = set()
   # hackish heuristic to mix up depths, but favor longer chains
@@ -51,10 +51,18 @@ def babble(chain, count=200, depth=None):
       msg = chain.GetMessage(word, depth=d, labelset=ls)
       msg = filter(lambda x: x != '\n' and x != '\r',msg)
       # chk_len = int(0.75*len(msg))
-      if len(ls) >= 2:
+      if len(ls) > 1:
           # and not chain._tweetstore.matching(msg[:chk_len], ignore_case=True) 
           # and not chain._tweetstore.matching(msg[-chk_len:], ignore_case=True)):
-        print "%s (%d)" % (msg.encode('utf-8'),len(ls))
+        if attribution:
+          authors = list(set([tw.user.screen_name for tw in [chain._tweetstore[i] for i in ls]]))
+          if len(authors) > 1:
+            authorstr = ' h/t to @%s and @%s' % (', @'.join(authors[:-1]), authors[-1])
+          else:
+            authorstr = ' h/t to @' + authors[0]
+        else:
+          authorstr = '';
+        print "%s (%d)%s" % (msg.encode('utf-8'),len(ls), authorstr.encode('utf-8'))
         msg_cnt += 1
         # time.sleep(5)
       elif DEBUG:
@@ -63,15 +71,16 @@ def babble(chain, count=200, depth=None):
       pass
 
 def usage():
-  sys.stderr.write('%s [-d] [-C] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
+  sys.stderr.write('%s [-d] [-C] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
 
 if __name__ == '__main__':
   count = 0
   max_tuple = None
   charchain = False
+  attribution = False
 
   try:
-    opts, args = getopt.getopt(sys.argv[1:], 'dCc:m:')
+    opts, args = getopt.getopt(sys.argv[1:], 'dCac:m:')
 
     for opt,value in opts:
       if opt == '-d':
@@ -82,6 +91,8 @@ if __name__ == '__main__':
         max_tuple = int(value)
       elif opt == '-C':
         charchain = True
+      elif opt == '-a':
+        attribution = True
       else:
         sys.stderr.write('Unknown option %d\n' % (opt,))
         usage()
@@ -108,8 +119,8 @@ if __name__ == '__main__':
     chain = TwarkovChain(max=max_tuple, storefile=args[0])
 
   if count:
-    babble(chain,count)
+    babble(chain, count, attribution=attribution)
   else:
-    babble(chain)
+    babble(chain, attribution=attribution)
 
 

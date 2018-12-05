@@ -53,10 +53,10 @@ class TwarkovChain(MarkovChain):
     self._api=api
     self._familiar=familiar
     self.tweetcount = 0
-    if '.sqlite' in storefile:
-        self._tweetstore = TweetStoreSQL(storefile)
+    if storefile and '.sqlite' in storefile:
+      self._tweetstore = TweetStoreSQL(storefile)
     else:
-        self._tweetstore = TweetStore(storefile)
+      self._tweetstore = TweetStore(storefile)
     self._rejectstore = TweetStore(rejectfile)
 
     #populate the chain from the tweetstore
@@ -118,7 +118,6 @@ class TwarkovChain(MarkovChain):
     if api is None:
       api = self.GetApi()
     return self.UpdateFromStatuses(api.GetFriendsTimeline())
-
 
   def UpdateFromStatuses(self,statuses):
     tweet_count = 0
@@ -219,6 +218,50 @@ class TwarkovChain(MarkovChain):
       pass
     return msg
 
+  def GetAnnotatedMessage(self, seed=None, max_len=280, depth=None, sep=' ', trunc_char=None):
+    if depth is None:
+      depth = self._max
+
+    retval = {'seperator': sep, 'depth': depth, 'seed': seed}
+
+    if seed:
+      seed_seq = self._Tokenize(seed)
+    else:
+      seed_seq = self.GetRandomTuple((self.__class__._begin_marker,))[1:]
+
+    try:
+      gen = self.GetAnnotatedSequence(seed=seed_seq, depth=depth)
+
+      retseq = []
+      length = 0
+      sep_length = len(sep)
+      position = 0
+      trunc_position = 0
+      all_labels = set()
+      for element, labels in gen:
+        element_length = len(element)
+        if max_len-length < element_length:
+          retseq = retseq[:trunc_position]
+          break
+        length += element_length + sep_length
+        if trunc_char is None or element.endswith(trunc_char):
+          trunc_position = position
+        all_labels |= labels
+        retseq.append((element, labels))
+        position += 1
+
+      retval['sequence'] = [dict(element=e, labels=l) for e, l in retseq]
+      tweets = {}
+      for i in all_labels:
+        tw = self._tweetstore[i]
+        tweets[i] = dict(text=textof(tw), username=tw.user.screen_name)
+      retval['tweets'] = tweets
+
+    except KeyError as e:
+      retval['error'] = str(e)
+
+    return retval
+
 class CharChain(TwarkovChain):
   # a two character string shouldn't be in the input domain, since we normally only deal in single characters.
   _begin_marker = '--'
@@ -226,9 +269,13 @@ class CharChain(TwarkovChain):
   def _Tokenize(self, text):
     return text
 
-  def GetMessage(self, seed=None, max_len=140,
+  def GetMessage(self, seed=None, max_len=280,
                  depth=None, sep='', trunc_char=" ", labelset=None):
     return TwarkovChain.GetMessage(self, seed, max_len, depth, sep, trunc_char, labelset)
+
+  def GetAnnotatedMessage(self, seed=None, max_len=280,
+                          depth=None, sep='', trunc_char=' '):
+    return TwarkovChain.GetAnnotatedMessage(self, seed, max_len, depth, sep, trunc_char)
 
 if __name__ == "__main__":
   tc = TwarkovChain()
