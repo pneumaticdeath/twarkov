@@ -6,6 +6,7 @@ from twarkov import CharChain, TwarkovChain
 # from chain_utils import candidate_words.
 
 import getopt
+import json
 import random
 import sys
 import time
@@ -70,17 +71,25 @@ def babble(chain, count=200, depth=None, attribution=False):
     except UnicodeEncodeError:
       pass
 
+def babble_json(chain):
+  msg = chain.GetAnnotatedMessage()
+  while len(msg['tweets']) <= 1:
+    msg = chain.GetAnnotatedMessage()
+
+  return json.dumps(msg, indent=2)
+
 def usage():
-  sys.stderr.write('%s [-d] [-C] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
+  sys.stderr.write('%s [-d] [-C] [-j] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
 
 if __name__ == '__main__':
   count = 0
   max_tuple = None
   charchain = False
   attribution = False
+  dump_json = False
 
   try:
-    opts, args = getopt.getopt(sys.argv[1:], 'dCac:m:')
+    opts, args = getopt.getopt(sys.argv[1:], 'dCjac:m:')
 
     for opt,value in opts:
       if opt == '-d':
@@ -91,6 +100,8 @@ if __name__ == '__main__':
         max_tuple = int(value)
       elif opt == '-C':
         charchain = True
+      elif opt == '-j':
+        dump_json = True
       elif opt == '-a':
         attribution = True
       else:
@@ -118,8 +129,13 @@ if __name__ == '__main__':
   else:
     chain = TwarkovChain(max=max_tuple, storefile=args[0])
 
-  if count:
+  if count and count > 1:
+    if dump_json:
+      sys.stderr.write('Count not used when writing json')
+      sys.exit(1)
     babble(chain, count, attribution=attribution)
+  elif dump_json:
+    print(babble_json(chain))
   else:
     babble(chain, attribution=attribution)
 

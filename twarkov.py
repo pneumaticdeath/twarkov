@@ -247,7 +247,7 @@ class TwarkovChain(MarkovChain):
         if trunc_char is None or element.endswith(trunc_char):
           trunc_position = position
         all_labels |= labels
-        retseq.append((element, labels))
+        retseq.append((element, list(labels)))
         position += 1
 
       retval['sequence'] = [dict(element=e, labels=l) for e, l in retseq]
