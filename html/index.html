@@ -1,0 +1,50 @@
+<html>
+  <head><title>Twarkov Exploer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  </head>
+  <style>
+table, th , td  {
+	  border: 1px solid grey;
+		    border-collapse: collapse;
+			      padding: 5px;
+}
+table tr:nth-child(odd) {
+	  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+	  background-color: #ffffff;
+}
+  </style>
+  <body>
+    <h1> Twarkov Explorer </h1>
+    <div ng-app="twarkovExplorer" ng-controller="twarkovCtrl">
+      <h2>Using depth {{depth}}</h2>
+      <h3><span ng-repeat="e in sequence" ng-mouseover="maketweets(e.labels)">{{e.element + seperator}}</span></h3>
+      <table>
+        <tr ng-repeat="id in tweet_ids">
+          <td>{{ tweets[id].username }}</td>
+          <td>{{ tweets[id].text }}</td>
+        </tr>
+      </table>
+    </div>
+    <script>
+var app = angular.module('twarkovExplorer', []);
+app.controller('twarkovCtrl', function($scope, $http) {
+  $http.get('tweet.json').then( function (response) {
+    $scope.sequence = response.data.sequence;
+    $scope.tweets = response.data.tweets;
+    $scope.seperator = response.data.seperator;
+    $scope.depth = response.data.depth;
+    $scope.response = response;
+  });
+  $scope.tweet_ids = [];
+  $scope.maketweets = function(tweetlist) {
+    $scope.tweet_ids = tweetlist;
+  };
+});
+    </script>
+  </body>
+</html>
+
+
+

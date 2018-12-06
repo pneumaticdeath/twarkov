@@ -247,14 +247,15 @@ class TwarkovChain(MarkovChain):
         if trunc_char is None or element.endswith(trunc_char):
           trunc_position = position
         all_labels |= labels
-        retseq.append((element, list(labels)))
+        retseq.append((element, [str(l) for l in labels]))
         position += 1
 
       retval['sequence'] = [dict(element=e, labels=l) for e, l in retseq]
+      retval['message'] = sep.join([x[0] for x in retseq])
       tweets = {}
       for i in all_labels:
         tw = self._tweetstore[i]
-        tweets[i] = dict(text=textof(tw), username=tw.user.screen_name)
+        tweets[str(i)] = dict(text=textof(tw), username=tw.user.screen_name)
       retval['tweets'] = tweets
 
     except KeyError as e:
