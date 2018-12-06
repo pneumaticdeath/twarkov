@@ -18,7 +18,10 @@ table tr:nth-child(even) {
   <body>
     <h1> Twarkov Explorer </h1>
     <div ng-app="twarkovExplorer" ng-controller="twarkovCtrl">
-      {{ messsages }}
+      <form>
+        Select a catagory:
+        <select ng-model="file" ng-options="cat.desc for cat in files" ng-change='pickFile(file.name)'></select>
+      </form>
       <form>
         Select a message: 
         <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='clearTweetIds()'></select>
@@ -35,15 +38,26 @@ table tr:nth-child(even) {
     <script>
 var app = angular.module('twarkovExplorer', []);
 app.controller('twarkovCtrl', function($scope, $http) {
-  $http.get('tweets.json').then( function (response) {
-    $scope.messages = response.data;
-  });
+  $scope.files = [
+    {name : "word4.json", desc : "Word chains of depth 4"},
+    {name : "word3.json", desc : "Word chains of depth 3"},
+    {name : "char14.json", desc : "Character chains of depth 14"},
+    {name : "char8.json", desc : "Character chains of depth 8"}
+  ];
   $scope.tweet_ids = [];
+  $scope.messages = [];
   $scope.clearTweetIds = function () {
     $scope.tweet_ids = [];
   };
   $scope.maketweets = function(tweetlist) {
     $scope.tweet_ids = tweetlist;
+  };
+  $scope.pickFile = function (filename) {
+    $scope.clearTweetIds();
+    $scope.messages = [];
+    $http.get(filename).then( function (response) {
+      $scope.messages = response.data;
+    });
   };
 });
     </script>
