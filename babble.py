@@ -71,18 +71,23 @@ def babble(chain, count=200, depth=None, attribution=False):
     except UnicodeEncodeError:
       pass
 
-def babble_json(chain):
-  msg = chain.GetAnnotatedMessage()
-  while len(msg['tweets']) <= 1:
-    msg = chain.GetAnnotatedMessage()
+def babble_json(chain, count=1):
+  messages = []
+  for x in range(count):
 
-  return json.dumps(msg, indent=2)
+    msg = chain.GetAnnotatedMessage()
+    while len(msg['tweets']) <= 1:
+      msg = chain.GetAnnotatedMessage()
+
+    messages.append(msg)
+
+  return json.dumps(messages, indent=2)
 
 def usage():
   sys.stderr.write('%s [-d] [-C] [-j] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
 
 if __name__ == '__main__':
-  count = 0
+  count = 1
   max_tuple = None
   charchain = False
   attribution = False
@@ -129,14 +134,9 @@ if __name__ == '__main__':
   else:
     chain = TwarkovChain(max=max_tuple, storefile=args[0])
 
-  if count and count > 1:
-    if dump_json:
-      sys.stderr.write('Count not used when writing json')
-      sys.exit(1)
-    babble(chain, count, attribution=attribution)
-  elif dump_json:
-    print(babble_json(chain))
+  if dump_json:
+    print(babble_json(chain, count))
   else:
-    babble(chain, attribution=attribution)
+    babble(chain, count=count, attribution=attribution)
 
 

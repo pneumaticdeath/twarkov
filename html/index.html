@@ -18,26 +18,30 @@ table tr:nth-child(even) {
   <body>
     <h1> Twarkov Explorer </h1>
     <div ng-app="twarkovExplorer" ng-controller="twarkovCtrl">
-      <h2>Using depth {{depth}}</h2>
-      <h3><span ng-repeat="e in sequence" ng-mouseover="maketweets(e.labels)">{{e.element + seperator}}</span></h3>
+      {{ messsages }}
+      <form>
+        Select a message: 
+        <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='clearTweetIds()'></select>
+      </form>
+      <h2>Using depth {{msg.depth}}</h2>
+      <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)">{{e.element + msg.seperator}}</span></h3>
       <table>
         <tr ng-repeat="id in tweet_ids">
-          <td>{{ tweets[id].username }}</td>
-          <td>{{ tweets[id].text }}</td>
+          <td>{{ msg.tweets[id].username }}</td>
+          <td>{{ msg.tweets[id].text }}</td>
         </tr>
       </table>
     </div>
     <script>
 var app = angular.module('twarkovExplorer', []);
 app.controller('twarkovCtrl', function($scope, $http) {
-  $http.get('tweet.json').then( function (response) {
-    $scope.sequence = response.data.sequence;
-    $scope.tweets = response.data.tweets;
-    $scope.seperator = response.data.seperator;
-    $scope.depth = response.data.depth;
-    $scope.response = response;
+  $http.get('tweets.json').then( function (response) {
+    $scope.messages = response.data;
   });
   $scope.tweet_ids = [];
+  $scope.clearTweetIds = function () {
+    $scope.tweet_ids = [];
+  };
   $scope.maketweets = function(tweetlist) {
     $scope.tweet_ids = tweetlist;
   };
