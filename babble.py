@@ -7,6 +7,7 @@ from twarkov import CharChain, TwarkovChain
 
 import getopt
 import json
+import logging
 import random
 import sys
 import time
@@ -76,12 +77,44 @@ def babble_json(chain, count=1):
   for x in range(count):
 
     msg = chain.GetAnnotatedMessage()
-    while len(msg['tweets']) <= 1:
+    while reject_annotated(msg):
+      # logging.info('Rejected "{}"'.format(msg['message'].encode('utf-8')))
       msg = chain.GetAnnotatedMessage()
 
     messages.append(msg)
 
   return json.dumps(messages, indent=2)
+
+def reject_annotated(msg):
+  # reject messages from a single tweet
+  if len(msg["tweets"]) <= 1:
+    logging.debug('Rejected "{}" because it\'s based on a single tweet.'.format(msg['message'].encode('utf-8')))
+    return True
+
+  # reject messages from a single author
+  authorset = set()
+  for tw in msg["tweets"].values():
+    authorset.add(tw["username"])
+
+  if len(authorset) <= 1:
+    logging.debug('Rejected "{}" becasue it\'s based on a single author\'s tweets'.format(msg['message'].encode('utf-8')))
+    return True
+
+  # reject tweets where 80% or more can be made from a single tweet
+  tweet_symbol_count = {}
+  for element in msg["sequence"]:
+    for tw_id in element['labels']:
+      if tw_id in tweet_symbol_count:
+        tweet_symbol_count[tw_id] += 1
+      else:
+        tweet_symbol_count[tw_id] = 1
+  threshold = len(msg["sequence"]) * 0.8
+  for tw_id, count in tweet_symbol_count.items():
+    if count >= threshold:
+      logging.debug('Rejecting "{}" because 80% or more is derived from tweet_id {}'.format(msg['message'].encode('utf-8'), tw_id))
+      return True
+
+  return False
 
 def usage():
   sys.stderr.write('%s [-d] [-C] [-j] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
@@ -117,6 +150,11 @@ if __name__ == '__main__':
     sys.stderr.write('%d\n' % (str(e),))
     usage()
     sys.exit(1)
+
+  if DEBUG:
+    logging.basicConfig(level=logging.DEBUG)
+  else:
+    logging.basicConfig(level=logging.INFO)
 
   if not args:
     sys.stderr.write('Please specify a tweet database\n')
