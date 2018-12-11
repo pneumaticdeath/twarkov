@@ -122,7 +122,7 @@ class TwarkovChain(MarkovChain):
   def UpdateFromStatuses(self,statuses):
     tweet_count = 0
     for tweet in statuses:
-      while hasattr(tweet, 'retweeted_status'):
+      while hasattr(tweet, 'retweeted_status') and tweet.retweeted_status:
         tweet = tweet.retweeted_status
       if tweet not in self._tweetstore:
         if self._ProcTweet(tweet) > 0:

@@ -55,9 +55,14 @@ def print_candidate_tweet(chain):
     msg = chain.GetMessage(wotd, max_len=300, depth=d, labelset=ls)
     print "%d-tuple message (using %d tweets):" % (d, len(ls))
     print msg
+    source_tweets = 0
     for tw_id in ls:
       tw = chain._tweetstore[tw_id]
       print "  %s: %s" % (tw.user.screen_name, textof(tw))
+      source_tweets += 1
+      if source_tweets >= 10:
+          print "  <and so on....>"
+          break
 
 def print_candidate_tweets(chain, depth=None, words=None):
   ls = simple_set()
