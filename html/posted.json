@@ -3,6 +3,166 @@
     "sequence": [
       {
         "labels": [
+          "1069367708117073920"
+        ], 
+        "element": "Hey"
+      }, 
+      {
+        "labels": [
+          "1069367708117073920"
+        ], 
+        "element": "\u2066@CNN\u2069,"
+      }, 
+      {
+        "labels": [
+          "1069367708117073920"
+        ], 
+        "element": "next"
+      }, 
+      {
+        "labels": [
+          "1069367708117073920"
+        ], 
+        "element": "time"
+      }, 
+      {
+        "labels": [
+          "1069634765710475264"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1069634765710475264"
+        ], 
+        "element": "need"
+      }, 
+      {
+        "labels": [
+          "1069634765710475264"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1069634765710475264"
+        ], 
+        "element": "system"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "make"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "sure"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "everyone"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "has"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "romaine"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "lettuce"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "let"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "chips"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "fall"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "where"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "they"
+      }, 
+      {
+        "labels": [
+          "1065672103075037184"
+        ], 
+        "element": "may"
+      }
+    ], 
+    "tweets": {
+      "1069367708117073920": {
+        "username": "Sheril_", 
+        "text": "Hey \u2066@CNN\u2069, next time you need a #food expert, consider a scientist or food safety expert or pretty much anyone who doesn\u2019t promote pseudoscience please. https://t.co/LZiAo0WDeu"
+      }, 
+      "1069634765710475264": {
+        "username": "wquist", 
+        "text": "@tonystubblebine @bryce \ud83d\udcafon the math and probably how a 1v1 games would look for either, but (and I think this continues to apply to remote work), since it\u2019s a team game and you need a system to make sure the looks they get are quality. Systems always take longer to adapt."
+      }, 
+      "1065672103075037184": {
+        "username": "theyearofelan", 
+        "text": "Banning romaine lettuce won\u2019t work. People who want romaine lettuce will still find ways to get it. The only way to be safe is to make sure everyone has romaine lettuce and let the chips fall where they may"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Hey \u2066@CNN\u2069, next time you need a system to make sure everyone has romaine lettuce and let the chips fall where they may"
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1067827594433835008"
         ], 
         "element": "I"
