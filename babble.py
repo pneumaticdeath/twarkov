@@ -76,10 +76,10 @@ def babble_json(chain, count=1):
   messages = []
   for x in range(count):
 
-    msg = chain.GetAnnotatedMessage()
+    msg = chain.GetAnnotatedMessage(max_len=1024)
     while reject_annotated(msg):
       # logging.info('Rejected "{}"'.format(msg['message'].encode('utf-8')))
-      msg = chain.GetAnnotatedMessage()
+      msg = chain.GetAnnotatedMessage(max_len=1024)
 
     messages.append(msg)
 

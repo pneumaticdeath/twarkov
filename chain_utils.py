@@ -7,11 +7,13 @@ import random
 import time
 import urllib2
 from markov.limited_types import simple_set
+from twarkov import follow_retweets
 from tweetdb import textof
 
 
 def check_updates(chain):
   fr_tweets = chain.GetApi().GetHomeTimeline()
+  fr_tweets = [follow_retweets(t) for t in fr_tweets]
   new_tweets = filter(lambda t: t not in chain._tweetstore and t not in chain._rejectstore, fr_tweets)
   unfamiliar = filter(lambda t: not chain.isFamiliar(t), new_tweets)
   print "%d new tweets from friends found, and %d were used" % (

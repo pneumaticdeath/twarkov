@@ -12,6 +12,11 @@ class ApiMissing(Exception):
   """Raised when there is no default Api instnace, and none is specified in the arguments"""
   pass 
 
+def follow_retweets(tweet):
+  while hasattr(tweet, 'retweeted_status') and tweet.retweeted_status:
+    tweet = tweet.retweeted_status
+  return tweet
+
 class TwarkovChain(MarkovChain):
 
   """A MarkovChain based word babbler for twitter.
@@ -39,7 +44,7 @@ class TwarkovChain(MarkovChain):
       smaller than that.
   """
 
-  DEFAULT_TWEETSTORE_FILE = 'tweetstore'
+  DEFAULT_TWEETSTORE_FILE = 'tweetstore.sqlite'
 
   # This is a marker for the beginning of a chain. It should not exist in
   # the regular input domain.
@@ -122,8 +127,7 @@ class TwarkovChain(MarkovChain):
   def UpdateFromStatuses(self,statuses):
     tweet_count = 0
     for tweet in statuses:
-      while hasattr(tweet, 'retweeted_status') and tweet.retweeted_status:
-        tweet = tweet.retweeted_status
+      tweet = follow_retweets(tweet)
       if tweet not in self._tweetstore:
         if self._ProcTweet(tweet) > 0:
           self._tweetstore.add(tweet)
