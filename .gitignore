@@ -1,2 +1,4 @@
 *.pyc
 stores
+char*.json
+word*.json
