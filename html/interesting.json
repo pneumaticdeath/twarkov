@@ -3,6 +3,232 @@
     "sequence": [
       {
         "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "Watching"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "most"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "surreal"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "sad"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "48"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "Hours"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "episode"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "right"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "now."
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "mean"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "it's"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "like"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "Wes"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "Anderson"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "movie"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "if"
+      }, 
+      {
+        "labels": [
+          "1066539631645204482"
+        ], 
+        "element": "Anderson"
+      }, 
+      {
+        "labels": [
+          "1070053149233168384"
+        ], 
+        "element": "was"
+      }, 
+      {
+        "labels": [
+          "1067544446139596808", 
+          "1069003156351270912", 
+          "1070053149233168384"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "middle"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "huge"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "pack"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "shelter"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "dogs:"
+      }, 
+      {
+        "labels": [
+          "1069003156351270912"
+        ], 
+        "element": "https://t.co/nUyxsZAJlk"
+      }
+    ], 
+    "tweets": {
+      "1067544446139596808": {
+        "username": "OHDems", 
+        "text": "After Ohio taxpayers helped to rescue the auto industry, General Motors is now planning to shutter its Lordstown plant, right in the middle of the holiday season. \n\nAdd your name -- tell GM to save Lordstown and protect Ohio jobs:\n\nhttps://t.co/CSLuBykzLb https://t.co/4HczEiGdHA"
+      }, 
+      "1069003156351270912": {
+        "username": "ggreenwald", 
+        "text": "One of the most-watched TV programs in Japan is in Brazil to film a documentary about our shelter. Watch the hilarity of trying to be interviewed in the middle of a huge pack of shelter dogs: https://t.co/nUyxsZAJlk"
+      }, 
+      "1066539631645204482": {
+        "username": "SteveHuff", 
+        "text": "Watching the most surreal and sad 48 Hours episode right now. I mean it's like a Wes Anderson movie if Anderson was in the midst of a Lars von Trier-style episode of depression and also smoking meth nightly."
+      }, 
+      "1070053149233168384": {
+        "username": "MREJohnston", 
+        "text": "I saw Zoe perform in San Francisco when she was in the middle of dealing with horrific life events.  She was amazing even then.  Go see her; you won't regret it. Zoe's music is a perfect way to experience a moment of perfect beauty. https://t.co/6WGRhPtgvu"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Watching the most surreal and sad 48 Hours episode right now. I mean it's like a Wes Anderson movie if Anderson was in the middle of a huge pack of shelter dogs: https://t.co/nUyxsZAJlk"
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1071135711775068164"
         ], 
         "element": "Who"
