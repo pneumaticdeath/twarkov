@@ -3,6 +3,238 @@
     "sequence": [
       {
         "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "dunno."
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "Anyway."
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "I\u2019m"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "so"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "grateful"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "he"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "shared"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "some"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "his"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "complicated"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "secrets"
+      }, 
+      {
+        "labels": [
+          "1070142045140877312"
+        ], 
+        "element": "with"
+      }, 
+      {
+        "labels": [
+          "1070142045140877312"
+        ], 
+        "element": "us"
+      }, 
+      {
+        "labels": [
+          "1070142045140877312"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1070142045140877312"
+        ], 
+        "element": "\"https://t.co/3YnF3iGucu\""
+      }, 
+      {
+        "labels": [
+          "1070142045140877312"
+        ], 
+        "element": "Rudy,"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "if"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "don't"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "see"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "me"
+      }, 
+      {
+        "labels": [
+          "1069575775802802178"
+        ], 
+        "element": "here"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "while."
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "Gosh,"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "really"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "miss"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1066956399752572928"
+        ], 
+        "element": "guy."
+      }
+    ], 
+    "tweets": {
+      "1070142045140877312": {
+        "username": "hoverbird", 
+        "text": "Hey @tw and @bcherry, remember all the debates we had about the linkifying regex around edge cases like this? Rudy is super upset with us for \"https://t.co/3YnF3iGucu\"\n\nRudy, if you don't like it this behavior, put spaces after periods or send patches to https://t.co/CLidW5MrZX https://t.co/btByWkExYF"
+      }, 
+      "1066956399752572928": {
+        "username": "hotdogsladies", 
+        "text": "I dunno. Anyway.\n\nI\u2019m just so grateful that he shared some of his complicated secrets with us for a while.\n\nGosh, I really miss that guy."
+      }, 
+      "1069575775802802178": {
+        "username": "scalzi", 
+        "text": "Today's the day I turned on my nanny software to block social media before noon, so don't be surprised if you don't see me here for a while. I forgot when it's supposed to turn on, though, I think it's sometime soo"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "I dunno. Anyway. I\u2019m just so grateful that he shared some of his complicated secrets with us for \"https://t.co/3YnF3iGucu\" Rudy, if you don't see me here for a while. Gosh, I really miss that guy."
+  },
+  {
+    "sequence": [
+      {
+        "labels": [
           "1067085857734184960"
         ], 
         "element": "V"
