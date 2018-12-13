@@ -3,6 +3,492 @@
     "sequence": [
       {
         "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "An"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "air"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "leak"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "at"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "International"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "Space"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "Station"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1072450185136099329"
+        ], 
+        "element": "August"
+      }, 
+      {
+        "labels": [
+          "1072878946969104384"
+        ], 
+        "element": "appears"
+      }, 
+      {
+        "labels": [
+          "1072878946969104384"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1072878946969104384"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1072878946969104384"
+        ], 
+        "element": "woken"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "up"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "priority"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "list"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "upcoming"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "National"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "Prayer"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "Breakfast"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "will"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "prayers"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1072438543778242560"
+        ], 
+        "element": "bacon."
+      }
+    ], 
+    "tweets": {
+      "1072450185136099329": {
+        "username": "nytimesworld", 
+        "text": "An air leak at the International Space Station in August appears to have been caused by a deliberately drilled hole. Russian astronauts go on a spacewalk on Tuesday to look for answers to the key questions: Who? When? How? Why? https://t.co/It371YzrNR"
+      }, 
+      "1072878946969104384": {
+        "username": "AndyBCampbell", 
+        "text": "The Proud Boys' ousted lawyer Jason Lee Van Dyke hit reply-all on a mass email this morning and, uh, he appears to have woken up on the wrong side of the bed https://t.co/sJFlI2JjcS"
+      }, 
+      "1072438543778242560": {
+        "username": "paulapoundstone", 
+        "text": "First up on the priority list for  the upcoming National Prayer Breakfast will be prayers for more bacon."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "An air leak at the International Space Station in August appears to have woken up on the priority list for the upcoming National Prayer Breakfast will be prayers for more bacon."
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "\u201cThis"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "politically"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "damaging,"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "but"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "I\u2019m"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "sure"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "how"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "legally"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "damaging"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "is,\u201d"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "Dershowitz"
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "said."
+      }, 
+      {
+        "labels": [
+          "1068331922521300992"
+        ], 
+        "element": "\u201cThis"
+      }, 
+      {
+        "labels": [
+          "1066894058776289280"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1066894058776289280"
+        ], 
+        "element": "all"
+      }, 
+      {
+        "labels": [
+          "1066894058776289280"
+        ], 
+        "element": "about"
+      }, 
+      {
+        "labels": [
+          "1066894058776289280"
+        ], 
+        "element": "#education"
+      }, 
+      {
+        "labels": [
+          "1066894058776289280"
+        ], 
+        "element": "students"
+      }, 
+      {
+        "labels": [
+          "1072246750642167813"
+        ], 
+        "element": "need"
+      }, 
+      {
+        "labels": [
+          "1072246750642167813"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1072246750642167813"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1072246750642167813"
+        ], 
+        "element": "shot"
+      }, 
+      {
+        "labels": [
+          "1072246750642167813"
+        ], 
+        "element": "into"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "sun"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "come"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "out."
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "Everything"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "feels"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "awful"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "feels"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "worse"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "when"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "it\u2019s"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "dragged"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "into"
+      }, 
+      {
+        "labels": [
+          "1067050352141316098"
+        ], 
+        "element": "light."
+      }
+    ], 
+    "tweets": {
+      "1067050352141316098": {
+        "username": "jaydelgreco", 
+        "text": "Like wading gradually into the abyss, then abruptly finding yourself in the ball pit at Chuck E Cheese, sometimes the only way for it to get darker, is for the sun to come out. Everything that feels awful feels worse when it\u2019s dragged into light."
+      }, 
+      "1068331922521300992": {
+        "username": "jdickerson", 
+        "text": "\u201cThis is politically damaging, but I\u2019m not sure how legally damaging it is,\u201d Dershowitz said. \u201cThis is all about questionable political behavior. It\u2019s a good reason for people voting against Trump. But I don\u2019t see a crime yet.\u201d https://t.co/0Cnh9sUrAX"
+      }, 
+      "1072246750642167813": {
+        "username": "Lileks", 
+        "text": "In the last hour, in two venues, I have heard 2 different covers of \u201cSimply Having a Wonderful Christmas Time,\u201d which raises the  number of recordings that need to be shot into the sun to 3"
+      }, 
+      "1066894058776289280": {
+        "username": "glitzypursegirl", 
+        "text": "It is all about #education students need to be taught how to be #selfmotivated to care about their personal #character growth and #empathy we need generations to have life skills not trophies https://t.co/6nPaHdLXUv"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "\u201cThis is politically damaging, but I\u2019m not sure how legally damaging it is,\u201d Dershowitz said. \u201cThis is all about #education students need to be shot into the sun to come out. Everything that feels awful feels worse when it\u2019s dragged into light."
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1072675655752474624"
         ], 
         "element": "T"
