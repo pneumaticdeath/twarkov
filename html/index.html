@@ -1,5 +1,5 @@
 <html>
-  <head><title>Twarkov Exploer</title>
+  <head><title>Twarkov Explorer</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
   </head>
   <style>
@@ -24,9 +24,9 @@ table tr:nth-child(even) {
       </form>
       <form>
         Select a message: 
-        <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='clearTweetIds()'></select>
+        <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='newMessage(msg)'></select>
       </form>
-      <h2>Using depth {{msg.depth}}</h2>
+      {{message_status}}
       <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)">{{e.element + msg.seperator}}</span></h3>
       <table>
         <tr ng-repeat="id in tweet_ids">
@@ -41,17 +41,33 @@ app.controller('twarkovCtrl', function($scope, $http) {
   $http.get('index.json').then( function (response) {
     $scope.files = response.data;
   });
+
   $scope.tweet_ids = [];
   $scope.messages = [];
+  $scope.message_status = "";
+
   $scope.clearTweetIds = function () {
     $scope.tweet_ids = [];
   };
+
+  $scope.newMessage = function(message) {
+    $scope.clearTweetIds();
+    var element_type = "words";
+    if (message.seperator == "") {
+      element_type = "characters";
+    } 
+    var num_tweets = Object.keys(message.tweets).length;
+    $scope.message_status = "Message derived using chains of " + message.depth + " " + element_type + " from " + num_tweets + " tweets.";
+  };
+
   $scope.maketweets = function(tweetlist) {
     $scope.tweet_ids = tweetlist;
   };
+  
   $scope.pickFile = function (filename) {
     $scope.clearTweetIds();
     $scope.messages = [];
+    $scope.message_status = "";
     $http.get(filename).then( function (response) {
       $scope.messages = response.data;
     });
