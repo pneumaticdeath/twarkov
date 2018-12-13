@@ -28,6 +28,7 @@ table tr:nth-child(even) {
       </form>
       {{message_status}}
       <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)">{{e.element + msg.seperator}}</span></h3>
+      {{ chain_status }}
       <table>
         <tr ng-repeat="id in tweet_ids">
           <td>{{ msg.tweets[id].username }}</td>
@@ -43,10 +44,12 @@ app.controller('twarkovCtrl', function($scope, $http) {
   });
 
   $scope.tweet_ids = [];
+  $scope.chain_status = "";
   $scope.messages = [];
   $scope.message_status = "";
 
   $scope.clearTweetIds = function () {
+    $scope.chain_status = "";
     $scope.tweet_ids = [];
   };
 
@@ -62,6 +65,11 @@ app.controller('twarkovCtrl', function($scope, $http) {
 
   $scope.maketweets = function(tweetlist) {
     $scope.tweet_ids = tweetlist;
+    var plural = "";
+    if ( tweetlist.length > 1 ) {
+      plural = "s";
+    }
+    $scope.chain_status = "This subchain appears in " + tweetlist.length + " tweet" + plural
   };
   
   $scope.pickFile = function (filename) {
