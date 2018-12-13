@@ -3,6 +3,210 @@
     "sequence": [
       {
         "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "The"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "transparency"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "AOC"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "bringing"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "this"
+      }, 
+      {
+        "labels": [
+          "1069008107249041412"
+        ], 
+        "element": "process"
+      }, 
+      {
+        "labels": [
+          "1072238091337900032"
+        ], 
+        "element": "feels"
+      }, 
+      {
+        "labels": [
+          "1071926918201647105"
+        ], 
+        "element": "like"
+      }, 
+      {
+        "labels": [
+          "1071926918201647105"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1071926918201647105"
+        ], 
+        "element": "good"
+      }, 
+      {
+        "labels": [
+          "1071926918201647105"
+        ], 
+        "element": "deal."
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "If"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "were"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "her"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "attorney,"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "I'd"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "use"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "this"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1072648762848411649"
+        ], 
+        "element": "argue"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "this"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "metaphor,"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "somehow"
+      }, 
+      {
+        "labels": [
+          "1072879523774021634"
+        ], 
+        "element": "https://t.co/2VffKj0fAa"
+      }
+    ], 
+    "tweets": {
+      "1069008107249041412": {
+        "username": "dzalcman", 
+        "text": "The transparency AOC is bringing to this process feels like a small revolution. https://t.co/X7qfQBgiOY"
+      }, 
+      "1072648762848411649": {
+        "username": "HeerJeet", 
+        "text": "If I were her attorney, I'd use this to argue this is a political arrest. https://t.co/yExl8Sch45"
+      }, 
+      "1072879523774021634": {
+        "username": "tomtomorrow", 
+        "text": "this is a metaphor, somehow https://t.co/2VffKj0fAa"
+      }, 
+      "1071926918201647105": {
+        "username": "neilhimself", 
+        "text": "I was 26, and was willing to not own the copyright in exchange for being published by DC. It seemed to me like a good deal. If I were 26 again I might do it again. https://t.co/ReYpjQTadZ"
+      }, 
+      "1072238091337900032": {
+        "username": "tonystubblebine", 
+        "text": "This feels like a good test of the depth of ones practice. Are you able to recognize your own pride and sense of belonging inside your practice? \"My practice is the most special!\"\n\nHow someone else practices meditation does not prevent your way of practicing. This isn't zero sum."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "The transparency AOC is bringing to this process feels like a good deal. If I were her attorney, I'd use this to argue this is a metaphor, somehow https://t.co/2VffKj0fAa"
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1071136259307900933"
         ], 
         "element": "Announcement:"
