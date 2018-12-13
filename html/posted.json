@@ -3,6 +3,216 @@
     "sequence": [
       {
         "labels": [
+          "1071136259307900933"
+        ], 
+        "element": "Announcement:"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641", 
+          "1072175337692413954"
+        ], 
+        "element": "Today"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641", 
+          "1072175337692413954"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641", 
+          "1072175337692413954"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641", 
+          "1072175337692413954"
+        ], 
+        "element": "LAST"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "DAY"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "order"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "my"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "discounted"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "Custom"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "Drawn"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "Holiday"
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "Cards."
+      }, 
+      {
+        "labels": [
+          "1066715634753392641"
+        ], 
+        "element": "They\u2019ll"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "go"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "up"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "biggest"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "guy"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "yard"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "offer"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "pay"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "him"
+      }, 
+      {
+        "labels": [
+          "1073017111088386048"
+        ], 
+        "element": "$130,000"
+      }
+    ], 
+    "tweets": {
+      "1072175337692413954": {
+        "username": "scalzi", 
+        "text": "ATTENTION HUMANS:\n\nToday is the LAST DAY to order from @JayandMarys to get signed, personalized books from me for the holidays (US only). Get the details here and if you want to get those books, hurry!\n\nhttps://t.co/2mxDxi9Ule"
+      }, 
+      "1071136259307900933": {
+        "username": "scalzi", 
+        "text": "Announcement: Today is the last day I am allowing myself to feel smug and petty about the thing I am currently feeling smug and petty about so right now I AM JUST WALLOWING IN IT BABY"
+      }, 
+      "1066715634753392641": {
+        "username": "LenPeralta", 
+        "text": "Today is the LAST DAY to order my discounted Custom Drawn Holiday Cards. They\u2019ll go up to regular price, so this is your best time to order! https://t.co/ZIBevnYCat Also, I\u2019m available for commissions too! Thanks in advance!"
+      }, 
+      "1073017111088386048": {
+        "username": "StephenAtHome", 
+        "text": "Advice for Michael Cohen: On first day of prison, go up to the biggest guy in the yard and offer to pay him $130,000"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Announcement: Today is the LAST DAY to order my discounted Custom Drawn Holiday Cards. They\u2019ll go up to the biggest guy in the yard and offer to pay him $130,000"
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1069367708117073920"
         ], 
         "element": "Hey"
