@@ -3,6 +3,108 @@
     "sequence": [
       {
         "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "Handy"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "tip:"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "You"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "can"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "make"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "an"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "improvised"
+      }, 
+      {
+        "labels": [
+          "1072225771853361152"
+        ], 
+        "element": "bidet"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": "out"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": "coffin.)"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": "https://t.co/wSJIjZ6VdN"
+      }, 
+      {
+        "labels": [
+          "1074048367460782081"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1072225771853361152": {
+        "username": "scalzi", 
+        "text": "Handy tip: You can make an improvised bidet out of a Tupperware bowl and a ladle. https://t.co/ICRpApYI5A"
+      }, 
+      "1074048367460782081": {
+        "username": "neilhimself", 
+        "text": "A terrific documentary. (Not a lot of people know I was a Horror Host once. I even came out of a coffin.) https://t.co/wSJIjZ6VdN"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Handy tip: You can make an improvised bidet out of a coffin.) https://t.co/wSJIjZ6VdN  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1069008107249041412"
         ], 
         "element": "The"
