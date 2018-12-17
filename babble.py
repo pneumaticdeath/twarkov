@@ -8,11 +8,14 @@ from twarkov import CharChain, TwarkovChain
 import getopt
 import json
 import logging
+import os
 import random
 import sys
 import time
 import tweetdb
 from markov.limited_types import simple_set as set
+from markov.tree import MarkovChain
+from markov.prefix_sql import MarkovPrefixSql
 
 # DEBUG = True
 DEBUG = False
@@ -117,7 +120,7 @@ def reject_annotated(msg):
   return False
 
 def usage():
-  sys.stderr.write('%s [-d] [-C] [-j] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
+  sys.stderr.write('%s [-d] [-C] [-j] [-s] [-a] [-c count] [-m max_depth] tweetdb\n' % (sys.argv[0]))
 
 if __name__ == '__main__':
   count = 1
@@ -125,9 +128,10 @@ if __name__ == '__main__':
   charchain = False
   attribution = False
   dump_json = False
+  sql_prefix_store = False
 
   try:
-    opts, args = getopt.getopt(sys.argv[1:], 'dCjac:m:')
+    opts, args = getopt.getopt(sys.argv[1:], 'dCjsac:m:')
 
     for opt,value in opts:
       if opt == '-d':
@@ -142,6 +146,8 @@ if __name__ == '__main__':
         dump_json = True
       elif opt == '-a':
         attribution = True
+      elif opt == '-s':
+        sql_prefix_store = True
       else:
         sys.stderr.write('Unknown option %d\n' % (opt,))
         usage()
@@ -167,10 +173,17 @@ if __name__ == '__main__':
     else:
       max_tuple = 4
 
+  kwargs = {'max': max_tuple, 'storefile': args[0]}
+  if sql_prefix_store:
+    base_store = '.'.join(os.path.basename(args[0]).split('.')[:-1])
+    kwargs['dbfile'] = 'chains/{}_{}{}.sqlite'.format(base_store, 'char' if charchain else 'word', max_tuple)
+    kwargs['chain_factory'] = MarkovPrefixSql
+    kwargs['seperator'] = '' if charchain else ' '
+
   if charchain:
-    chain = CharChain(max=max_tuple, storefile=args[0])
+    chain = CharChain(**kwargs)
   else:
-    chain = TwarkovChain(max=max_tuple, storefile=args[0])
+    chain = TwarkovChain(**kwargs)
 
   if dump_json:
     print(babble_json(chain, count))
