@@ -199,7 +199,7 @@ class TwarkovChain(object):
     if seed is not None:
       seed_seq = tuple(self._Tokenize(seed))
     else:
-      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,),labelset=labelset)[1:]
+      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,),labelset=labelset)[-(self._max-1):]
 
     try:
       gen = self._chain.GetRandomSequence(seed=seed_seq, depth=depth, labelset=labelset)
@@ -233,7 +233,7 @@ class TwarkovChain(object):
     if seed:
       seed_seq = self._Tokenize(seed)
     else:
-      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,))[1:]
+      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,))[-(self._max-1):]
 
     try:
       gen = self._chain.GetAnnotatedSequence(seed=seed_seq, depth=depth)
