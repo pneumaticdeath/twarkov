@@ -52,9 +52,9 @@ class TwarkovChain(object):
 
   def __init__(self,api=None, 
                storefile=DEFAULT_TWEETSTORE_FILE,
-               autopopulate=True, familiar=None, rejectfile=None, **kwargs):
+               autopopulate=True, familiar=None, rejectfile=None, chain_factory=MarkovChain, **kwargs):
 
-    self._chain = MarkovChain(**kwargs)
+    self._chain = chain_factory(**kwargs)
     self._api=api
     self._familiar=familiar
     self.tweetcount = 0
