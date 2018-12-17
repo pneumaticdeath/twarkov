@@ -16,8 +16,8 @@ def check_updates(chain):
   fr_tweets = [follow_retweets(t) for t in fr_tweets]
   new_tweets = filter(lambda t: t not in chain._tweetstore and t not in chain._rejectstore, fr_tweets)
   unfamiliar = filter(lambda t: not chain.isFamiliar(t), new_tweets)
-  print "%d new tweets from friends found, and %d were used" % (
-     len(new_tweets), chain.UpdateFromStatuses(new_tweets))
+  print "%d tweets received, %d new tweets from friends found, and %d were used" % (
+     len(fr_tweets), len(new_tweets), chain.UpdateFromStatuses(new_tweets))
   if unfamiliar:
     print "These tweets looked unfamiliar:"
     print_tweets(unfamiliar)
@@ -82,7 +82,7 @@ def print_candidate_tweets(chain, depth=None, words=None):
 
 def do_all(chain):
   check_updates(chain)
-  print_stats(chain)
+  # print_stats(chain)
   print_candidate_tweet(chain)
 
 def continuous_update(chain, normal_sleep_time=600, fail_sleep_time=600, error_sleep_time=900):

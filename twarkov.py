@@ -17,7 +17,7 @@ def follow_retweets(tweet):
     tweet = tweet.retweeted_status
   return tweet
 
-class TwarkovChain(MarkovChain):
+class TwarkovChain(object):
 
   """A MarkovChain based word babbler for twitter.
 
@@ -54,7 +54,7 @@ class TwarkovChain(MarkovChain):
                storefile=DEFAULT_TWEETSTORE_FILE,
                autopopulate=True, familiar=None, rejectfile=None, **kwargs):
 
-    MarkovChain.__init__(self, **kwargs)
+    self._chain = MarkovChain(**kwargs)
     self._api=api
     self._familiar=familiar
     self.tweetcount = 0
@@ -142,7 +142,7 @@ class TwarkovChain(MarkovChain):
       # we use a beginning of sequence marker, it should not exist in the
       # regular input domain
       words = [self.__class__._begin_marker, ] + list(words)
-      self.Update(words, label=tweet.id)
+      self._chain.Update(words, label=tweet.id)
       return 1
     else:
       return 0
@@ -199,10 +199,10 @@ class TwarkovChain(MarkovChain):
     if seed is not None:
       seed_seq = tuple(self._Tokenize(seed))
     else:
-      seed_seq = self.GetRandomTuple((self.__class__._begin_marker,),labelset=labelset)[1:]
+      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,),labelset=labelset)[1:]
 
     try:
-      gen = self.GetRandomSequence(seed=seed_seq, depth=depth, labelset=labelset)
+      gen = self._chain.GetRandomSequence(seed=seed_seq, depth=depth, labelset=labelset)
     except KeyError:
       return ''
 
@@ -233,10 +233,10 @@ class TwarkovChain(MarkovChain):
     if seed:
       seed_seq = self._Tokenize(seed)
     else:
-      seed_seq = self.GetRandomTuple((self.__class__._begin_marker,))[1:]
+      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,))[1:]
 
     try:
-      gen = self.GetAnnotatedSequence(seed=seed_seq, depth=depth)
+      gen = self._chain.GetAnnotatedSequence(seed=seed_seq, depth=depth)
 
       retseq = []
       length = 0
@@ -268,6 +268,19 @@ class TwarkovChain(MarkovChain):
       retval['error'] = str(e)
 
     return retval
+
+  @property
+  def _max(self):
+    return self._chain._max
+
+  @property
+  def _min(self):
+    return self._chain._min
+
+  @property
+  def count(self):
+    return self._chain.count
+
 
 class CharChain(TwarkovChain):
   # a two character string shouldn't be in the input domain, since we normally only deal in single characters.
