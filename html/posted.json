@@ -3,6 +3,209 @@
     "sequence": [
       {
         "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "This"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "story"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "about"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "mercy,"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "agency,"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "fear"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992"
+        ], 
+        "element": "failure"
+      }, 
+      {
+        "labels": [
+          "1073660365894868992", 
+          "1070359768034881536"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "age"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "Trump,"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1070359768034881536"
+        ], 
+        "element": "sounds"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "like"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "they"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "being"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "measured"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "by"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "impossible"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "standards."
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "see"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "you."
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": "xoxo"
+      }, 
+      {
+        "labels": [
+          "1069999031265517569"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1069999031265517569": {
+        "username": "msshanitarenee", 
+        "text": "I just read something that rings so true for me. \n\nIt stated \" we expect women to work like they don't have children, and raise children as if they don't work.\"\n\nShout out to all the working moms who feel like they are being measured by impossible standards. I see you. xoxo"
+      }, 
+      "1073660365894868992": {
+        "username": "gaileyfrey", 
+        "text": "This story is about mercy, agency, and fear of failure in the age of augmented reality. \n\nhttps://t.co/KlOSawN6EC"
+      }, 
+      "1070359768034881536": {
+        "username": "brianklaas", 
+        "text": "Every time someone delivers a eulogy for an American statesman in the age of Trump, it sounds like they are attacking President Trump\u2014not because they are, but because they are praising a sense of basic decency, a trait that is so obviously absent from the current president."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "This story is about mercy, agency, and fear of failure in the age of Trump, it sounds like they are being measured by impossible standards. I see you. xoxo  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1072225771853361152"
         ], 
         "element": "Handy"
