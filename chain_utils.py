@@ -18,6 +18,7 @@ def check_updates(chain):
   unfamiliar = filter(lambda t: not chain.isFamiliar(t), new_tweets)
   print "%d tweets received, %d new tweets from friends found, and %d were used" % (
      len(fr_tweets), len(new_tweets), chain.UpdateFromStatuses(new_tweets))
+  print_tweets(new_tweets)
   if unfamiliar:
     print "These tweets looked unfamiliar:"
     print_tweets(unfamiliar)
@@ -83,7 +84,7 @@ def print_candidate_tweets(chain, depth=None, words=None):
 def do_all(chain):
   check_updates(chain)
   # print_stats(chain)
-  print_candidate_tweet(chain)
+  # print_candidate_tweet(chain)
 
 def continuous_update(chain, normal_sleep_time=600, fail_sleep_time=600, error_sleep_time=900):
   err_count = 0
