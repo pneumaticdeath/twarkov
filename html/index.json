@@ -2,6 +2,7 @@
     {"name" : "word4.json", "desc" : "Random word chains of depth 4"},
     {"name" : "word3.json", "desc" : "Random word chains of depth 3"},
     {"name" : "char15.json", "desc" : "Random character chains of depth 15"},
+    {"name" : "char18.json", "desc" : "Random character chains of depth 18"},
     {"name" : "interesting.json", "desc" : "Interesting but not tweet worthy"},
     {"name" : "posted.json", "desc" : "Messages Tweeted"}
 ]

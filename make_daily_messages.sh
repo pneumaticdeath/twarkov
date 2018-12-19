@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "18 character chains:"
+time ./babble.py -s -d -C -m 18 -c 20 -j stores/sharon.sqlite > html/char18.json
+
 echo "15 character chains:"
 time ./babble.py -s -d -C -m 15 -c 20 -j stores/sharon.sqlite > html/char15.json
 
