@@ -3,6 +3,206 @@
     "sequence": [
       {
         "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "Sorry,"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "but"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "intend"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "change"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "twice"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "before"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1076196209231040513"
+        ], 
+        "element": "die"
+      }, 
+      {
+        "labels": [
+          "1067267748646944769", 
+          "1068616425906925568", 
+          "1076196209231040513"
+        ], 
+        "element": "It's"
+      }, 
+      {
+        "labels": [
+          "1075573783627411457"
+        ], 
+        "element": "going"
+      }, 
+      {
+        "labels": [
+          "1075573783627411457"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1075573783627411457"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1075573783627411457"
+        ], 
+        "element": "nice"
+      }, 
+      {
+        "labels": [
+          "1075573783627411457"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "explain"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "what"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "en"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "banc"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "means"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "again"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": "https://t.co/EZcypzB0Hg"
+      }, 
+      {
+        "labels": [
+          "1075834598158782464"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1067267748646944769": {
+        "username": "GreatDismal", 
+        "text": "It's going to be about trying to re-terraform earth, folks. https://t.co/5TxaLT3QIu"
+      }, 
+      "1068616425906925568": {
+        "username": "wes_chu", 
+        "text": "Looks like the announcement for the sooper sekrit project went out! It's going to be a lot of dead but not enough guns! https://t.co/QiXfilZ5bQ"
+      }, 
+      "1075834598158782464": {
+        "username": "Popehat", 
+        "text": "oh christ i'm going to have to explain what en banc means again\n\nhttps://t.co/EZcypzB0Hg"
+      }, 
+      "1075573783627411457": {
+        "username": "DefenseRudy", 
+        "text": "This betrayal and abandonment by @AnnCoulter hurts a bit.   But we will endure.  And honestly it's going to be nice not to have to keep a coffin in the Lincoln Bedroom."
+      }, 
+      "1076196209231040513": {
+        "username": "JohnCleese", 
+        "text": "Sorry, but I intend to change twice more before I die\n\nIt's going to be a bit of a rush, but...here goes ! https://t.co/BDwMPaqjHj"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Sorry, but I intend to change twice more before I die It's going to be nice not to have to explain what en banc means again https://t.co/EZcypzB0Hg  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1073660365894868992"
         ], 
         "element": "This"
