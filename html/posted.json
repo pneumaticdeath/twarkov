@@ -3,6 +3,199 @@
     "sequence": [
       {
         "labels": [
+          "1075098652161511425"
+        ], 
+        "element": "Waiting"
+      }, 
+      {
+        "labels": [
+          "1075098652161511425"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1075098652161511425"
+        ], 
+        "element": "your"
+      }, 
+      {
+        "labels": [
+          "1075098652161511425"
+        ], 
+        "element": "kid"
+      }, 
+      {
+        "labels": [
+          "1075098652161511425", 
+          "1076355620624683008", 
+          "1075104837128339456", 
+          "1067278700624953347", 
+          "1083062661602930688", 
+          "1067838895318913030", 
+          "1072268080879816704"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1067278700624953347", 
+          "1072268080879816704"
+        ], 
+        "element": "get"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "out"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "this"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "deep"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "crisis."
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "If"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "she"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "doesn\u2019t,"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "parliament"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "will"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "ultimately"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "do"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "so,"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "forcing"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "her"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "resignation,"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": "IMO"
+      }, 
+      {
+        "labels": [
+          "1081561343822577666"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1075098652161511425": {
+        "username": "SteveHuff", 
+        "text": "Waiting for your kid to get out of surgery is like 7 years in dad hours."
+      }, 
+      "1076355620624683008": {
+        "username": "gnat", 
+        "text": "We almost didn't get Unix because Bell Labs wanted their computer scientists to get out of writing useful things. Like, programming isn't computer science. \"Why did you persist?\" \"It's what I do.\"  Staunch. https://t.co/9aGN37bDL9"
+      }, 
+      "1081561343822577666": {
+        "username": "Andrew_Adonis", 
+        "text": "\u2018What cannot be avoided must be welcomed\u2019 - a brilliant Chinese proverb\n\nIt\u2019s why Mrs May should herself call a people\u2019s vote this week. It\u2019s her only way out of this deep crisis. If she doesn\u2019t, parliament will ultimately do so, forcing her resignation, IMO"
+      }, 
+      "1083062661602930688": {
+        "username": "gunnergoz", 
+        "text": "@jwomack @GreatDismal In a lot of places, honorary law enforcement badges are given to political favorites, big campaign donors especially. The badges are a handy way to get out of speeding tickets."
+      }, 
+      "1067278700624953347": {
+        "username": "Andrew_Adonis", 
+        "text": "Here is plan to get out of this crisis in 4 steps:\n1. May\u2019s deal rejected 11 Dec\n2. \u2018Confidence\u2019 vote 12 Dec for an election, which if it fails &amp; no renegotiation possible leads days later to \n3. Commons majority for people\u2019s vote with option to Stay\n4. Referendum next May"
+      }, 
+      "1075104837128339456": {
+        "username": "SteveHuff", 
+        "text": "Haven't waited around for anyone to get out of surgery in decades but it's a timelessly unpleasant experience."
+      }, 
+      "1067838895318913030": {
+        "username": "mulegirl", 
+        "text": "I've been a pain in the ass from day one. ymmv\n\nThe perhaps more productive answer is you have more power than you think. Be very clear about what you want to get out of any job. Maybe step one is quietly observing how things work and step two is working for change. https://t.co/8yNYpW1Kpe"
+      }, 
+      "1072268080879816704": {
+        "username": "BBCNewsnight", 
+        "text": "\u201cI genuinely, honestly do not know how we are going to get out of this unholy, appalling, embarrassing mess, other than a People\u2019s Vote\u201d - Conservative MP Anna Soubry says this government is letting us all down\n\n@maitlis | @Anna_Soubry | #newsnight https://t.co/Jagcoddh9M"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Waiting for your kid to get out of this deep crisis. If she doesn\u2019t, parliament will ultimately do so, forcing her resignation, IMO  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1076196209231040513"
         ], 
         "element": "Sorry,"
