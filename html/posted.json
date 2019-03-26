@@ -3,6 +3,183 @@
     "sequence": [
       {
         "labels": [
+          "1092787536089567233"
+        ], 
+        "element": "\"Networking\""
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "about"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "being"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "(or"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "looking)"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "smarter"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "than"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "in-house"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "team."
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "It\u2019s"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "about"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "amplifying"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "their"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "knowledge"
+      }, 
+      {
+        "labels": [
+          "1083416407411351552"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1102240107866730497", 
+          "1083416407411351552"
+        ], 
+        "element": "setting"
+      }, 
+      {
+        "labels": [
+          "1102240107866730497"
+        ], 
+        "element": "them"
+      }, 
+      {
+        "labels": [
+          "1086223594059976706"
+        ], 
+        "element": "up"
+      }, 
+      {
+        "labels": [
+          "1086223594059976706"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1086223594059976706"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1086223594059976706"
+        ], 
+        "element": "false."
+      }, 
+      {
+        "labels": [
+          "1086223594059976706"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1086223594059976706": {
+        "username": "ggreenwald", 
+        "text": "Six weeks ago, we drowned in \"whoa-if-true-this-is-the-ballgame\" hysteria over the Guardian's \"reporting\" about Manafort's secret visits to Assange. These Buzzfeed reporters are way more reliable than @lukeharding1968 but *so many* of these anonymous leaks end up to be false."
+      }, 
+      "1102240107866730497": {
+        "username": "natashenka", 
+        "text": "4) Also consider giving loved ones immediate access to accounts that aren't that sensitive, for example, setting them up to be able to pay the phone bill if necessary. This might even come in handy for other reasons!"
+      }, 
+      "1092787536089567233": {
+        "username": "heyjenbartel", 
+        "text": "\"Networking\" is not about angling to get something out of people. It's not about social climbing or collecting business cards. It's about fostering strong relationships over time. If the only person you care about helping is yourself, you're not going to be very successful at it."
+      }, 
+      "1083416407411351552": {
+        "username": "kimgoodwin", 
+        "text": "Consulting is not about being (or looking) smarter than the in-house team. It\u2019s about amplifying their knowledge and setting them up to do great work."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "\"Networking\" is not about being (or looking) smarter than the in-house team. It\u2019s about amplifying their knowledge and setting them up to be false.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1075098652161511425"
         ], 
         "element": "Waiting"
