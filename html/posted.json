@@ -3,6 +3,145 @@
     "sequence": [
       {
         "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "Pro"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "tip:"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "The"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "remarks"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "literally"
+      }, 
+      {
+        "labels": [
+          "1085235430151327745"
+        ], 
+        "element": "racist"
+      }, 
+      {
+        "labels": [
+          "1087394537415327746", 
+          "1083388813941051393"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1087394537415327746"
+        ], 
+        "element": "should"
+      }, 
+      {
+        "labels": [
+          "1073230387953000448"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1073230387953000448"
+        ], 
+        "element": "treated"
+      }, 
+      {
+        "labels": [
+          "1073230387953000448"
+        ], 
+        "element": "as"
+      }, 
+      {
+        "labels": [
+          "1073230387953000448"
+        ], 
+        "element": "such"
+      }, 
+      {
+        "labels": [
+          "1087746806337814541"
+        ], 
+        "element": "under"
+      }, 
+      {
+        "labels": [
+          "1087746806337814541"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1087746806337814541"
+        ], 
+        "element": "law."
+      }, 
+      {
+        "labels": [
+          "1087746806337814541"
+        ], 
+        "element": "#SCOTUS"
+      }, 
+      {
+        "labels": [
+          "1087746806337814541"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1087394537415327746": {
+        "username": "cmsandefur", 
+        "text": "RT @CatoInstitute: If feminism is \u201cthe radical notion that women are people,\u201d libertarian feminism is the even more radical notion that women (and men) are individuals and should be treated as such. https://t.co/d7iEb80aqc"
+      }, 
+      "1087746806337814541": {
+        "username": "eugenegu", 
+        "text": "Trump\u2019s transgender military ban is not based on science or medicine but on pure bigotry. Shocked and heartbroken that the Supreme Court of the United States would rule in the favor of homophobia and hatred over evidence, due process, and equal protection under the law. #SCOTUS"
+      }, 
+      "1083388813941051393": {
+        "username": "jeffchu", 
+        "text": "Imagine being so set against LGBTQ equality that you try to exclude us from a bill against *lynching.* Imagine doing this despite your own website claiming \"every person is created in the image of God and should be treated w/ dignity.\" Imagine doing this in Jesus's name. I can't. https://t.co/M7MxeHNlwz"
+      }, 
+      "1073230387953000448": {
+        "username": "ggreenwald", 
+        "text": "Spain set to implement new law declaring non-human animals are not \"objects\" or \"property\" but \"sentient beings\" that must be treated as such under the law. Humanity's treatment of animals is morally and politically unsustainable: just a matter of time https://t.co/paNYHREOyC"
+      }, 
+      "1085235430151327745": {
+        "username": "scalzi", 
+        "text": "Pro tip: The remarks are literally racist and should be identified as such by any reputable news organization. https://t.co/InwEUtNra3"
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "Pro tip: The remarks are literally racist and should be treated as such under the law. #SCOTUS  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1092787536089567233"
         ], 
         "element": "\"Networking\""
