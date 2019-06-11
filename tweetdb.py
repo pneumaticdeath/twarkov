@@ -178,7 +178,10 @@ if __name__ == "__main__":
 
   if len(sys.argv) > 1:
     dbfile = sys.argv[1]
-    ts = TweetStore(dbfile)
+    if '.sqlite' in dbfile:
+      ts = TweetStoreSQL(dbfile)
+    else:
+      ts = TweetStore(dbfile)
     if len(sys.argv) > 2:
       # outfile = codecs.open(sys.argv[2],'w','utf-8')
       outfile = open(sys.argv[2],'wb')
