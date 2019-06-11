@@ -148,7 +148,8 @@ class TweetStoreSQL(object):
     def values(self):
         results = self.cur.execute("""SELECT tweet_id, tweet, username
             FROM tweets;""")
-        return [self.PseudoTweet(r) for r in results]
+        for r in results:
+            yield self.PseudoTweet(r)
 
     def items(self):
         return [(t.id, t) for t in self.values()]
