@@ -3,6 +3,188 @@
     "sequence": [
       {
         "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "LA"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "clearly"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "much"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "cooler"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "than"
+      }, 
+      {
+        "labels": [
+          "1108887263130247168"
+        ], 
+        "element": "SF."
+      }, 
+      {
+        "labels": [
+          "1121421395903361025"
+        ], 
+        "element": "There"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "fake"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "account,"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "definitely"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1132088359826935808"
+        ], 
+        "element": "me."
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "guess"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "I'll"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "diet"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "exercise"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "some"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "more,"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "damn"
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": "it."
+      }, 
+      {
+        "labels": [
+          "1085601912735629313"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1132088359826935808": {
+        "username": "neilhimself", 
+        "text": "This is a fake account, definitely not me. I guess I'll warn @instagram https://t.co/emZiPqx77c"
+      }, 
+      "1121421395903361025": {
+        "username": "DPJHodges", 
+        "text": "There is a fake news story doing the rounds saying Laura Murray has been officially appointed Labour head of complaints. It is not true. It can\u2019t be true. Even Corbyn wouldn\u2019t be that blatant."
+      }, 
+      "1085601912735629313": {
+        "username": "scalzi", 
+        "text": "Two things are true:\n\n1. I hate hate hate dieting and exercising;\n\n2. I'm down four pounds since new year's.\n\nSoooooo I guess I'll diet and exercise some more, damn it."
+      }, 
+      "1108887263130247168": {
+        "username": "mulegirl", 
+        "text": "LA is clearly much cooler than SF. There is a 24-hour taco stand next to my hotel."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "LA is clearly much cooler than SF. There is a fake account, definitely not me. I guess I'll diet and exercise some more, damn it.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1082469139820748805"
         ], 
         "element": "Sometimes"
