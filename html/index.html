@@ -84,12 +84,14 @@ app.controller('twarkovCtrl', function($scope, $http) {
   $scope.bgcolor = function(tweetlist) {  
     var hash = 0;
     for (var i=0; i < tweetlist.length; i++) {
-      hash = ((hash << 5) - hash) + tweetlist[i];
-      hash |= 0;
+      for (var j=0; j < tweetlist[i].length; j++) {
+        hash = ((hash << 5) - hash) + tweetlist[i].charCodeAt(j);
+        hash |= 0;
+      }
     }
-    var red = 255 - (hash & 0x7F);
-    var green = 255 - ((hash >> 7) & 0x7F);
-    var blue = 255 - ((hash >> 14) & 0x7F);
+    var red = 255 - (hash & 0x3F);
+    var green = 255 - ((hash >> 6) & 0x3F);
+    var blue = 255 - ((hash >> 12) & 0x3F);
     return "#" + red.toString(16) + green.toString(16) + blue.toString(16);
   }
 });
