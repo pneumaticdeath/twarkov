@@ -23,11 +23,14 @@ table tr:nth-child(even) {
         <select ng-model="file" ng-options="cat.desc for cat in files" ng-change='pickFile(file.name)'></select>
       </form>
       <form>
+        highlighting intesity: <input type="range" ng-model="numBits" min=5 max=7>
+      </form>
+      <form>
         Select a message: 
         <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='newMessage(msg)'></select>
       </form>
       {{message_status}}
-      <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)" ng-style="{ 'background-color':  '{{bgcolor(e.labels)}}' }">{{e.element + msg.seperator}}</span></h3>
+      <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)" ng-style="{ 'background-color':  '{{bgcolor(e.labels, numBits)}}' }">{{e.element + msg.seperator}}</span></h3>
       {{ chain_status }}
       <table>
         <tr ng-repeat="id in tweet_ids">
@@ -47,6 +50,7 @@ app.controller('twarkovCtrl', function($scope, $http) {
   $scope.chain_status = "";
   $scope.messages = [];
   $scope.message_status = "";
+  $scope.numBits = 6;
 
   $scope.clearTweetIds = function () {
     $scope.chain_status = "";
@@ -81,7 +85,7 @@ app.controller('twarkovCtrl', function($scope, $http) {
     });
   };
 
-  $scope.bgcolor = function(tweetlist) {  
+  $scope.bgcolor = function(tweetlist, bits) {
     var hash = 0;
     for (var i=0; i < tweetlist.length; i++) {
       for (var j=0; j < tweetlist[i].length; j++) {
@@ -89,9 +93,9 @@ app.controller('twarkovCtrl', function($scope, $http) {
         hash |= 0;
       }
     }
-    var red = 255 - (hash & 0x3F);
-    var green = 255 - ((hash >> 6) & 0x3F);
-    var blue = 255 - ((hash >> 12) & 0x3F);
+    var red = 255 - (hash & (1<<bits - 1) );
+    var green = 255 - ((hash >> bits) & (1<<bits - 1) );
+    var blue = 255 - ((hash >> (2 * bits) ) & (1<<bits - 1) );
     return "#" + red.toString(16) + green.toString(16) + blue.toString(16);
   }
 });
