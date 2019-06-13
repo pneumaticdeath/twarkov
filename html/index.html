@@ -27,7 +27,7 @@ table tr:nth-child(even) {
         <select ng-model="msg" ng-options='m.message.substr(0,20) for m in messages' ng-change='newMessage(msg)'></select>
       </form>
       {{message_status}}
-      <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)">{{e.element + msg.seperator}}</span></h3>
+      <h3><span ng-repeat="e in msg.sequence" ng-mouseover="maketweets(e.labels)" ng-style="{ 'background-color':  '{{bgcolor(e.labels)}}' }">{{e.element + msg.seperator}}</span></h3>
       {{ chain_status }}
       <table>
         <tr ng-repeat="id in tweet_ids">
@@ -80,6 +80,18 @@ app.controller('twarkovCtrl', function($scope, $http) {
       $scope.messages = response.data;
     });
   };
+
+  $scope.bgcolor = function(tweetlist) {  
+    var hash = 0;
+    for (var i=0; i < tweetlist.length; i++) {
+      hash = ((hash << 5) - hash) + tweetlist[i];
+      hash |= 0;
+    }
+    var red = 255 - (hash & 0x7F);
+    var green = 255 - ((hash >> 7) & 0x7F);
+    var blue = 255 - ((hash >> 14) & 0x7F);
+    return "#" + red.toString(16) + green.toString(16) + blue.toString(16);
+  }
 });
     </script>
   </body>
