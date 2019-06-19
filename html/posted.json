@@ -3,6 +3,155 @@
     "sequence": [
       {
         "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "was"
+      }, 
+      {
+        "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "definitely"
+      }, 
+      {
+        "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "interested"
+      }, 
+      {
+        "labels": [
+          "1118750238506766336"
+        ], 
+        "element": "when"
+      }, 
+      {
+        "labels": [
+          "1088912382716305408", 
+          "1118750238506766336"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "thought"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "were"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "being"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "daring"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "by"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "putting"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "sriracha"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "your"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "avocado"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "toast"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": "https://t.co/yNKhrZCxeN"
+      }, 
+      {
+        "labels": [
+          "1076627023387193344"
+        ], 
+        "element": " "
+      }
+    ], 
+    "tweets": {
+      "1076627023387193344": {
+        "username": "stevesilberman", 
+        "text": "And you thought you were being daring by putting sriracha on your avocado toast  https://t.co/yNKhrZCxeN"
+      }, 
+      "1088912382716305408": {
+        "username": "elliott_downing", 
+        "text": "Fantastic rehearsal, Donald! If you can maintain this same tone in your finished thought, while obviously filling in the connecting ideas, you'll have a very compelling\u2014 This IS the finished thought? Oh. I thought you were just yelling out some notes you'd scribbled on your hand. https://t.co/UtKceUKffS"
+      }, 
+      "1118750238506766336": {
+        "username": "gnat", 
+        "text": "Oh, \"canap\u00e9s\". \n\nI was definitely more interested when I thought you were inviting me to \"pre-concert drinks and cannabis\", Auckland University."
+      }
+    }, 
+    "depth": 4, 
+    "seed": null, 
+    "seperator": " ", 
+    "message": "I was definitely more interested when I thought you were being daring by putting sriracha on your avocado toast https://t.co/yNKhrZCxeN  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1108887263130247168"
         ], 
         "element": "LA"
