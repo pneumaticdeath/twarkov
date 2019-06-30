@@ -9,9 +9,22 @@ import twarkov
 CONFIG_PATH = '~/.twarkov'
 
 class User(object):
-    def __init__(self, api, **kwargs):
-        self.api = api
-        self.chain = twarkov.TwarkovChain(api=api, **kwargs)
+    def __init__(self, config):
+        self._config = config
+        self._api = None
+        self._chain = None
+
+    @property
+    def api(self):
+        if self._api is None:
+            self._api = twitter.Api(**self._config['twitter'])
+        return self._api
+
+    @property
+    def chain(self):
+        if self._chain is None:
+            self._chain = twarkov.TwarkovChain(api=self.api, **self._config['chain'])
+        return self._chain
 
 def load(username):
     configfile = os.path.join(CONFIG_PATH, 'users.json')
@@ -19,5 +32,4 @@ def load(username):
     if username not in conf:
         raise ValueError('Can\'t find user "{}"'.format(username))
 
-    twitter_api = twitter.Api(**conf[username]['twitter'])
-    return User(api=twitter_api, **conf[username]['chain'])
+    return User(conf[username])

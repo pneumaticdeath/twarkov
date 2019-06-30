@@ -11,8 +11,8 @@ if __name__ == "__main__":
   # TODO(mitch): replace ghetto argument parsing
   sharon = users.load('sharon')
   if len(sys.argv) > 1 and sys.argv[1] == '-c':
-    continuous_update(sharon.chain)
+    continuous_update(sharon)
   else:
-    do_all(sharon.chain)
+    check_updates(sharon)
 
 

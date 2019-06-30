@@ -152,8 +152,8 @@ if __name__ == '__main__':
         sys.stderr.write('Unknown option %d\n' % (opt,))
         usage()
         sys.exit(1)
-  except getopt.GetoptError, e:
-    sys.stderr.write('%d\n' % (str(e),))
+  except getopt.GetoptError as e:
+    sys.stderr.write('{}\n'.format(e))
     usage()
     sys.exit(1)
 
@@ -180,14 +180,18 @@ if __name__ == '__main__':
     kwargs['chain_factory'] = MarkovPrefixSql
     kwargs['seperator'] = '' if charchain else ' '
 
+  logging.debug('kwargs for chain are {}'.format(repr( kwargs)))
+
   if charchain:
+    logging.debug('Creating character chain of length {}'.format(max_tuple))
     chain = CharChain(**kwargs)
   else:
+    logging.debug('Creating word chain of legnth {}'.format(max_tuple))
     chain = TwarkovChain(**kwargs)
+
+  logging.debug('Chain created')
 
   if dump_json:
     print(babble_json(chain, count))
   else:
     babble(chain, count=count, attribution=attribution)
-
-
