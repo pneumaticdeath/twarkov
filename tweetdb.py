@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import anydbm
+import config
 import cPickle
 import logging
 import sqlite3
@@ -18,7 +19,7 @@ class TweetStore(object):
   def __init__(self,filename=None):
     if filename:
       self._in_memory=False
-      self._store = anydbm.open(filename,'c')
+      self._store = anydbm.open(config.getpath(filename),'c')
     else:
       self._in_memory=True
       self._store = {}
@@ -96,7 +97,7 @@ class TweetStoreSQL(object):
         self.init_db()
 
     def init_db(self):
-        self.conn = sqlite3.connect(self.filename)
+        self.conn = sqlite3.connect(config.get_path(self.filename))
         self.cur = self.conn.cursor()
         self.cur.execute('PRAGMA journal_mode=wal')
         self.cur.execute('''CREATE TABLE IF NOT EXISTS tweets(

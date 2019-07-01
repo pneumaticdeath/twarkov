@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 
+import config
 from twarkov import CharChain, TwarkovChain
 # from exp_twarkov import CharChain, TwarkovChain
 # from chain_utils import candidate_words.
@@ -176,7 +177,7 @@ if __name__ == '__main__':
   kwargs = {'max': max_tuple, 'storefile': args[0]}
   if sql_prefix_store:
     base_store = '.'.join(os.path.basename(args[0]).split('.')[:-1])
-    kwargs['dbfile'] = 'chains/{}_{}{}.sqlite'.format(base_store, 'char' if charchain else 'word', max_tuple)
+    kwargs['dbfile'] = config.get_path('chains/{}_{}{}.sqlite'.format(base_store, 'char' if charchain else 'word', max_tuple))
     kwargs['chain_factory'] = MarkovPrefixSql
     kwargs['seperator'] = '' if charchain else ' '
 

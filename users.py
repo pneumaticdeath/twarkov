@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 
+import config
 import json
 import os
 import twitter
 import twarkov
 import tweetdb
 
-
-CONFIG_PATH = '~/.twarkov'
 
 class User(object):
     def __init__(self, config):
@@ -38,8 +37,7 @@ class User(object):
         return self._store
 
 def load(username):
-    configfile = os.path.join(CONFIG_PATH, 'users.json')
-    conf = json.loads(open(os.path.expanduser(configfile), 'r').read())
+    conf = config.get_json('users.json')
     if username not in conf:
         raise ValueError('Can\'t find user "{}"'.format(username))
 
