@@ -30,10 +30,7 @@ class User(object):
     @property
     def tweetstore(self):
         if self._store is None:
-            if '.sqlite' in self._config['tweetstore']:
-                self._store = tweetdb.TweetStoreSQL(self._config['tweetstore'])
-            else:
-                self._store = tweetdb.TweetStore(self._config['tweetstore'])
+            self._store = tweetdb.TweetStore(self._config['tweetstore'])
         return self._store
 
 def load(username):

@@ -6,7 +6,7 @@ __author__ = "Mitch Patenaude (patenaude@gmail.com)"
 
 from markov.tree import MarkovChain 
 import twitter
-from tweetdb import TweetStore, TweetStoreSQL, textof
+from tweetdb import TweetStore, textof
 
 class ApiMissing(Exception): 
   """Raised when there is no default Api instnace, and none is specified in the arguments"""
@@ -58,10 +58,7 @@ class TwarkovChain(object):
     self._api=api
     self._familiar=familiar
     self.tweetcount = 0
-    if storefile and '.sqlite' in storefile:
-      self._tweetstore = TweetStoreSQL(storefile)
-    else:
-      self._tweetstore = TweetStore(storefile)
+    self._tweetstore = TweetStore(storefile)
     self._rejectstore = TweetStore(rejectfile)
 
     #populate the chain from the tweetstore
