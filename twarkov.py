@@ -56,7 +56,7 @@ class TwarkovChain(object):
                storefile=DEFAULT_TWEETSTORE_FILE,
                autopopulate=True, familiar=None, rejectfile=None, chain_factory=markov.tree.MarkovChain, **kwargs):
 
-    if type(chain_factory) is str:
+    if type(chain_factory) in [str, unicode]:
       if chain_factory == 'sql':
         chain_factory = markov.prefix_sql.MarkovPrefixSql
 
