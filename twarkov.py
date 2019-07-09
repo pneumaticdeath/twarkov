@@ -4,7 +4,9 @@
 
 __author__ = "Mitch Patenaude (patenaude@gmail.com)"
 
-from markov.tree import MarkovChain 
+import config
+import markov
+import os
 import twitter
 from tweetdb import TweetStore, textof
 
@@ -44,7 +46,7 @@ class TwarkovChain(object):
       smaller than that.
   """
 
-  DEFAULT_TWEETSTORE_FILE = 'tweetstore.sqlite'
+  DEFAULT_TWEETSTORE_FILE = 'stores/tweetstore.sqlite'
 
   # This is a marker for the beginning of a chain. It should not exist in
   # the regular input domain.
@@ -52,8 +54,32 @@ class TwarkovChain(object):
 
   def __init__(self,api=None, 
                storefile=DEFAULT_TWEETSTORE_FILE,
-               autopopulate=True, familiar=None, rejectfile=None, chain_factory=MarkovChain, **kwargs):
+               autopopulate=True, familiar=None, rejectfile=None, chain_factory=markov.tree.MarkovChain, **kwargs):
 
+    if type(chain_factory) is str:
+      if chain_factory == 'sql':
+        chain_factory = markov.prefix_sql.MarkovPrefixSql
+
+        if ( 'separator' not in kwargs or kwargs['separator'] is None ):
+          kwargs['separator'] = ' '
+
+        if kwargs['separator'] == ' ':
+          chain_type = 'word'
+        elif kwargs['separator'] == '':
+          chain_type = 'char'
+        else:
+          chain_type = 'other'
+
+        if ( 'dbfile' not in kwargs or kwargs['dbfile'] is None ) and storefile:
+          base_store = '.'.join(os.path.basename(storefile).split('.')[:-1])
+          kwargs['dbfile'] = config.get_path('chains/{}_{}{}.sqlite'
+                                             .format(base_store,
+                                                     chain_type,
+                                                     kwargs['max']))
+      elif chain_factory == 'memory_tree':
+        chain_factory = markov.tree.MarkovChain
+      else:
+        raise ValueError('unknown chain_factory type "{}"'.format(chain_factory))
     self._chain = chain_factory(**kwargs)
     self._api=api
     self._familiar=familiar
@@ -211,7 +237,7 @@ class TwarkovChain(object):
       # if we fell through, msg might be too long
       if len(msg) > max_len:
         # Need to look starting at max_len+1 becuase there might
-        # be a seperator there, and if so, that's the one we want.
+        # be a separator there, and if so, that's the one we want.
         rightmost_trunc_pos = msg.rfind(trunc_char, 0, max_len+1)
         if rightmost_trunc_pos > 0:
           msg = msg[0:rightmost_trunc_pos]
@@ -225,7 +251,7 @@ class TwarkovChain(object):
     if depth is None:
       depth = self._max
 
-    retval = {'seperator': sep, 'depth': depth, 'seed': seed}
+    retval = {'separator': sep, 'depth': depth, 'seed': seed}
 
     if seed:
       seed_seq = self._Tokenize(seed)

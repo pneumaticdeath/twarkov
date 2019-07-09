@@ -176,10 +176,8 @@ if __name__ == '__main__':
 
   kwargs = {'max': max_tuple, 'storefile': args[0]}
   if sql_prefix_store:
-    base_store = '.'.join(os.path.basename(args[0]).split('.')[:-1])
-    kwargs['dbfile'] = config.get_path('chains/{}_{}{}.sqlite'.format(base_store, 'char' if charchain else 'word', max_tuple))
-    kwargs['chain_factory'] = MarkovPrefixSql
-    kwargs['seperator'] = '' if charchain else ' '
+    kwargs['chain_factory'] = 'sql'
+    kwargs['separator'] = '' if charchain else ' '
 
   logging.debug('kwargs for chain are {}'.format(repr( kwargs)))
 
