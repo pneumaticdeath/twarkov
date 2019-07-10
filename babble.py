@@ -78,15 +78,17 @@ def babble(chain, count=200, depth=None, attribution=False):
 
 def babble_json(chain, count=1):
   messages = []
+  rejected_count = 0
   for x in range(count):
 
     msg = chain.GetAnnotatedMessage(max_len=1024)
     while reject_annotated(msg):
-      # logging.info('Rejected "{}"'.format(msg['message'].encode('utf-8')))
+      rejected_count += 1
       msg = chain.GetAnnotatedMessage(max_len=1024)
 
     messages.append(msg)
 
+  logging.info('Rejected {} possible tweets'.format(rejected_count))
   return json.dumps(messages, indent=2)
 
 def reject_annotated(msg):
