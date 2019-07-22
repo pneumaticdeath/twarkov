@@ -42,18 +42,13 @@ def continuous_update(user, normal_sleep_time=600, fail_sleep_time=600, error_sl
         sleep_time=fail_sleep_time
       except KeyboardInterrupt as e:
         raise e
-      except IOError, e:
+      except Exception as e:
         err_count += 1
-        print "%s: got %s exception type: %s" \
-               % (time.asctime(), e.__class__.__name__, e)
-        sleep_time=error_sleep_time
-      except ValueError as e:
-        err_count += 1
+        print("{}: got {} exception type: {}".format(time.asctime(), e.__class__.__name__, e))
         if err_count > 5:
           raise e
         else:
           sleep_time=error_sleep_time*err_count
-          print "%s: JSON error?, sleeping for %d: %s " % (time.asctime(), sleep_time, e)
       print "%s: Sleeping for %d minutes (%d seconds)" \
             % (time.asctime(), (sleep_time+30)/60, sleep_time)
       time.sleep(sleep_time)
