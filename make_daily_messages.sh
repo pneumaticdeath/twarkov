@@ -15,3 +15,5 @@ time ./babble.py -s -d -m 4 -c 20 -j stores/sharon.sqlite > html/word4.json
 # echo "3 word chains:"
 # time ./babble.py -s -d -m 3 -c 20 -j stores/sharon.sqlite > html/word3.json
 
+echo "Syncing to website"
+rsync -av html/* patenaude@sharonmarkov.net:sharonmarkov.net/twarkov/.
