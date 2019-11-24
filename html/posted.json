@@ -3,6 +3,178 @@
     "sequence": [
       {
         "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "What"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "truly"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "makes"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "our"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "country"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "great"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "its"
+      }, 
+      {
+        "labels": [
+          "1152303775236919296"
+        ], 
+        "element": "diversity."
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "I\u2019ve"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "seen"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "people"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "with"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "less"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "power"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "will"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "get"
+      }, 
+      {
+        "labels": [
+          "1113277344087597057"
+        ], 
+        "element": "punished"
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": "Texas."
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": "https://t.co/ZvV2VlncpX"
+      }, 
+      {
+        "labels": [
+          "1077005218506858496"
+        ], 
+        "element": " "
+      }
+    ], 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1152303775236919296": {
+        "username": "MichelleObama", 
+        "text": "What truly makes our country great is its diversity. I\u2019ve seen that beauty in so many ways over the years. Whether we are born here or seek refuge here, there\u2019s a place for us all. We must remember it\u2019s not my America or your America. It\u2019s our America."
+      }, 
+      "1077005218506858496": {
+        "username": "AymanM", 
+        "text": "\u201cThe right of Americans to engage in boycott activities is a sacrosanct American tradition\u201d - @gadeirabbas, the lawyer representing Bahia Amawi tells me. Bahia refused to sign an oath promising not to boycott #Israel but then lost her job for it in Texas. https://t.co/ZvV2VlncpX"
+      }, 
+      "1113277344087597057": {
+        "username": "mulegirl", 
+        "text": "If you don\u2019t do the work to create a truly collaborative environment first, \u201ccandor\u201d will just be another way to bully and reinforce existing power dynamics.\n\nI am all about directness, but I\u2019ve seen that people with less power will get punished for it in hierarchical situations."
+      }
+    }, 
+    "message": "What truly makes our country great is its diversity. I\u2019ve seen that people with less power will get punished for it in Texas. https://t.co/ZvV2VlncpX  "
+  },
+  {
+    "sequence": [
+      {
+        "labels": [
           "1101223826757582848"
         ], 
         "element": "I"
