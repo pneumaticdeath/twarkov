@@ -86,6 +86,7 @@ def babble_json(chain, count=1):
       rejected_count += 1
       msg = chain.GetAnnotatedMessage(max_len=1024)
 
+    msg['date'] = time.asctime()
     messages.append(msg)
 
   logging.info('Rejected {} possible tweets'.format(rejected_count))

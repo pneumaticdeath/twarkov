@@ -61,7 +61,11 @@ app.controller('twarkovCtrl', function($scope, $http) {
         element_type = "characters";
       } 
       var num_tweets = Object.keys(message.tweets).length;
-      $scope.message_status = "Message derived using chains of " + message.depth + " " + element_type + " from " + num_tweets + " tweets.";
+      if (message.date) {
+        $scope.message_status = "Message genetated on " + message.date + " using chains of " + message.depth + " " + element_type + " from " + num_tweets + " tweets.";
+      } else {
+        $scope.message_status = "Message derived using chains of " + message.depth + " " + element_type + " from " + num_tweets + " tweets.";
+      }
     } else {
       $scope.message_status = '';
     }
