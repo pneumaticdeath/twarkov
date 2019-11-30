@@ -3,6 +3,272 @@
     "sequence": [
       {
         "labels": [
+          "1145373746452152320"
+        ], 
+        "element": "3"
+      }, 
+      {
+        "labels": [
+          "1145373746452152320"
+        ], 
+        "element": "Pedestrians"
+      }, 
+      {
+        "labels": [
+          "1096046630959280130", 
+          "1188719814833065986", 
+          "1111095690447540225"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1096046630959280130"
+        ], 
+        "element": "been"
+      }, 
+      {
+        "labels": [
+          "1096046630959280130"
+        ], 
+        "element": "killed"
+      }, 
+      {
+        "labels": [
+          "1096046630959280130"
+        ], 
+        "element": "by"
+      }, 
+      {
+        "labels": [
+          "1096046630959280130"
+        ], 
+        "element": "guns."
+      }, 
+      {
+        "labels": [
+          "1160582981037297665", 
+          "1096046630959280130", 
+          "1151545901418262529"
+        ], 
+        "element": "It\u2019s"
+      }, 
+      {
+        "labels": [
+          "1171872306118975489", 
+          "1151545901418262529"
+        ], 
+        "element": "long"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "past"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "time"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "regulate"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "Facebook."
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": "https://t.co/Jar7Y7MORl"
+      }, 
+      {
+        "labels": [
+          "1184909397186797571"
+        ], 
+        "element": " "
+      }
+    ], 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1145373746452152320": {
+        "username": "MitchBenn", 
+        "text": "3 Pedestrians have been killed there for my own safety??!!??\n\nThey must have been incredibly dangerous pedestrians https://t.co/sHX8RzU093"
+      }, 
+      "1160582981037297665": {
+        "username": "CoryBooker", 
+        "text": "It\u2019s long past time we pass meaningful common sense gun safety that makes our children and our families safe. https://t.co/QeERRHldN7"
+      }, 
+      "1184909397186797571": {
+        "username": "nkjemisin", 
+        "text": "We have laws re false advertising. We have laws defending free speech *so long as it doesn't incite harm.* We have laws preventing the government from using our airwaves for propaganda or suppression of ideas. FB is working with the GOP.\n\nLong past time to regulate Facebook. https://t.co/Jar7Y7MORl"
+      }, 
+      "1188719814833065986": {
+        "username": "berniespofforth", 
+        "text": "There is no sport in killing a magnificent creature with a gun. 1.2 million animals have been killed by people in the name of trophy hunting, approx 70,000 animals each year\n\nRetweet if you think there should be a global ban on trophy hunting.\n\nhttps://t.co/nvqSmJinv1"
+      }, 
+      "1171872306118975489": {
+        "username": "Hatewatch", 
+        "text": "Arlington County, VA took a step forward by renaming a highway that was originally named for the president of the Confederacy by the #Virginia General Assembly nearly a century ago. \n\n#WhoseHeritage did that stretch of road represent?\n\nIt's long past time to #LoseTheLostCause. https://t.co/IRpysXUwuP"
+      }, 
+      "1151545901418262529": {
+        "username": "SenSchumer", 
+        "text": "RT if you agree: It\u2019s long past time to act on climate. https://t.co/shsf6AUlh3"
+      }, 
+      "1111095690447540225": {
+        "username": "CoryBooker", 
+        "text": "FACT: More Americans have been killed by guns than have lost their lives in all of our nation\u2019s wars combined.\n\nEnough thoughts and prayers. We need action. #BookerTownHall https://t.co/sSdczdhmhF"
+      }, 
+      "1096046630959280130": {
+        "username": "CoryBooker", 
+        "text": "One year ago, the #Parkland community lost 17 lives in a heinous act of gun violence. #SinceParkland 1,200 kids in America have been killed by guns. It\u2019s long past time we unite in common purpose and pass common sense gun safety legislation to prevent more tragedy."
+      }
+    }, 
+    "message": "3 Pedestrians have been killed by guns. It\u2019s long past time to regulate Facebook. https://t.co/Jar7Y7MORl  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1085301304275202049"
+        ], 
+        "element": "This"
+      }, 
+      {
+        "labels": [
+          "1085301304275202049"
+        ], 
+        "element": "bad"
+      }, 
+      {
+        "labels": [
+          "1085301304275202049"
+        ], 
+        "element": "#Brexit"
+      }, 
+      {
+        "labels": [
+          "1158868349499191296", 
+          "1085301304275202049"
+        ], 
+        "element": "deal"
+      }, 
+      {
+        "labels": [
+          "1172308909060583424"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "million"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "times"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "fun"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "than"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "winery"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "tour."
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": "https://t.co/zKTxdED1h0"
+      }, 
+      {
+        "labels": [
+          "1121797492046041088"
+        ], 
+        "element": " "
+      }
+    ], 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1158868349499191296": {
+        "username": "simondebrux", 
+        "text": "The government is expecting businesses to spend millions on no deal preparations to strengthen its hand with the EU when business is not in favour of Brexit and the PM is still insisting no deal is a million to one chance. It won't be forgiven for this"
+      }, 
+      "1121797492046041088": {
+        "username": "paulapoundstone", 
+        "text": "On Sat. May 18, I'll be telling my little jokes in Santa Rosa, CA at The Luther Burbank Center for the Arts. It'll be about a million times more fun than a winery tour.  https://t.co/zKTxdED1h0"
+      }, 
+      "1085301304275202049": {
+        "username": "SadiqKhan", 
+        "text": "This bad #Brexit deal is a million miles away from what was promised. People didn't vote for fewer jobs, less investment &amp; reduced growth. \n\nTonight's enormous defeat is just more evidence that Article 50 must be withdrawn &amp; the British public given a final say. #BrexitVote https://t.co/lSu1Vepbiy"
+      }, 
+      "1172308909060583424": {
+        "username": "mulegirl", 
+        "text": "Yeah this is a million times better than @jaketapper\u2019s interruptathon. https://t.co/52TcHEYH05"
+      }
+    }, 
+    "message": "This bad #Brexit deal is a million times more fun than a winery tour. https://t.co/zKTxdED1h0  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1082087008032313344"
         ], 
         "element": "A"
