@@ -3,5 +3,6 @@
     {"name" : "char20.json", "desc" : "Daily random character chains of depth 20"},
     {"name" : "char18.json", "desc" : "Daily random character chains of depth 18"},
     {"name" : "interesting.json", "desc" : "Interesting but not tweet worthy"},
-    {"name" : "posted.json", "desc" : "Messages Tweeted"}
+    {"name" : "posted.json", "desc" : "Messages Tweeted"},
+    {"name" : "archive-2019-11-30.json", "desc" : "Archive of interesting messages generated prior to November 30, 2019"}
 ]
