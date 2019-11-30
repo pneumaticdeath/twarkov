@@ -3,6 +3,157 @@
     "sequence": [
       {
         "labels": [
+          "1192187632488472586"
+        ], 
+        "element": "Idk"
+      }, 
+      {
+        "labels": [
+          "1179931639960494080", 
+          "1164255357704777729", 
+          "1165654739650039808"
+        ], 
+        "element": "who"
+      }, 
+      {
+        "labels": [
+          "1116332483165999105"
+        ], 
+        "element": "needs"
+      }, 
+      {
+        "labels": [
+          "1125824876244340737", 
+          "1186669373664190464", 
+          "1077741206820524032"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1150086263388737536"
+        ], 
+        "element": "see"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "movie"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "where"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "Godzilla"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "dropkicks"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "Libertarians"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "into"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": "volcano?"
+      }, 
+      {
+        "labels": [
+          "1178105624892043264"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Sat Nov 30 12:01:22 2019", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1150086263388737536": {
+        "username": "robcorddry", 
+        "text": "I hate the rigmarole of showering, with all the soaping, rinsing, etc. When I see a movie where a prisoner gets stripped and hosed, then hit with a handful of powder I\u2019m like, \u201cWow, that guy didn\u2019t have to do anything.\u201d"
+      }, 
+      "1179931639960494080": {
+        "username": "TheScottCharles", 
+        "text": "I\u2019m not sure who needs to see this but here\u2019s a kitten cleaning a baby chick. https://t.co/2XWDHktb2R"
+      }, 
+      "1125824876244340737": {
+        "username": "jessicaivins", 
+        "text": "\u201cI know people who won\u2019t go invest 2 hours and $15 to see a movie without doing research\u2026\n\nBut there are organizations that will invest 20,000 person hours and several million dollars based on intuition, or whatever data is closest to hand.\u201d\n\n\u2014 @mulegirl\n\nhttps://t.co/O7pBNP6J2O https://t.co/wFHzLP56rg"
+      }, 
+      "1186669373664190464": {
+        "username": "raju", 
+        "text": "I want to see a movie on Eva Sharp, the @Safeway cashier-clerk who began this battle in 2011. \nGuess how much of the $12 million she will get for winning this battle for 30,000 checkout clerks? $14,000. Her lawyers? $4.4 million. \nThe State of California? $5.6 million. https://t.co/H8vr6eLCZq"
+      }, 
+      "1192187632488472586": {
+        "username": "PPFA", 
+        "text": "Idk who needs to hear this but virginity is a made-up social construct, and it has absolutely nothing to do with your hymen."
+      }, 
+      "1077741206820524032": {
+        "username": "SteveHuff", 
+        "text": "The last time I went to see a movie with my brother and sisters, we saw Star Trek: The Motion Picture, which had premiered earlier that month. That still sticks in my mind as the best, but I'm not sure that's due to the quality of the movie. https://t.co/XjCyWQXhcs"
+      }, 
+      "1116332483165999105": {
+        "username": "Indigogirls", 
+        "text": "Lorelei has high TSH levels and needs to see an pediatric endocrinologist. Ella\u2019s post-braces teeth aren\u2019t cooperating and she needs to see a surgeon for a possible frenectomy. CHARLOTTE IS ON NOTICE. NOTHING MORE."
+      }, 
+      "1165654739650039808": {
+        "username": "scalzi", 
+        "text": "I don't know who needs to see this today, but here's a pie chart for you: https://t.co/POqgyA3RAC"
+      }, 
+      "1178105624892043264": {
+        "username": "mulegirl", 
+        "text": "Is there a movie where Godzilla just dropkicks Libertarians into a volcano?"
+      }, 
+      "1164255357704777729": {
+        "username": "scalzi", 
+        "text": "I don't know who needs to see this today, but here's a deeply moody picture of a streetlight. https://t.co/JTQ4dBwtjs"
+      }
+    }, 
+    "message": "Idk who needs to see a movie where Godzilla just dropkicks Libertarians into a volcano?  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1187184456009945088"
         ], 
         "element": "Before"
