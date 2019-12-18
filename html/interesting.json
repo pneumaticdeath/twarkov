@@ -3,6 +3,848 @@
     "sequence": [
       {
         "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "When"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "think"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "\u201cluxury,\u201d"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "think"
+      }, 
+      {
+        "labels": [
+          "1185742343653265409"
+        ], 
+        "element": "\u201cnext"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "airport.\u201d"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "\u201cOh."
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "Then"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "want"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "BART."
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "That"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "relies"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "General"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": "Relativity.\u201d"
+      }, 
+      {
+        "labels": [
+          "1137144084454264832"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Wed Dec 18 14:59:01 2019", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1185742343653265409": {
+        "username": "jbarro", 
+        "text": "When I think \u201cluxury,\u201d I think \u201cnext to the airport.\u201d https://t.co/m5DHzV6Rq9"
+      }, 
+      "1137144084454264832": {
+        "username": "hotdogsladies", 
+        "text": "\u201cWait. What makes one MUNI train inbound and the other one outbound?\u201d\n\n\u201cAre you familiar with the notion of Special Relativity?\u201d\n\n\u201cI just want to go to the airport.\u201d\n\n\u201cOh. Then you want BART. That relies more on General Relativity.\u201d"
+      }
+    }, 
+    "message": "When I think \u201cluxury,\u201d I think \u201cnext to the airport.\u201d \u201cOh. Then you want BART. That relies more on General Relativity.\u201d  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "T"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1091986070391132160"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1175884117965201409"
+        ], 
+        "element": "y"
+      }, 
+      {
+        "labels": [
+          "1175884117965201409"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1175884117965201409"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "b"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "f"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "!"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "f"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "("
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "A"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1158432116893540352"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617", 
+          "1158432116893540352", 
+          "1111673978660126720"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1174090613417025537", 
+          "1068233281554927617"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617", 
+          "1067875461810831360", 
+          "1174090613417025537", 
+          "1136681287387947008", 
+          "1126516882184359936", 
+          "1102725032189575173"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "k"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1068233281554927617"
+        ], 
+        "element": ""
+      }
+    ], 
+    "date": "Wed Dec  4 11:58:32 2019", 
+    "depth": 18, 
+    "seed": null, 
+    "separator": "", 
+    "tweets": {
+      "1158432116893540352": {
+        "username": "neilhimself", 
+        "text": "He's a beautiful cat! I hope he finds a person. (And good luck with the medical treatment.) https://t.co/yHufJ578vV"
+      }, 
+      "1068233281554927617": {
+        "username": "BrianLynch", 
+        "text": "I saw a cow making a wish on a Zoltar machine this weekend, heh, good luck with that, cow"
+      }, 
+      "1067875461810831360": {
+        "username": "TheRickWilson", 
+        "text": "Good luck with that. https://t.co/PxxWd8ejNS"
+      }, 
+      "1091986070391132160": {
+        "username": "joelmeadows1", 
+        "text": "This really is a beautiful edition @neilhimself https://t.co/R8XHTFGSby"
+      }, 
+      "1175884117965201409": {
+        "username": "Protohedgehog", 
+        "text": "I used to say these things too. Used to. And then I realised, hey, it's actually not about me. It's about everyone else. And this is why it's important. Empathy is a beautiful catalyst for change. Thank you, @Snowden. https://t.co/DmtthWG89C"
+      }, 
+      "1174090613417025537": {
+        "username": "ggreenwald", 
+        "text": "After the DOJ announced its repressive lawsuit to seize the proceeds of Snowden's book (good luck with that!), the book propelled its ways onto the Top 10 Best-Seller List on Amazon. https://t.co/CW4UdJDzrG Knowing @Snowden as I do, I'm certain he's duly appreciative https://t.co/z9xVbPrUjC"
+      }, 
+      "1111673978660126720": {
+        "username": "Popehat", 
+        "text": "/2 \nCaiaphas: not, like, in how we run Judea\nJesus: no\nCaiaphas:  that's government\nJesus:  right\nCaiaphas:  render unto Caesar and everything, ha ha \nJesus: ha ha\nCaiaphas:  anyway, just wanted to let You know\nJesus:  thanks\nCaiaphas:  good luck with the crucifixion and stuff"
+      }, 
+      "1136681287387947008": {
+        "username": "cristianafarias", 
+        "text": "If Michael Flynn wants to withdraw his plea at this stage, he needs to \"show a fair and just reason for requesting the withdrawal.\" \n\nFed. R. Crim. P. 11(d). https://t.co/jZ9K49Gds3\n\nGood luck with that."
+      }, 
+      "1126516882184359936": {
+        "username": "CGLambdin", 
+        "text": "A: We are trying to drive a culture of innovation.\nB: Cool. Do your teams do design research?\nA: No.\nB: Okily dokily. Good luck with that."
+      }, 
+      "1102725032189575173": {
+        "username": "ggreenwald", 
+        "text": "This NYT article on the Omar/AIPAC controversy quotes a long-time AIPAC activist as vowing that 3 members of Congress - @IlhanMN, @RashidaTlaib &amp; @AOC - will all soon be gone from Congress due to their Israel criticism. Good luck with that https://t.co/dzZ3JB7QyM https://t.co/nYUMafa9PH"
+      }
+    }, 
+    "message": "This really is a beautiful cat! I hope he finds a person. (And good luck with that, cow"
+  },
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1071881701415100416", 
+          "1117967336135249925"
+        ], 
+        "element": "There"
+      }, 
+      {
+        "labels": [
+          "1071881701415100416", 
+          "1117967336135249925"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1117967336135249925"
+        ], 
+        "element": "no"
+      }, 
+      {
+        "labels": [
+          "1176434277963173888", 
+          "1173283458027646977"
+        ], 
+        "element": "court"
+      }, 
+      {
+        "labels": [
+          "1192308206481084416"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": "land"
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": "giants."
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": "https://t.co/PPGMtX6qqH"
+      }, 
+      {
+        "labels": [
+          "1113484950681133056"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Wed Dec  4 11:58:42 2019", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1192308206481084416": {
+        "username": "ThatKevinSmith", 
+        "text": "You folks not only sold out 3 #JayAndSilentBobReboot shows at @TheOaksTheater, you also got louder with each screening! Many thanks for making us feel at home in the land of DOGMA and ZACK &amp; MIRI! https://t.co/g8g5wN3DgP"
+      }, 
+      "1117967336135249925": {
+        "username": "mathewi", 
+        "text": "There is no court in the country that would see a news article with a single screenshot of a TV show in it as anything other than fair use https://t.co/OEaAnUMJ5m"
+      }, 
+      "1176434277963173888": {
+        "username": "jonlis1", 
+        "text": "Hard to capture exactly how shocking this is. Highest court in the land has ruled that prime minister lied to the Queen, lied to parliament, lied to the country. His ministers enthusiastically joined the deceit. If they were in any other profession they\u2019d be struck off for life."
+      }, 
+      "1113484950681133056": {
+        "username": "jimmy_wales", 
+        "text": "I would assume this is a faked picture, except that I've been to Lithuania, the land of giants. https://t.co/PPGMtX6qqH"
+      }, 
+      "1173283458027646977": {
+        "username": "glitzypursegirl", 
+        "text": "The fact that a liar is allowed to rule on the highest court in the land makes all of us question the whole system! because it is obviously not about rule of law! https://t.co/YXUIz71PpG"
+      }, 
+      "1071881701415100416": {
+        "username": "TalbertSwan", 
+        "text": "There is no court in America that would try a 16 year old white girl as an adult, convict her and sentence her to 51 years for killing her rapist. Not one.\n\n#CyntoiaBrown"
+      }
+    }, 
+    "message": "There is no court in the land of giants. https://t.co/PPGMtX6qqH  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1147127277915901952"
         ], 
         "element": "I"
