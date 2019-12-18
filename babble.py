@@ -1,22 +1,14 @@
 #!/usr/bin/python
 
 
-import config
 from twarkov import CharChain, TwarkovChain
-# from exp_twarkov import CharChain, TwarkovChain
-# from chain_utils import candidate_words.
 
 import getopt
 import json
 import logging
-import os
-import random
 import sys
 import time
-import tweetdb
 from markov.limited_types import simple_set as set
-from markov.tree import MarkovChain
-from markov.prefix_sql import MarkovPrefixSql
 
 # DEBUG = True
 DEBUG = False
