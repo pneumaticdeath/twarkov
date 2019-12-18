@@ -15,7 +15,7 @@ time ./babble.py -s -d -C -m 18 -c 5 -j stores/sharon.sqlite > ${archivedir}/cha
 ln -f ${archivedir}/char18-${ds}.json ${htmldir}/char18.json
 
 echo "4 word chains:"
-time ./babble.py -s -d -m 4 -c 5 -j stores/sharon.sqlite > ${archivedir}/word4-${ds}.json
+time ./babble.py -s -d -m 4 -c 10 -j stores/sharon.sqlite > ${archivedir}/word4-${ds}.json
 ln -f ${archivedir}/word4-${ds}.json ${htmldir}/word4.json
 
 ./sync.sh
