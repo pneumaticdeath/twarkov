@@ -1,12 +1,9 @@
 #!/usr/bin/python
 
-# Copyright 2009, Mitch Patenaude
+# Copyright 2009-2019 Mitch Patenaude
 
-import os
-import random
 import time
 import urllib2
-from markov.limited_types import simple_set
 from twarkov import follow_retweets
 from tweetdb import textof
 
