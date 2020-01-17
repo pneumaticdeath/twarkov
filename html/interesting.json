@@ -3,6 +3,1061 @@
     "sequence": [
       {
         "labels": [
+          "1080264158749298689"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1080264158749298689"
+        ], 
+        "element": "am"
+      }, 
+      {
+        "labels": [
+          "1080264158749298689"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "telling"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "people"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "eat"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "fresh"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657"
+        ], 
+        "element": "foods,"
+      }, 
+      {
+        "labels": [
+          "1080838141248966657", 
+          "1150419048481599489"
+        ], 
+        "element": "drink"
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": "lot"
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": "criticism."
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": "https://t.co/algr8XfBEV"
+      }, 
+      {
+        "labels": [
+          "1140668971584303105"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Thu Jan 16 17:02:02 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1080838141248966657": {
+        "username": "amandamull", 
+        "text": "Also this is in the piece but it deserves a tweet imo: telling people to eat fresh foods, drink a lot of water, and get plenty of sleep is not class-neutral advice and lifestyle publications gotta stop pretending it is \ud83c\udf1f"
+      }, 
+      "1150419048481599489": {
+        "username": "NPRWeekend", 
+        "text": "We loved hearing about your plane habits, whether you belong to \u201cMile Cry Club\u201d or drink a lot of ginger ale on board. For the record, @lourdesgnavarro likes tomato juice and crying at movies. https://t.co/wpqQYggvfM https://t.co/b8n1R9WxtE"
+      }, 
+      "1080264158749298689": {
+        "username": "greta", 
+        "text": "I am not telling people to vote for or against @ewarren but I am w/ @soledadobrien on this - why is @politico starting w/ this? She hasn\u2019t even been on the campaign trail a day and @Politico already has this? https://t.co/Q03S3pSCHk"
+      }, 
+      "1140668971584303105": {
+        "username": "wibw", 
+        "text": "TPD APOLOGY: Topeka Police is apologizing for a now-deleted Father's Day tweet, meant to be humorous, but received a lot of criticism. https://t.co/algr8XfBEV"
+      }
+    }, 
+    "message": "I am not telling people to eat fresh foods, drink a lot of criticism. https://t.co/algr8XfBEV  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1075632047677419520"
+        ], 
+        "element": "In"
+      }, 
+      {
+        "labels": [
+          "1075632047677419520"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "past"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "few"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "years;"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "lots"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "untidy"
+      }, 
+      {
+        "labels": [
+          "1105539431199584257"
+        ], 
+        "element": "line"
+      }, 
+      {
+        "labels": [
+          "1090988181850341376"
+        ], 
+        "element": "work"
+      }, 
+      {
+        "labels": [
+          "1173016236810211328", 
+          "1118496968936951808", 
+          "1184469828758839298", 
+          "1156240535494918144", 
+          "1119597344553689093", 
+          "1157974335749001216", 
+          "1145050303970119680", 
+          "1077277569093795841"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "White"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "House,"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "everyone"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "sweating"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "like"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "they"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "ate"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "gas-station"
+      }, 
+      {
+        "labels": [
+          "1069264462480384000"
+        ], 
+        "element": "sushi"
+      }, 
+      {
+        "labels": [
+          "1083100609551593473"
+        ], 
+        "element": "an"
+      }, 
+      {
+        "labels": [
+          "1083100609551593473"
+        ], 
+        "element": "hour"
+      }, 
+      {
+        "labels": [
+          "1083100609551593473"
+        ], 
+        "element": "ago"
+      }, 
+      {
+        "labels": [
+          "1083100609551593473"
+        ], 
+        "element": "-"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "GOP"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "Senators"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "using"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "their"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "Congressional"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "allowances"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "print"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "Aquaman"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "posters"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1110586439409025024"
+        ], 
+        "element": "themselves"
+      }, 
+      {
+        "labels": [
+          "1181967808411901952"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1181967808411901952"
+        ], 
+        "element": "argue"
+      }, 
+      {
+        "labels": [
+          "1181967808411901952"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1174030146942177280"
+        ], 
+        "element": "mass"
+      }, 
+      {
+        "labels": [
+          "1174030146942177280"
+        ], 
+        "element": "surveillance"
+      }, 
+      {
+        "labels": [
+          "1174030146942177280"
+        ], 
+        "element": "programs"
+      }, 
+      {
+        "labels": [
+          "1167516476439453700"
+        ], 
+        "element": "as"
+      }, 
+      {
+        "labels": [
+          "1128630971476082689", 
+          "1141369513134436352", 
+          "1184496817095856128", 
+          "1118137470657400834", 
+          "1191906480418516993", 
+          "1116382487352152064", 
+          "1093301055369007104", 
+          "1102957026370498560", 
+          "1083403349708427265", 
+          "1176575776168263680", 
+          "1178103548141195264"
+        ], 
+        "element": "they"
+      }, 
+      {
+        "labels": [
+          "1180601906848120833", 
+          "1110998412672069632", 
+          "1119646758777364483", 
+          "1180173079089238017", 
+          "1114660499344564224", 
+          "1131745634334064640", 
+          "1201588058921017344", 
+          "1164915797489278976", 
+          "1182466496678653952", 
+          "1202641798910238720", 
+          "1179057679718739968", 
+          "1181644495684689921", 
+          "1186939205345300481", 
+          "1104769999095414786", 
+          "1146040141351444480", 
+          "1088491306467368960", 
+          "1206985979837472770", 
+          "1190383026439675904", 
+          "1100200687391117312", 
+          "1203687283418968064", 
+          "1122931151876907009", 
+          "1104442180943265792", 
+          "1115086857123975170", 
+          "1113652571678347266", 
+          "1194377081825579008", 
+          "1092193607400939520", 
+          "1104476078922317824", 
+          "1069988274221940736", 
+          "1156411867318947847", 
+          "1070363328348897285", 
+          "1079972968665673728"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1118645830791991296", 
+          "1159439534591021056", 
+          "1096187413439881216", 
+          "1097110367052935168", 
+          "1203084696730533889", 
+          "1175568513932693505", 
+          "1100636721199247361", 
+          "1121519576343248899", 
+          "1096226955647770624", 
+          "1129019277867139073", 
+          "1091828756287840257", 
+          "1071156462339137538", 
+          "1094088723355107328", 
+          "1154424068399128576", 
+          "1092943929803038721", 
+          "1073647069863337984", 
+          "1103731510564323328", 
+          "1177554745998790656", 
+          "1135285719528689664", 
+          "1122728152189603842", 
+          "1107630841868500994", 
+          "1158475379335520256", 
+          "1104769999095414786", 
+          "1075655609205313537", 
+          "1079757914129268737", 
+          "1141056687563894790", 
+          "1104059886223015936", 
+          "1151598998727401472", 
+          "1124467620110118913", 
+          "1206970644459655169", 
+          "1165393008516374528", 
+          "1091418644398133249", 
+          "1121406859263369216", 
+          "1116420752427892737", 
+          "1071226533111586816", 
+          "1160365421427658753", 
+          "1074686130061160448", 
+          "1096293539208724480", 
+          "1118611766563545088", 
+          "1199463436448518144", 
+          "1202595006411874304", 
+          "1111277986563674113", 
+          "1077256145335533569", 
+          "1076196209231040513", 
+          "1153835695259230208", 
+          "1105554241391939585", 
+          "1183094750800273408", 
+          "1092193607400939520", 
+          "1104932157519159296", 
+          "1121524668945530897", 
+          "1121750103230943234", 
+          "1075165915791179781", 
+          "1187137503578460160", 
+          "1163962619344097280", 
+          "1192190362108006401", 
+          "1105107048662994945", 
+          "1165283712839356422", 
+          "1088529770571358208", 
+          "1068616425906925568", 
+          "1131187955639439360"
+        ], 
+        "element": "going"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "shockingly"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "smart"
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": "decision."
+      }, 
+      {
+        "labels": [
+          "1099746393420251137"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Thu Dec 19 13:06:16 2019", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1173016236810211328": {
+        "username": "paulapoundstone", 
+        "text": "I can\u2019t tell if I\u2019m hurt from my fall, but when I stood up, I thought there was a mad man in the White House, and some people liked him."
+      }, 
+      "1118137470657400834": {
+        "username": "ggreenwald", 
+        "text": "When a country only has two main, viable parties, it's inevitable that they are going to contain huge, intense ideological and policy disagreements. It's healthy to air and debate them, and unhealthy to repress and ignore them. That's what primaries are for: have it out: https://t.co/scFGFNTqwA"
+      }, 
+      "1156240535494918144": {
+        "username": "Waterstones", 
+        "text": "San Francisco, 2017. Clinton's in the White House, Brexit never happened, and a new AI technology is about to change everything...\n\nAnnouncing the thrilling new novel from @GreatDismal. Arriving January 2020. Signed copies here: https://t.co/yTEt9FYsDf https://t.co/eO0YjcSpaD"
+      }, 
+      "1093301055369007104": {
+        "username": "mulegirl", 
+        "text": "I like Calm. I've been a subscriber for years, but this doesn't make me feel good. It makes me feel like they are going to have to sell me out hard to justify that valuation. And then at some point the whole thing will implode. \n\nAnd that makes me very anxious."
+      }, 
+      "1100636721199247361": {
+        "username": "akurjata", 
+        "text": "Tomorrow is going to be a good day for literally anyone else to dump negative news https://t.co/h6Gi12CT0z"
+      }, 
+      "1129019277867139073": {
+        "username": "scalzi", 
+        "text": "Pro tip: if you're going to be pissed off at everyone for not bringing up every single point you think is important in the space of 280 characters, Twitter is going to be a bad time for you. https://t.co/wntSz1MuVx"
+      }, 
+      "1097110367052935168": {
+        "username": "PKBNews", 
+        "text": "It\u2019s going to be a bright day, #Philadelphia!  Enjoy it now before tonight when something is suppose to fall from the sky.  Join me for @WHYYNews during @NPRWeekend @waitwait @onthemedia on 90.9 @whyy #Philly https://t.co/siiD2Fgy7l"
+      }, 
+      "1159439534591021056": {
+        "username": "mikelmatthews", 
+        "text": "Instead of rumors that @neilhimself is going to be a showrunner again (which he said he doesn't want to do), be more creative.\nI heard that Neil is going to be a secret shopper for Casey's gas stations. or\nI heard Neil is going to be the conductor for the Denver Orchestra."
+      }, 
+      "1145050303970119680": {
+        "username": "scalzi", 
+        "text": "(Actually it's easy to fathom, they think the nation is crying out for a middle-aged white dude in the White House, which, meh? Probably not really? But anyway.)"
+      }, 
+      "1096293539208724480": {
+        "username": "neilhimself", 
+        "text": "I thought I was going to be a hard science fiction writer. I thought I was a failure in my early twenties because I didn't seem to be one of them. https://t.co/HMve4y7rfH"
+      }, 
+      "1092943929803038721": {
+        "username": "neilhimself", 
+        "text": "\"I love you Snowman,\" says the small boy, leaning in for what I assume is going to be a kiss until he takes a large bite out of a carrot nose. https://t.co/abLQU6RzyG"
+      }, 
+      "1073647069863337984": {
+        "username": "maureenjohnson", 
+        "text": "Oh hey. Looks like our secret is out! LET IT SNOW is going to be a MOVIE NEXT YEAR. https://t.co/kpv4WBQXrj"
+      }, 
+      "1177554745998790656": {
+        "username": "scalzi", 
+        "text": "Good morning Twitter, we all know it's going to be a long day out there in the world, so here's a cat picture in advance. Please deploy when necessary. Good luck out there. https://t.co/SVOrfOmEEM"
+      }, 
+      "1075655609205313537": {
+        "username": "GrndhoppingGrl", 
+        "text": "Just when you think Christmas is going to be a wash-out, something happens to make you think it could be ace. Thanks @BBCRadio4 and @neilhimself I can't wait!!!\n\nhttps://t.co/UV31GHpAH7"
+      }, 
+      "1079757914129268737": {
+        "username": "UnlikelyWorlds", 
+        "text": "Next novel is going to be a single fictional German compound word. 120 pages."
+      }, 
+      "1186939205345300481": {
+        "username": "qikipedia", 
+        "text": "Future Library is a project that in 2014 planted 1,000 trees and each year has been receiving texts from writers such as Margaret Atwood and David Mitchell. They are going to be kept unpublished until 2114 when the trees will be used to print 100 books written in the interim."
+      }, 
+      "1121406859263369216": {
+        "username": "Popehat", 
+        "text": "It's going to be a long and tedious 18 months of \"you can't take shots at X because Y is much worse\""
+      }, 
+      "1116420752427892737": {
+        "username": "tonystubblebine", 
+        "text": "I'm sort of anxious about only one thing. I think there's going to be some hurt feelings. For every existing publication on Medium that chooses not to move behind the paywall, there's going to be a new paywall-centric one that pops up. That's seemed obvious to me for 2yrs. https://t.co/y3tlDwasjP"
+      }, 
+      "1203084696730533889": {
+        "username": "Popehat", 
+        "text": "Doesn't look like the jury instructions Judge Wilson used in the Musk case are on PACER yet.  Sounds like the jurors aren't talking to the press, but I've always thought that the fact/opinion/trash-talk issue was going to be a problem for the plaintiff."
+      }, 
+      "1206985979837472770": {
+        "username": "10DowningStreet", 
+        "text": "\u201cWe are going to be working on the priorities of the British people. That\u2019s what they want us to do.\u201d \u2013 PM @BorisJohnson https://t.co/2T7Xo5yNWb"
+      }, 
+      "1124467620110118913": {
+        "username": "neilhimself", 
+        "text": "Possibly. But there's still going to be a seat next to mine at the premiere in 3 weeks, with Terry's hat on it next to the biggest bag of popcorn that the Odeon Leicester Square can produce. https://t.co/NeANMbNnMU"
+      }, 
+      "1118611766563545088": {
+        "username": "michaelianblack", 
+        "text": "This is going to be a great talk. You should come! https://t.co/avBaCWDJcn"
+      }, 
+      "1105539431199584257": {
+        "username": "charlotteslib", 
+        "text": "@elliott_downing @abetterjulie Even the flying geese are not always all that.  I feel there's been a sad falling off to the quality of Goose Vs in the past few years; lots of untidy line work in the skies these days."
+      }, 
+      "1181644495684689921": {
+        "username": "hotdogsladies", 
+        "text": "Listen. You are going to be hearing a lot about Matthew McConaughey's masterful performance in \"Hamburglar.\"\n\nWhile I appreciate seeing the lived experience of any marginalized population, it is just irresponsible to valorize his behavior.\n\nStealing food is not \"cool\" or \"edgy.\" https://t.co/hzcFA9ogx8"
+      }, 
+      "1113652571678347266": {
+        "username": "ChuckRossDC", 
+        "text": "This is one reason why the public is so frustrated w/ the media. Too many news outlets play games w/ their readers like this. If anonymous sources are going to be used they should at least make a specific and testable allegation."
+      }, 
+      "1194377081825579008": {
+        "username": "CharlesFinch", 
+        "text": "If America survives this, the stories that emerge about the children in custody here are going to be so much worse than even the worst we\u2019re imagining now. Guaranteed. https://t.co/jyLaGmJ5Rz"
+      }, 
+      "1077277569093795841": {
+        "username": "Popehat", 
+        "text": "Tonight Trump, alone in the White House, will be visited by the ghosts of American prosperity, credibility, and stability.\n\nhttps://t.co/5hROtEMsiS"
+      }, 
+      "1165283712839356422": {
+        "username": "autumnschoch", 
+        "text": "On Mike\u2019s first door EVER, he meets a @CoryBooker supporter! I have a feeling it\u2019s going to be a good #WeekendofAction for #TeamCory. #fitn #nhpolitics https://t.co/wrxqiV6hbz"
+      }, 
+      "1156411867318947847": {
+        "username": "neilhimself", 
+        "text": "Most PBS stations are going to be showing this documentary this Friday. I cannot wait to see it, to appreciate @ursulakleguin,\nand to miss her.\nhttps://t.co/regJNmMRxQ"
+      }, 
+      "1079972968665673728": {
+        "username": "harikunzru", 
+        "text": "My main prediction for 2019 is that a lot of people in politics and media are going to be telling me to set aside my differences and come together"
+      }, 
+      "1107630841868500994": {
+        "username": "scalzi", 
+        "text": "This is going to be a lot of fun, folks. Come and see us! https://t.co/c7V8YM3lCG"
+      }, 
+      "1180173079089238017": {
+        "username": "RameshPonnuru", 
+        "text": "I don\u2019t think the fact-checkers are going to be able to put a dent in this one. https://t.co/WYH181gCxD"
+      }, 
+      "1131745634334064640": {
+        "username": "mulegirl", 
+        "text": "but no, fully autonomous taxis are going to be pure profit. \n\n\"But with the excitement came the slew of local news reports about bikes dangling from trees and set alight for fun. Just six months later, ofo had removed all 2,000 bikes.\"\nhttps://t.co/SW89NIfMz6"
+      }, 
+      "1164915797489278976": {
+        "username": "scalzi", 
+        "text": "I'm sure the fellows whining about how disrespectful some folks are being about David Koch this morning are going to be classy as fuck the day George Soros kicks it"
+      }, 
+      "1091828756287840257": {
+        "username": "CoryBooker", 
+        "text": "The lines that divide us are nowhere near as strong as the ties that bind us. When we put aside our differences there\u2019s nothing we can\u2019t accomplish\u2014that\u2019s going to be a central theme of my campaign &amp; I hope you\u2019ll sign up to be a part of it: https://t.co/olElR3Xjgj"
+      }, 
+      "1179057679718739968": {
+        "username": "jbf1755", 
+        "text": "The rule of law and our constitutional system of government are going to be tried as never before in coming weeks. https://t.co/Sp2aPRhLYd"
+      }, 
+      "1176575776168263680": {
+        "username": "neilhimself", 
+        "text": "Mostly they are going to independent bookshops in the UK. https://t.co/wOa4kpgFxS"
+      }, 
+      "1175568513932693505": {
+        "username": "annamasera", 
+        "text": "Sleepless in Torino, started reading @Snowden #PermanentRecord. I probably got a hold of the last English copy available in town thanks to a friend who brought it to me today. I am impressed with the opening words, it\u2019s going to be a great night... \ud83d\udc47 https://t.co/yB8gcRSmzd"
+      }, 
+      "1068616425906925568": {
+        "username": "wes_chu", 
+        "text": "Looks like the announcement for the sooper sekrit project went out! It's going to be a lot of dead but not enough guns! https://t.co/QiXfilZ5bQ"
+      }, 
+      "1141056687563894790": {
+        "username": "dooce", 
+        "text": "Just a reminder to everyone in the Bay Area: The Assembly is hosting a reading/signing for my book on Sunday June 23rd at 3PM.\n\nI'd love to see and meet you there and reminisce about 1979. It's going to be a very intimate event and I have so much to... https://t.co/kXHQyluEEv"
+      }, 
+      "1151598998727401472": {
+        "username": "gicadomingues", 
+        "text": "ok, so, let me get this straight, you\u2019re telling me that in the year @GoodOmensPrime blessed us, david tennant is having a baby, now @michaelsheen is having a baby, and I\u2019m just supposed to believe there isnt going to be a third baby to bring about the end times? @neilhimself"
+      }, 
+      "1090988181850341376": {
+        "username": "jaredlholt", 
+        "text": "Seb Gorka is getting in on the conspiracy theory that Ruth Bader Ginsberg might be dead. This guy used to work in the White House https://t.co/vQGnDLFt5A"
+      }, 
+      "1088491306467368960": {
+        "username": "Indigogirls", 
+        "text": "Foster kittens are going to be neutered tomorrow. Sadly, they\u2019re not staying together. Hopefully Taco will find an adopter this weekend. https://t.co/1oSWgdxS12"
+      }, 
+      "1122728152189603842": {
+        "username": "scalzi", 
+        "text": "This is going to be a very long day of air travel but at the end of it I get to see my cats and sleep in my own bed, so let's do this thing."
+      }, 
+      "1160365421427658753": {
+        "username": "amandapalmer", 
+        "text": "thank you. \ud83d\ude4f\ud83c\udffc that\u2019s the best i could wish for. the european/UK tour is going to be a really interacting undertaking given what\u2019s disturbing there right now. i\u2019m ready. tour dates here: https://t.co/2ACWEfUZKs https://t.co/QK0JCzf6tf"
+      }, 
+      "1100200687391117312": {
+        "username": "BlueEyedAshh", 
+        "text": "SHIT. This is an emergency. I need $600 in 3 days or things around here are going to be fucked up. I\u2019m a single mom and I would really love to keep my home so if y\u2019all can retweet this I\u2019d be greatful!! @LeftAtLondon @transscribe @MatthewACherry @IWriteAllDay_ @Imani_Barbarin https://t.co/onXURnDymj"
+      }, 
+      "1111277986563674113": {
+        "username": "neilhimself", 
+        "text": "This is going to be a fun and unusual evening: me, the BBC symphony orchestra, and some special secret guests. Tickets are on sale from today, and they will go fast:\nhttps://t.co/sd1D6mNpjz"
+      }, 
+      "1192190362108006401": {
+        "username": "CoryBooker", 
+        "text": "In one week, we\u2019re hosting an awesome #Cory2020 happy hour at @BrotherJimmys in NYC. I love going to these\u2014it\u2019s going to be a lot of fun and a great way to learn more about our campaign. Please join us &amp; invite your friends! RSVP here: https://t.co/uGRUDxfpmy"
+      }, 
+      "1131187955639439360": {
+        "username": "PaulBrandITV", 
+        "text": "BREAKING: David Mundell has asked for an urgent meeting with the PM this afternoon following her statement to MPs. He is not acting in coordination with other cabinet ministers but the expectation is that this is going to be a conversation about her future."
+      }, 
+      "1102957026370498560": {
+        "username": "mulegirl", 
+        "text": "I don't want organizations to value research just because I think they are going to learn something new and useful. \n\nI want them to face the real world, and therefore be accountable to it. Evidence-based design is necessary for ethical design."
+      }, 
+      "1190383026439675904": {
+        "username": "joshgondelman", 
+        "text": "Thanks to the economy, millennial midlife crises are going to be horrible. Sure we\u2019ll still buy sports cars, but mostly to pick up Uber passengers."
+      }, 
+      "1115086857123975170": {
+        "username": "andylassner", 
+        "text": "We are going to be ok https://t.co/q0tVBDtPDr"
+      }, 
+      "1121750103230943234": {
+        "username": "mollyoldfield", 
+        "text": "Exciting news! Everything Under The Sun podcast is going to be a book! Calling curious children (all children!) with questions AND experts to help answer questions! So far we\u2019ve had answers from the @NHM_London @sciencemuseum @neilhimself &amp; other fantastic people so do join in! https://t.co/bIk4F3ZNg1"
+      }, 
+      "1075165915791179781": {
+        "username": "MIKECOLLINS99", 
+        "text": "I had a busy 2018 (well actually started on this in 2017!) working on this show - it's going to be a blast @neilhimself @drmuig have outdone themselves! https://t.co/RTqKroap8F"
+      }, 
+      "1174030146942177280": {
+        "username": "FreedomofPress", 
+        "text": "Our Executive Director @trevortimm on today's @Snowden lawsuit:\n\n\u201cIf only the Justice Department was as concerned with the systematic legal violations carried out by the US government\u2019s mass surveillance programs as they are about trying to blunt the impact of a personal memoir.\u201d"
+      }, 
+      "1187137503578460160": {
+        "username": "neilhimself", 
+        "text": "This is going to be a special evening! https://t.co/RhbykHNoLu"
+      }, 
+      "1157974335749001216": {
+        "username": "djrothkopf", 
+        "text": "Imagine if a man promoting a terrorist doctrine and policies that put weapons of war in the hands of those terrorists even as they targeted American communities from coast to coast was in the White House, had become our president...with the help of a foreign enemy.  Imagine."
+      }, 
+      "1070363328348897285": {
+        "username": "bbcarts", 
+        "text": "Myths are going to be big this Christmas, and we\u2019ve included titles from @neilhimself, @stephenfry, @MillerMadeline and Pat Barker in our festive book guide.\n\ud83d\udcda See the full list: https://t.co/1zsdKZKv0z https://t.co/tvUSDK0GS6"
+      }, 
+      "1180601906848120833": {
+        "username": "mulegirl", 
+        "text": "Prediction: Scotch pods are going to be the hot host gift this holiday season. 2020 is going to be all about everything in a pod (Green juice pods! Soylent pods! Paleo pods!)\n\nAnd Tide is going to have to pull their product."
+      }, 
+      "1110998412672069632": {
+        "username": "ggreenwald", 
+        "text": "They don't \"debate\". They name-call, marginalize, unfollow and block. The people who were right about this collusion scam are going to be *more* marginalized now - not less - because your presence reminds them of their shame and failures: https://t.co/lzswjqVvPi"
+      }, 
+      "1119646758777364483": {
+        "username": "NonWhiteHat", 
+        "text": "People are going to be upset when the last 90 minutes of the last Avengers movie is taken up by Thanos delivering a speech about objectivism."
+      }, 
+      "1184469828758839298": {
+        "username": "CoryBooker", 
+        "text": "The right to control your own body is sacrosanct. That\u2019s why, as president, I\u2019ll codify Roe v. Wade, create an Office of Reproductive Freedom in the White House, repeal Hyde, and more. We must ensure everyone has access to quality health care\u2014including contraception and abortion. https://t.co/ZhxrwTADc6"
+      }, 
+      "1121519576343248899": {
+        "username": "pebonilla", 
+        "text": "Middlebury's student government has 13 demands of the administration. One that's going to be a problem: Requiring that all speakers invited to campus be vetted by a student committee to make sure their beliefs are acceptable to the community. \n\nUh, uh-uh.\nhttps://t.co/jZIp3PfKBs https://t.co/AdCHJQm21q"
+      }, 
+      "1201588058921017344": {
+        "username": "GrahamBrookie", 
+        "text": "They are going to be *pissed* when they find out about China. https://t.co/0j7qaKNgNW"
+      }, 
+      "1182466496678653952": {
+        "username": "billkendrick", 
+        "text": "Shoot, @KevinSavetz and Joe Decuir are going to be on a panel at PRGE? Maybe I *should* go! \ud83d\ude33"
+      }, 
+      "1071156462339137538": {
+        "username": "tonystubblebine", 
+        "text": "Do people realize @medium is going to be a huge winner? Their ambition is really shocking."
+      }, 
+      "1094088723355107328": {
+        "username": "CoryBooker", 
+        "text": "Incredible day in Iowa (and still going!) I told my staff to buckle up\u2014I\u2019m going to be a candidate that goes to everybody I possibly can, to every community and every neighborhood. Honored to start this journey in Mason City. https://t.co/li8Z5tGmXI"
+      }, 
+      "1104442180943265792": {
+        "username": "mulegirl", 
+        "text": "In the future when we have a mix of autonomous and human-piloted vehicles on the road, autonomous vehicles are going to be targets. \n\nI look forward to Stupid Mad Max."
+      }, 
+      "1103731510564323328": {
+        "username": "JonathanSayer1", 
+        "text": "Thrilled we can finally announce Magic Goes Wrong! It's going to be a lot of fun! \n\nhttps://t.co/UPl2dcAc8L"
+      }, 
+      "1118645830791991296": {
+        "username": "paulapoundstone", 
+        "text": "I'm not sure if this is true, but I think Uber is going to be a part of the Republican Health Plan. Uber Medical--you tap on your phone, and if someone near by has some meds, or some Band-aids, they bring them. It's tremendous."
+      }, 
+      "1158475379335520256": {
+        "username": "goldman", 
+        "text": "Cloudflare reversed itself and dropped 8chan because of public &amp; internal pressure. Companies will respond to pressure and can act quickly. It may not be a complete solution but it is better.\n\nIn short, it\u2019s going to be a long road, progress will be halting, but better is good."
+      }, 
+      "1104769999095414786": {
+        "username": "matthewstoller", 
+        "text": "There are going to be a lot of formerly corporatist \"rising stars\" circa 2008 who have somehow discovered their left-wing roots, and now are noticing Bernie's insufficiently lefty proposals. It's almost, dare I say it, bad faith. https://t.co/LUZJDb35P3"
+      }, 
+      "1104059886223015936": {
+        "username": "GreatDismal", 
+        "text": "This is going to be a fantastic book. https://t.co/cEzyHqWS8Q"
+      }, 
+      "1075632047677419520": {
+        "username": "mtracey", 
+        "text": "In just the past few days, Trump: secured passage of a criminal justice reform bill that's arguably more sweeping than any Obama-era reforms, unilaterally banned a gun accessory (something Obama wouldn't have dreamt of) and ended a military engagement Obama started. Strange times"
+      }, 
+      "1181967808411901952": {
+        "username": "wneuheisel", 
+        "text": "Evidence keeps piling up that vindicates @Snowden. His critics increasingly have to ignore reality to argue that mass surveillance programs were no concern, or that real reforms would have resulted from going through internal #whistleblower channels. https://t.co/6QkEDcfntE"
+      }, 
+      "1146040141351444480": {
+        "username": "jdickerson", 
+        "text": "There is no information yet about where the 1776 reenactors protesting against standing armies are going to be allowed to mill around. https://t.co/TGb8u3Iizr https://t.co/541OIMzfIM"
+      }, 
+      "1091418644398133249": {
+        "username": "markbylok", 
+        "text": "Hugo award winner @KameronHurley lost her day job in Ohio, where they can cut health insurance &amp; not give any severance at termination (wtf America, I really don\u2019t get your governments), is going to be a mega best seller with her next book. So buy it: https://t.co/QG5tFDUkGa"
+      }, 
+      "1110586439409025024": {
+        "username": "AOC", 
+        "text": "GOP Senators are using their Congressional allowances to print Aquaman posters for themselves to argue that a #GreenNewDeal saving our nation from climate change is a \u2018waste of money\u2019 \ud83d\ude02 https://t.co/iMNY0dJmCy"
+      }, 
+      "1096187413439881216": {
+        "username": "michaelianblack", 
+        "text": "Welcome to the team, J-Dog. It's going to be a wild worm ride. https://t.co/leNn1kSKlp"
+      }, 
+      "1077256145335533569": {
+        "username": "MoreOrLestro", 
+        "text": "we listened to \u2066@neilhimself\u2069 read \u2018A Christmas Carol\u2019 yesterday and it\u2019s going to be a new tradition in our house. do yourself a favor and spend an hour on this amazing performance. you know the story but dickens\u2019 words are incredible... https://t.co/T7V15oFO73"
+      }, 
+      "1099746393420251137": {
+        "username": "hotdogsladies", 
+        "text": "That we ultimately decided it should not be \"the first podcast ABOUT Twitter\" turned out to be a shockingly smart decision."
+      }, 
+      "1178103548141195264": {
+        "username": "mattdpearce", 
+        "text": "\u201cWe have suspended all Google ad placements while we review and make sure that they are going to the places we want them to go to... We had no intention of having an ad placed on that site.\u201d https://t.co/5lF0GcA2St"
+      }, 
+      "1105554241391939585": {
+        "username": "NotPeoriaMayor", 
+        "text": "Hey @Popehat, is this going to be a problem for @MichaelAvenatti? https://t.co/VOi2h1aNvv"
+      }, 
+      "1104932157519159296": {
+        "username": "gnat", 
+        "text": "I'm shooting from the hip here, but something tells me it's not going to be a world-leading affordable housing project that's visible from space. https://t.co/3P5jcxE2tm"
+      }, 
+      "1088529770571358208": {
+        "username": "CBCManitoba", 
+        "text": "'This is going to be a big production': Amazon Studios sci-fi TV series to film in Manitoba https://t.co/2UcmHUE5tp"
+      }, 
+      "1116382487352152064": {
+        "username": "TuneCoreJeff", 
+        "text": "Point of the night at the Town Hall  by Zoe Keating. HFA would not allow her to affiliate to get her money as she is a self distributed artist. Same people that refused to let Zoe in to get her money are now the same that claim they are going to work for her to get her paid."
+      }, 
+      "1163962619344097280": {
+        "username": "tonystubblebine", 
+        "text": "I think this is going to be a really useful article:\nhttps://t.co/du80c4vyiZ"
+      }, 
+      "1105107048662994945": {
+        "username": "michaelianblack", 
+        "text": "I laughed when this guy first announced, but I think he's going to be a formidable candidate. https://t.co/eb7FnJQzaa"
+      }, 
+      "1135285719528689664": {
+        "username": "mulegirl", 
+        "text": "@gnat @hondanhon @tomcoates yeah. it really really depends on whose budget it's coming out of and how they categorize it: seminar vs party vs profesh development vs community get together \n\nif it's coming out of an individual's pocket that's going to be a way lower amount."
+      }, 
+      "1128630971476082689": {
+        "username": "sarahdessen", 
+        "text": "Still waiting for Alabama to explain how they are going to increase Head Start, children's insurance programs, school lunch and child care support as this law goes into effect. Anyone?"
+      }, 
+      "1114660499344564224": {
+        "username": "Kolyin", 
+        "text": "Teaching my boy the legal secrets of sovereign citizens.\n\nThe notes from daycare are going to be so good.\n\n@Popehat https://t.co/0Ujwdkkuwy"
+      }, 
+      "1183094750800273408": {
+        "username": "elliott_downing", 
+        "text": "This is going to be a busy day, isn't it?\n\nThank you, Rachel! https://t.co/qhYZ7iACeo"
+      }, 
+      "1096226955647770624": {
+        "username": "Indigogirls", 
+        "text": "Charlotte has become adorably obsessed with the show, @nbctitangames by @TheRock. She\u2019s going to be a TKD black belt this year. I think the games are her future. @JuliusGoat https://t.co/bfcCTXpXAT"
+      }, 
+      "1141369513134436352": {
+        "username": "neilhimself", 
+        "text": "I love that they are going to write to Netflix to try and get #GoodOmens cancelled. Says it all really. https://t.co/8WNxCY1YmV"
+      }, 
+      "1154424068399128576": {
+        "username": "CoryBooker", 
+        "text": "Today I spoke at the @NatUrbanLeague about electability.\n\nThe next Democratic party nominee must inspire &amp; earn the trust of our community. \n\nYou can't say you\u2019re going to be a champion for our communities when you become President if you haven\u2019t been a champion already. https://t.co/eztJrmNgjW"
+      }, 
+      "1184496817095856128": {
+        "username": "mulegirl", 
+        "text": "Plus it gets back to their black car origins. \n\nBut, in reality I think they are going to continue to tell this story about solving all transportation and try to justify their wackadoodle valuation while continuing to be in a multi-front price war."
+      }, 
+      "1118496968936951808": {
+        "username": "ggreenwald", 
+        "text": "Can someone please remind @danpfeiffer that not only did Obama give exclusive interviews to ***Bill O'Reilly*** when he was a presidential candidate, but also gave O'Reilly an exclusive Super Bowl interview in the White House, by far the single most \"legitimizing\" act for Fox: https://t.co/iP9LFNC6Fi"
+      }, 
+      "1191906480418516993": {
+        "username": "HamillHimself", 
+        "text": "\u201cIf you win, they are going to make it like, ho hum. And if you lose, they are going to say Trump suffered the greatest defeat in the history of the world. You can't let that happen to me!\"\nAs always, it's all about HIM, which explains his campaign slogan: #aMEricaFIRST https://t.co/Rhoq82XlU5"
+      }, 
+      "1083100609551593473": {
+        "username": "Celeste_pewter", 
+        "text": "Keep up the pressure on your Senators, all. \n\nEchoing what I said an hour ago - GOP Senators are starting to defect. Keep calling, and make McConnell fold. https://t.co/kVXIpLcPWB"
+      }, 
+      "1083403349708427265": {
+        "username": "jdickerson", 
+        "text": "President Trump today: \"When during the campaign, I would say 'Mexico is going to pay for it.' Obviously, I never said this and I never meant they are going to write out a check.\u201d https://t.co/u6fHFjFOCZ"
+      }, 
+      "1206970644459655169": {
+        "username": "LOLGOP", 
+        "text": "Just a reminder that 2020 is going to be a non-stop fiesta of feces. https://t.co/chUtld1fQS"
+      }, 
+      "1165393008516374528": {
+        "username": "npratc", 
+        "text": "\"You're getting famous off of something that doesn't have longevity. You're getting famous because you're broadcasting your teenage self, being a normal teenager. Well, you're not going to be a normal teenager forever.\" https://t.co/KExMdf9MxP"
+      }, 
+      "1071226533111586816": {
+        "username": "StephenAtHome", 
+        "text": "John Kelly is going to be a great host of the Oscars!"
+      }, 
+      "1074686130061160448": {
+        "username": "Popehat", 
+        "text": "Hey I hear there\u2019s going to be a new Patreon just for high IQ folks with great genetics and test-taking skills"
+      }, 
+      "1202641798910238720": {
+        "username": "dog_rates", 
+        "text": "Meet the three pups rescued from a snowy mountaintop in Utah. They were huddled together, wet and shivering, when a couple on a snowmobile stumbled upon them. There are crews still searching for their mom, but these little fellas are going to be alright. 14/10 for all involved https://t.co/suE3tlvklm"
+      }, 
+      "1199463436448518144": {
+        "username": "NWSReno", 
+        "text": "\"Let's go drive over the Sierra in the middle of a snow storm\". - said no one ever. \n\nOn a more serious note, if you do choose to drive be prepared to spend an extended period of time in your car with plenty of supplies (food, water, blankets, etc). It's going to be a long drive. https://t.co/K0l9TthUJn"
+      }, 
+      "1202595006411874304": {
+        "username": "scalzi", 
+        "text": "Oh, everybody already knows going in that the Senate GOP are both corrupt and complicit. This is going to be a fine and instructive way to make sure their corruption and complicity is on the record (both immediate and historical). https://t.co/QHTPEROIzg"
+      }, 
+      "1076196209231040513": {
+        "username": "JohnCleese", 
+        "text": "Sorry, but I intend to change twice more before I die\n\nIt's going to be a bit of a rush, but...here goes ! https://t.co/BDwMPaqjHj"
+      }, 
+      "1153835695259230208": {
+        "username": "scalzi", 
+        "text": "(To be clear, I didn't do it for the sake of blowing people's minds. I did it for other reasons entirely. That it will blow some people's minds is going to be a side effect.)"
+      }, 
+      "1203687283418968064": {
+        "username": "NPRWeekend", 
+        "text": "Did you know that lawmakers in Evanston Illinois are going to be using money from taxes on legalized marijuana to pay reparations to their black residents? @lourdesgnavarro talks to Evanston Alderwoman Robin Simmons about the plan. \n\nhttps://t.co/if2BdvPV3G"
+      }, 
+      "1121524668945530897": {
+        "username": "remainwithkate", 
+        "text": "This is @emmajanemanley1. She is absolutely lovely, and is going to be a fantastic MEP candidate. In 2016 Emma-Jane voted leave - follow her to find out why she is a #remainernow https://t.co/giNbKe0wP2"
+      }, 
+      "1104476078922317824": {
+        "username": "mulegirl", 
+        "text": "Driverless car speculative fiction is my favorite genre at the moment. \n\nClearly there are going to be different sorts. Party buses, love hotels, commuter pods, some Peleton bullshit where you are pedaling around but inside a car (which I heard people are already doing). https://t.co/o7dCYr2V4b"
+      }, 
+      "1092193607400939520": {
+        "username": "mulegirl", 
+        "text": "Oh see, now you've done it and influencer-reveal parties are going to be a thing.\n\nNarrator: They're probably already a thing. https://t.co/UkAmn1XLsk"
+      }, 
+      "1119597344553689093": {
+        "username": "NPRWeekend", 
+        "text": "Robert Mueller's report revealed a lot about administration officials lying to the public, disarray in the White House, lies to the public... and how two people looking at the same facts can reach different conclusions. We heard from two legal thinkers on their takes:"
+      }, 
+      "1069264462480384000": {
+        "username": "timwindsor", 
+        "text": "\u201cMeanwhile, over at the White House, everyone is sweating like they ate gas-station sushi an hour ago and don\u2019t have any change left for the coin-operated bathroom stall.\u201d If you don\u2019t read @JonahNRO , then you just must hate words. https://t.co/DZ1YEQ5afu"
+      }, 
+      "1069988274221940736": {
+        "username": "GreatDismal", 
+        "text": "So First Nations here are going to be asked whether they had a name for the newly (re)discovered cave. If I were them: \"And that would translate as 'Nest Of  The Hungry Skinwalkers'...\""
+      }, 
+      "1167516476439453700": {
+        "username": "neilhimself", 
+        "text": "14 November. Buy now, as they are going very fast... https://t.co/IP8AA6ze21"
+      }, 
+      "1122931151876907009": {
+        "username": "danicamckellar", 
+        "text": "Happy #InternationalDanceDay! \ud83d\udc83 This picture was taken a couple days before I broke my rib while on Dancing with the Stars, almost exactly 5 years ago to the day! It's a reminder that life has its ups and downs and that we are going to be just fine. \ud83d\ude09 @DancingABC @iamValC #DWTS https://t.co/TeDPWrcQfx"
+      }
+    }, 
+    "message": "In just the past few years; lots of untidy line work in the White House, everyone is sweating like they ate gas-station sushi an hour ago - GOP Senators are using their Congressional allowances to print Aquaman posters for themselves to argue that mass surveillance programs as they are going to be a shockingly smart decision.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1185742343653265409"
         ], 
         "element": "When"
