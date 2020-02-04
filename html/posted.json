@@ -3,6 +3,143 @@
     "sequence": [
       {
         "labels": [
+          "1193726547619909633"
+        ], 
+        "element": "Listen,"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "we"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "all"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "make"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "choices"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "based"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "habits"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "stories,"
+      }, 
+      {
+        "labels": [
+          "1098676045018935296"
+        ], 
+        "element": "*then*"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "figure"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "out"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "how"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "hyphenated"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "names"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "work"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": "https://t.co/aieiOI4D8X"
+      }, 
+      {
+        "labels": [
+          "1108470475284451330"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Tue Feb  4 14:01:43 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1193726547619909633": {
+        "username": "sarahemclaugh", 
+        "text": "Listen, we all make mistakes. Just the other day I used \u201cyour\u201d when I meant \u201cyou\u2019re.\u201d Sometimes you use the wrong word. And sometimes you accidentally plan and execute the sadistic murder of a journalist. None of us are free of mistakes. https://t.co/GnDr2BmxeA"
+      }, 
+      "1098676045018935296": {
+        "username": "mulegirl", 
+        "text": "Humans run on stories. Narrative is how we organize and coordinate our frankly disordered experience of life. As much as we want to think we are analytic and \"data-driven\", we all make choices based on habits and stories, *then* figure out how to explain those choices."
+      }, 
+      "1108470475284451330": {
+        "username": "robertkessler", 
+        "text": "every, like, 8 months I remember larry king not being able to figure out how hyphenated names work https://t.co/aieiOI4D8X"
+      }
+    }, 
+    "message": "Listen, we all make choices based on habits and stories, *then* figure out how hyphenated names work https://t.co/aieiOI4D8X  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1099349160548012034"
         ], 
         "element": "On"
