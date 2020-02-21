@@ -3,6 +3,455 @@
     "sequence": [
       {
         "labels": [
+          "1178846926126628864"
+        ], 
+        "element": "7"
+      }, 
+      {
+        "labels": [
+          "1178846926126628864"
+        ], 
+        "element": "USC"
+      }, 
+      {
+        "labels": [
+          "1178846926126628864"
+        ], 
+        "element": "\u00a72149"
+      }, 
+      {
+        "labels": [
+          "1104185876714786816"
+        ], 
+        "element": "&amp;"
+      }, 
+      {
+        "labels": [
+          "1104185876714786816"
+        ], 
+        "element": "9"
+      }, 
+      {
+        "labels": [
+          "1104185876714786816"
+        ], 
+        "element": "CFR"
+      }, 
+      {
+        "labels": [
+          "1104185876714786816"
+        ], 
+        "element": "\u00a793.301(f)(5)(vii)"
+      }, 
+      {
+        "labels": [
+          "1175941043944087552", 
+          "1086355088594079744", 
+          "1098027413324382208", 
+          "1142561041253064706", 
+          "1214359330339872768", 
+          "1137511895315963906", 
+          "1179558457114054656", 
+          "1101651955238211585", 
+          "1200608055550808069", 
+          "1123698135698673666", 
+          "1178846926126628864", 
+          "1218672492769955845", 
+          "1198288991772192768", 
+          "1187050553559470080", 
+          "1155647215978844160", 
+          "1110698209607860232", 
+          "1087513012028821509", 
+          "1156744974286954497", 
+          "1122289767738236929", 
+          "1111774486536351744", 
+          "1165998832787873792", 
+          "1104185876714786816", 
+          "1215093424338145281", 
+          "1226315108969783296", 
+          "1113195915668611073", 
+          "1200803712459059200", 
+          "1151646900787056643"
+        ], 
+        "element": "make"
+      }, 
+      {
+        "labels": [
+          "1175941043944087552", 
+          "1086355088594079744", 
+          "1098027413324382208", 
+          "1166506579996434434", 
+          "1142561041253064706", 
+          "1080170005399027716", 
+          "1100518248842518531", 
+          "1214359330339872768", 
+          "1137511895315963906", 
+          "1165998832787873792", 
+          "1101651955238211585", 
+          "1179558457114054656", 
+          "1200608055550808069", 
+          "1091488611269332993", 
+          "1154885338420195330", 
+          "1123698135698673666", 
+          "1178846926126628864", 
+          "1150926074618032133", 
+          "1218672492769955845", 
+          "1226670976416481281", 
+          "1198288991772192768", 
+          "1187050553559470080", 
+          "1206768449982218240", 
+          "1155647215978844160", 
+          "1121925073957470209", 
+          "1175045353210621952", 
+          "1110698209607860232", 
+          "1087513012028821509", 
+          "1156744974286954497", 
+          "1143671169461235714", 
+          "1122289767738236929", 
+          "1172979726094360581", 
+          "1111774486536351744", 
+          "1204958459734745088", 
+          "1151646900787056643", 
+          "1228135677038071808", 
+          "1215093424338145281", 
+          "1226315108969783296", 
+          "1113195915668611073", 
+          "1200803712459059200", 
+          "1146196079257563137", 
+          "1104185876714786816"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1175941043944087552", 
+          "1086355088594079744", 
+          "1098027413324382208", 
+          "1166506579996434434", 
+          "1142561041253064706", 
+          "1080170005399027716", 
+          "1100518248842518531", 
+          "1214359330339872768", 
+          "1137511895315963906", 
+          "1165998832787873792", 
+          "1101651955238211585", 
+          "1179558457114054656", 
+          "1200608055550808069", 
+          "1208750935322845186", 
+          "1129024529047674881", 
+          "1091488611269332993", 
+          "1154885338420195330", 
+          "1123698135698673666", 
+          "1150926074618032133", 
+          "1198288991772192768", 
+          "1206768449982218240", 
+          "1155647215978844160", 
+          "1121925073957470209", 
+          "1175045353210621952", 
+          "1110698209607860232", 
+          "1087513012028821509", 
+          "1156744974286954497", 
+          "1143671169461235714", 
+          "1122289767738236929", 
+          "1172979726094360581", 
+          "1111774486536351744", 
+          "1204958459734745088", 
+          "1151646900787056643", 
+          "1228135677038071808", 
+          "1215093424338145281", 
+          "1226315108969783296", 
+          "1113195915668611073", 
+          "1200803712459059200", 
+          "1104185876714786816"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1175941043944087552", 
+          "1200608055550808069", 
+          "1098027413324382208", 
+          "1151646900787056643", 
+          "1110698209607860232", 
+          "1226315108969783296"
+        ], 
+        "element": "federal"
+      }, 
+      {
+        "labels": [
+          "1200608055550808069"
+        ], 
+        "element": "crime"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "sell"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "an"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "all-black"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "line"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1218547718903205894"
+        ], 
+        "element": "clothing"
+      }, 
+      {
+        "labels": [
+          "1175940362126471168"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1175940362126471168"
+        ], 
+        "element": "call"
+      }, 
+      {
+        "labels": [
+          "1175940362126471168"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1175940362126471168"
+        ], 
+        "element": "Bearflex."
+      }, 
+      {
+        "labels": [
+          "1175940362126471168"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Fri Feb 21 09:00:20 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1175941043944087552": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7352 &amp; 21 CFR \u00a7350.50(c)(2) make it a federal crime to sell underarm antiperspirant without telling people they should stop using it if it gives them a rash."
+      }, 
+      "1086355088594079744": {
+        "username": "CrimeADay", 
+        "text": "If, and I mean IF, this guy's toilet was in a national forest, he might have violated 16 U.S.C. \u00a7551 &amp; 36 C.F.R. \u00a7261.11(a), which make it a federal crime to clog a toilet in a national forest.\n\nhttps://t.co/VWzSh7IPv6"
+      }, 
+      "1098027413324382208": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7331, 333, 343(g)(2) &amp; 21 CFR \u00a7169.150(f) make it a federal crime to sell salad dressing unless you label it \"salad dressing.\""
+      }, 
+      "1166506579996434434": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a71041(b) makes it a federal crime to kill an egg inspector."
+      }, 
+      "1142561041253064706": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7331, 333, &amp; 342(a)(2)(C)(3) make it a federal crime to introduce any food into interstate commerce that consists of a filthy, putrid, or decomposed substance, or is otherwise unfit for food. https://t.co/rTDcAES18c"
+      }, 
+      "1080170005399027716": {
+        "username": "CrimeADay", 
+        "text": "The Whaling Convention Act, in 16 USC \u00a7\u00a7916(j), 916c(a) &amp; 916f, makes it a federal crime to ... you know what, never mind. https://t.co/hMjdOEL4hd"
+      }, 
+      "1218547718903205894": {
+        "username": "SteveHuff", 
+        "text": "Who will be the first to sell an all-black line of clothing and call it \"Authentic Space Force Camo?\" https://t.co/6PebFbRscy"
+      }, 
+      "1100518248842518531": {
+        "username": "CrimeADay", 
+        "text": "Here at @CrimeADay, we don't usually take requests, but...\n\n18 USC \u00a71505 makes it a federal crime to use a threatening letter or communication to influence, obstruct, or impede an inquiry or investigation being conducted by a Congressional committee."
+      }, 
+      "1214359330339872768": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a7282 &amp; 7 CFR \u00a7322.7(a) make it a federal crime to send honeybee semen to the United States without giving the Animal and Plant Health Inspection Service at least ten business days' advance notice of the semen's impending arrival."
+      }, 
+      "1137511895315963906": {
+        "username": "CrimeADay", 
+        "text": "15 USC \u00a7\u00a769a(a), 69b, 69i &amp; 16 CFR \u00a7301.11 make it a federal crime to advertise a product as the fur of a fictitious animal."
+      }, 
+      "1123698135698673666": {
+        "username": "CrimeADay", 
+        "text": "47 USC \u00a7501, \u00a7325, 47 CFR \u00a780.314(a) &amp; \u00a780.334 make it a federal crime to knowingly transmit the word MAYDAY by radio, pronounced as the French expression \u201cm'aider,\u201d if you're not actually in distress."
+      }, 
+      "1187050553559470080": {
+        "username": "CrimeADay", 
+        "text": "40 USC \u00a7\u00a75109(b) &amp; 5104(e)(2)(C) make it a federal crime for a group of people to enter a room being used by a congressional committee in any of the Capitol Buildings in order to disrupt the committee's business.\n\n... but not if you're a member of Congress."
+      }, 
+      "1179558457114054656": {
+        "username": "CrimeADay", 
+        "text": "40 USC \u00a76307 &amp; 36 CFR \u00a7520.4(e) make it a federal crime to cross a moat at the national zoo."
+      }, 
+      "1200608055550808069": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7333, \u00a7352(c) &amp; 21 CFR \u00a7332.15 make it a federal crime to sell an antiflatulent mixed with an antacid, unless it's only for use with the kind of gas you get with heartburn, sour stomach, or indigestion."
+      }, 
+      "1208750935322845186": {
+        "username": "Snowden", 
+        "text": "It is a federal crime to open a piece of junk mail addressed to someone else. Listening to a phone call without a court order can also be a federal crime. \n\nBut an increasing number of companies are warrantlessly tracking\u2014and recording\u2014your every movement. https://t.co/2D8ttMKIWD"
+      }, 
+      "1129024529047674881": {
+        "username": "CrimeADay", 
+        "text": "It's generally not a federal crime to kill a groundhog."
+      }, 
+      "1091488611269332993": {
+        "username": "CrimeADay", 
+        "text": "16 USC \u00a7742j-1(a)(1) makes it a federal crime to shoot a fish from an airplane."
+      }, 
+      "1154885338420195330": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a7713(a) makes it a federal crime to display any likeness of the presidential seal at a public meeting to convey a false impression of sponsorship or approval by the Government of the United States. https://t.co/oabgpn3OSz"
+      }, 
+      "1165998832787873792": {
+        "username": "CrimeADay", 
+        "text": "Well, not without filing the appropriate forms first.  \n\n15 USC \u00a7330d &amp; 15 CFR \u00a7908.3(a)(6) make it a federal crime to try to change the weather using explosives without filing an initial report at least 10 days before bombing the atmosphere. https://t.co/vlqsnGMJnR"
+      }, 
+      "1178846926126628864": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a72149 &amp; 9 CFR \u00a73.29(e) make it a federal crime for a licensed guinea pig dealer to allow uneaten fruit or vegetable pieces to accumulate on their guinea pigs' bedding."
+      }, 
+      "1150926074618032133": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a71543 makes it a federal crime to use a fake or false passport."
+      }, 
+      "1218672492769955845": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a72071(b) &amp; 36 CFR \u00a71230.12 make it a federal crime for anyone with custody of Federal records to willfully alter those records."
+      }, 
+      "1226670976416481281": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a713-1 makes it a federal crime for commodity traders to trade in contracts for the sale of motion picture box office receipts or onions for future delivery."
+      }, 
+      "1198288991772192768": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7610(c), 620(a) &amp; 676 make it a federal crime to import these tubes of contraband Mexican bologna, or any other foreign meat that hasn't been inspected. https://t.co/zgAreoz8BK"
+      }, 
+      "1101651955238211585": {
+        "username": "CrimeADay", 
+        "text": "10 USC \u00a72674(c) &amp; 32 CFR \u00a7234.7(a) make it a federal crime to get into a fight at the Pentagon."
+      }, 
+      "1206768449982218240": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a7954 makes it a federal crime to lie under oath about a controversy between a foreign government and the United States, knowing the lie may be used to influence action by the United States."
+      }, 
+      "1155647215978844160": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a71865 &amp; 36 CFR \u00a72.11 make it a federal crime to picnic in violation of the picnicking conditions in a national park."
+      }, 
+      "1175940362126471168": {
+        "username": "SteveHuff", 
+        "text": "I just misread the word \"Fearless\" as \"Bearflex\" and now I want to start a band and call it Bearflex."
+      }, 
+      "1121925073957470209": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a71461 makes it a federal crime to mail anything lewd."
+      }, 
+      "1175045353210621952": {
+        "username": "CrimeADay", 
+        "text": "Specifically, 18 USC \u00a74 makes it a federal crime to have knowledge that a felony has been committed, not notify authorities, and take steps to conceal the crime.\n\nAnd 18 USC \u00a72382 makes it a federal crime to do the same with respect to acts of treason. https://t.co/pU5OcHXhQx"
+      }, 
+      "1110698209607860232": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7331, 333, 352 &amp; 21 CFR \u00a7344.50(d) make it a federal crime to sell earwax remover without a label that tells people it's \"FOR USE IN THE EAR ONLY.\""
+      }, 
+      "1087513012028821509": {
+        "username": "CrimeADay", 
+        "text": "16 USC \u00a7703 &amp; 50 CFR \u00a720.61(a)(1)-(2) make it a federal crime to import more than 25 doves per week, unless they're from Mexico, in which case you can import as many doves as Mexican authorities will allow."
+      }, 
+      "1156744974286954497": {
+        "username": "CrimeADay", 
+        "text": "43 USC \u00a71733 &amp; 43 CFR \u00a78365.1\u20131(b)(2) make it a federal crime to have an unauthorized garbage fire on public land."
+      }, 
+      "1143671169461235714": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a71918(1) makes it a federal crime to accept a job with the federal government if you also advocate for the overthrow of our constitutional form of government."
+      }, 
+      "1122289767738236929": {
+        "username": "CrimeADay", 
+        "text": "40 USC \u00a76307(a) &amp; 36 CFR \u00a7520.7 make it a federal crime to gamble at the national zoo."
+      }, 
+      "1172979726094360581": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a71073 makes it a federal crime to flee the United States to avoid prosecution. https://t.co/uNQ5EhajdV"
+      }, 
+      "1111774486536351744": {
+        "username": "CrimeADay", 
+        "text": "15 USC \u00a7\u00a770b, 70i &amp; 16 CFR \u00a7303.9(b)(2) make it a federal crime to use the word \"mutation\" in the name of a textile product that's not made from a furbearing animal."
+      }, 
+      "1204958459734745088": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a72235 makes it a federal crime to procure a search warrant maliciously and without probable cause."
+      }, 
+      "1151646900787056643": {
+        "username": "CrimeADay", 
+        "text": "16 USC \u00a71338 &amp; 43 CFR \u00a79264.7(a)(5) make it a federal crime to sell the remains of a wild little donkey."
+      }, 
+      "1104185876714786816": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a78313 &amp; 9 CFR \u00a793.301(f)(5)(vii) make it a federal crime to temporarily import a foreign horse for entertainment purposes and let its genitals get examined for a non-medical reason."
+      }, 
+      "1228135677038071808": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a72156(a)(1) makes it a federal crime to sponsor a cockfight."
+      }, 
+      "1226315108969783296": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7331, 333, 21 CFR \u00a773.2150(c) &amp; 21 CFR \u00a770.25(c) make it a federal crime to sell the sunless tanner dihydroxyacetone without warning people not use it near their eyes."
+      }, 
+      "1113195915668611073": {
+        "username": "CrimeADay", 
+        "text": "7 USC \u00a77734 &amp; 7 CFR \u00a7352.29(b) make it a federal crime to move avocados from Mexico through the United States, unless they come in through a port of entry approved for Mexican avocado shipments."
+      }, 
+      "1200803712459059200": {
+        "username": "CrimeADay", 
+        "text": "16 USC \u00a7\u00a71372(a)(3), 1375 &amp; 1362(6) make it a federal crime to possess a narwhal tusk, but not if it's for \"enhancing the survival of a species.\"\n\nhttps://t.co/AJMzBC4dqZ"
+      }, 
+      "1146196079257563137": {
+        "username": "CrimeADay", 
+        "text": "18 USC \u00a72386(A)(4) &amp; (B)(1) makes it a federal crime for an organization that both puts on a military parade and wants to control the government by force to not register with the Attorney General."
+      }, 
+      "1215093424338145281": {
+        "username": "CrimeADay", 
+        "text": "21 USC \u00a7\u00a7331, 333 &amp; 21 CFR \u00a7136.110(c)(17) make it a federal crime to add colored butter to buns, bread or rolls, if the intensity of the butter color exceeds \u201cmedium high\u201d when viewed under diffused light (7400 Kelvin) against the Munsell Butter Color Comparator."
+      }
+    }, 
+    "message": "7 USC \u00a72149 &amp; 9 CFR \u00a793.301(f)(5)(vii) make it a federal crime to sell an all-black line of clothing and call it Bearflex.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1146314771274203136"
         ], 
         "element": "Y"
