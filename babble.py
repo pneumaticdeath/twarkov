@@ -78,6 +78,7 @@ def babble_json(chain, count=1):
       rejected_count += 1
       msg = chain.GetAnnotatedMessage(max_len=1024)
 
+    logging.info('Accepted message "{}" using {} tweets'.format(msg['message'].encode('utf-8'), len(msg['tweets'])))
     msg['date'] = time.asctime()
     messages.append(msg)
 
@@ -110,7 +111,7 @@ def reject_annotated(msg):
   threshold = len(msg["sequence"]) * 0.8
   for tw_id, count in tweet_symbol_count.items():
     if count >= threshold:
-      logging.debug('Rejecting "{}" because 80% or more is derived from tweet_id {}'.format(msg['message'].encode('utf-8'), tw_id))
+      logging.debug('Rejected "{}" because 80% or more is derived from tweet_id {}'.format(msg['message'].encode('utf-8'), tw_id))
       return True
 
   return False
@@ -154,9 +155,9 @@ if __name__ == '__main__':
     sys.exit(1)
 
   if DEBUG:
-    logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s %(module)s %(message)s')
   else:
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(module)s %(message)s')
 
   if not args:
     sys.stderr.write('Please specify a tweet database\n')
