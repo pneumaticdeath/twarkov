@@ -3,6 +3,333 @@
     "sequence": [
       {
         "labels": [
+          "1082413577036795910", 
+          "1178023764237402112"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "made"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "consumed"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "cheddarwurst"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "slider,"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "so"
+      }, 
+      {
+        "labels": [
+          "1178023764237402112"
+        ], 
+        "element": "don't"
+      }, 
+      {
+        "labels": [
+          "1092997925012160513"
+        ], 
+        "element": "tell"
+      }, 
+      {
+        "labels": [
+          "1092997925012160513"
+        ], 
+        "element": "me"
+      }, 
+      {
+        "labels": [
+          "1109118966243516416", 
+          "1165753356523950080", 
+          "1092997925012160513"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1222986620208668672"
+        ], 
+        "element": "didn't"
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": "make"
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": "situation"
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": "worse."
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": "https://t.co/NU6ikw0hoC"
+      }, 
+      {
+        "labels": [
+          "1088109037982543873"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Fri Feb 28 10:07:40 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1165753356523950080": {
+        "username": "michaelrtm", 
+        "text": "@SamDGrover @QuintLyn @Scrinnameless @neilhimself I didn't make the connection, but it's there. https://t.co/M6TBc6X5eS"
+      }, 
+      "1082413577036795910": {
+        "username": "scalzi", 
+        "text": "I'm not saying that I just made and ate a cheese-and-sausage sandwich by putting a slice of cheese between two sausage patties acting as the \"bread.\" I am saying that we live in a world where such a thing is possible, however."
+      }, 
+      "1092997925012160513": {
+        "username": "scalzi", 
+        "text": "I watched Crouching Tiger, Hidden Dragon instead of the state of the union address and you can't tell me I didn't make the right choice."
+      }, 
+      "1222986620208668672": {
+        "username": "DustinGiebel", 
+        "text": "at least Alan Dershowitz didn't make the situation all about him, again."
+      }, 
+      "1178023764237402112": {
+        "username": "scalzi", 
+        "text": "I just made and consumed a cheddarwurst slider, so don't tell me I don't know how to live. https://t.co/kgs90qrzao"
+      }, 
+      "1088109037982543873": {
+        "username": "RoKhanna", 
+        "text": "Let me get this straight. The US is sanctioning Venezuela for their lack of democracy but not Saudi Arabia? Such hypocrisy. Maduro\u2019s policies are bad and not helping his people, but crippling sanctions or pushing for regime change will only make the situation worse. https://t.co/NU6ikw0hoC"
+      }, 
+      "1109118966243516416": {
+        "username": "jessesingal", 
+        "text": "An AirBnB host just threatened to sue me for defamation because I disagreed with a negative review she left after she told me (in a text) she was mad I didn't make the bed in a unit with $50 cleaning fee\n\nVERY COLORFUL LEGAL THREATS LATELY"
+      }
+    }, 
+    "message": "I just made and consumed a cheddarwurst slider, so don't tell me I didn't make the situation worse. https://t.co/NU6ikw0hoC  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "To"
+      }, 
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "honest,"
+      }, 
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "I'm"
+      }, 
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "somewhat"
+      }, 
+      {
+        "labels": [
+          "1085635523031547916"
+        ], 
+        "element": "uneasy"
+      }, 
+      {
+        "labels": [
+          "1187388308118106112"
+        ], 
+        "element": "about"
+      }, 
+      {
+        "labels": [
+          "1181976944583335936"
+        ], 
+        "element": "all"
+      }, 
+      {
+        "labels": [
+          "1181976944583335936"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1181976944583335936"
+        ], 
+        "element": "different"
+      }, 
+      {
+        "labels": [
+          "1181976944583335936"
+        ], 
+        "element": "ways"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "can"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "say"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "they\u2019re"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "technically"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "people."
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "Listen"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "find"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "out."
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": "https://t.co/O4gaw4qDFN"
+      }, 
+      {
+        "labels": [
+          "1098557691604230144"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Thu Feb 27 16:07:00 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1098557691604230144": {
+        "username": "michaelianblack", 
+        "text": "On @MoRocca\u2019s new podcast, we discuss my people, the Neanderthals. I mean, I\u2019m not sure you can say they\u2019re technically people. Listen and find out. https://t.co/O4gaw4qDFN"
+      }, 
+      "1085635523031547916": {
+        "username": "paulkrugman", 
+        "text": "To be honest, I'm somewhat uneasy about all the attention @aoc is getting, because a lot of it is obviously for the wrong reasons. She's telegenic and her shocking rise makes a good story; but there are lots of impressive freshmen in this class, and she gets all the attention 2/"
+      }, 
+      "1187388308118106112": {
+        "username": "mulegirl", 
+        "text": "@kiostark (Yes, we have a Darth Vader dog bed)\n\nAnd that while I didn't personally have the use case she was designing for, I thought talking to people about it was a great approach.\n\nShe started talking about all the different kinds of research she was doing\u2026"
+      }, 
+      "1181976944583335936": {
+        "username": "sarahemclaugh", 
+        "text": "People are wrong to suggest that you're not allowed to have diverse opinions in China. Look at all the different ways you can say Morey is wrong and that you support the Chinese government. https://t.co/Qf0xFwtWGM"
+      }
+    }, 
+    "message": "To be honest, I'm somewhat uneasy about all the different ways you can say they\u2019re technically people. Listen and find out. https://t.co/O4gaw4qDFN  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1225494478364037120"
         ], 
         "element": "Is"
