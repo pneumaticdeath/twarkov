@@ -3,6 +3,139 @@
     "sequence": [
       {
         "labels": [
+          "1225494478364037120"
+        ], 
+        "element": "Is"
+      }, 
+      {
+        "labels": [
+          "1225494478364037120"
+        ], 
+        "element": "there"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "requirement"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "be"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "irretrievably"
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "awful."
+      }, 
+      {
+        "labels": [
+          "1225859907745984513"
+        ], 
+        "element": "Verily,"
+      }, 
+      {
+        "labels": [
+          "1203129752602759174"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1120412504390344704"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1209565297855754240"
+        ], 
+        "element": "better"
+      }, 
+      {
+        "labels": [
+          "1209565297855754240"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1209565297855754240"
+        ], 
+        "element": "all"
+      }, 
+      {
+        "labels": [
+          "1209565297855754240"
+        ], 
+        "element": "parties."
+      }, 
+      {
+        "labels": [
+          "1209565297855754240"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Tue Feb 25 09:06:44 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1225859907745984513": {
+        "username": "jdickerson", 
+        "text": "\"And I say unto thee it is not a requirement that you be irretrievably awful. Verily, it is better not to be.\""
+      }, 
+      "1209565297855754240": {
+        "username": "alfredchobbs", 
+        "text": "It cannot be too earnestly urged, that an acquaintance with real facts will, in the end, he better for all parties."
+      }, 
+      "1225494478364037120": {
+        "username": "AshaRangappa_", 
+        "text": "Is there a requirement that DOJ notify the chairs and ranking members of the judiciary committees when an FBI request to investigate a political candidate has been approved or denied? If not, what is  the check on whether *Barr* is making politically biased decisions? https://t.co/3XNOXtZIoi"
+      }, 
+      "1203129752602759174": {
+        "username": "welivinasociety", 
+        "text": "Is ur teen texting ab Mary Oliver?\n\nPABA- pay attention. be astonished\nIOBFTHTBTNTB- it is better for the heart to break than not to break\nLTSAOYBLWIL- let the soft animal of ur body love what it loves\nWIIYPTDWYOWAPL?- what is it you plan to do w/ your one wild and precious life?"
+      }, 
+      "1120412504390344704": {
+        "username": "pebonilla", 
+        "text": "This is better for all involved. https://t.co/QQLSKP7WOF"
+      }
+    }, 
+    "message": "Is there a requirement that you be irretrievably awful. Verily, it is better for all parties.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1178846926126628864"
         ], 
         "element": "7"

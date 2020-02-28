@@ -3,6 +3,119 @@
     "sequence": [
       {
         "labels": [
+          "1088235401607811072"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1088235401607811072"
+        ], 
+        "element": "stole"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "back"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "re-dedicated"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "it,"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "re-consecrated"
+      }, 
+      {
+        "labels": [
+          "1069230545685659648"
+        ], 
+        "element": "it.\""
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": "This"
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": "is"
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": "slippery"
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": "slope."
+      }, 
+      {
+        "labels": [
+          "1122010954365956097"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Thu Feb 27 15:06:32 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1122010954365956097": {
+        "username": "carlosnf", 
+        "text": "@raju True. But clearly this is against public interest and a mockery of humanity. Offering to waive the suit if the farmers \u201cjoin Pepsi\u201d is a deal with the devil. What we need is to fund the defense of the farmers and set precedent. This is a slippery slope."
+      }, 
+      "1069230545685659648": {
+        "username": "TheRaDR", 
+        "text": "As in, \"Antiochus IV and his army defiled our Temple and then we won the war and got it back and re-dedicated it, re-consecrated it.\"  \n\nThis is a holiday celebrating resilience, and our ability to bring back the holy on our terms even if others have tried to destroy it. https://t.co/ic3cjqoU6F"
+      }, 
+      "1088235401607811072": {
+        "username": "thezacksmith", 
+        "text": "@pattonoswalt @neilhimself @DCComics @neverwear @ColleenDoran I remember how my dad confiscated my copy when I was a teen because of the violence. But I stole it back and now I\u2019m too old for him to do anything about it!"
+      }
+    }, 
+    "message": "I stole it back and re-dedicated it, re-consecrated it.\" This is a slippery slope.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1178002285751865344"
         ], 
         "element": "I"
