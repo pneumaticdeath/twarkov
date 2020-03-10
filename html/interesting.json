@@ -3,6 +3,2708 @@
     "sequence": [
       {
         "labels": [
+          "1204826585892868097"
+        ], 
+        "element": "Before"
+      }, 
+      {
+        "labels": [
+          "1204826585892868097"
+        ], 
+        "element": "Elvis,"
+      }, 
+      {
+        "labels": [
+          "1138166332015468546"
+        ], 
+        "element": "there"
+      }, 
+      {
+        "labels": [
+          "1138166332015468546"
+        ], 
+        "element": "was"
+      }, 
+      {
+        "labels": [
+          "1138166332015468546"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1138166332015468546"
+        ], 
+        "element": "big"
+      }, 
+      {
+        "labels": [
+          "1138166332015468546"
+        ], 
+        "element": "fuss"
+      }, 
+      {
+        "labels": [
+          "1113736632912318464", 
+          "1093894769074425856"
+        ], 
+        "element": "when"
+      }, 
+      {
+        "labels": [
+          "1127970552755494912"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "asked"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "for"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "my"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "analysis."
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "said,"
+      }, 
+      {
+        "labels": [
+          "1192497333935603712"
+        ], 
+        "element": "correctly,"
+      }, 
+      {
+        "labels": [
+          "1123383193758048256"
+        ], 
+        "element": "that"
+      }, 
+      {
+        "labels": [
+          "1123383193758048256"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1123383193758048256"
+        ], 
+        "element": "evidence"
+      }, 
+      {
+        "labels": [
+          "1109903685407174661"
+        ], 
+        "element": "does"
+      }, 
+      {
+        "labels": [
+          "1109903685407174661"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1109903685407174661"
+        ], 
+        "element": "exonerate"
+      }, 
+      {
+        "labels": [
+          "1109903685407174661"
+        ], 
+        "element": "him\"."
+      }, 
+      {
+        "labels": [
+          "1109903685407174661"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Fri Mar  6 12:59:57 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1138166332015468546": {
+        "username": "nprscottsimon", 
+        "text": "Excused from jury duty. Don't know why there was the big fuss when I asked if I could see the guillotine."
+      }, 
+      "1109903685407174661": {
+        "username": "jentaub", 
+        "text": "On MSNC. Pete Williams reading Barr's letter.\n\nRegarding obstruction: \"Special counsel sets out evidence on both sides. . . While the report does not conclude that the president did not commit a crime, it does not exonerate him\"."
+      }, 
+      "1113736632912318464": {
+        "username": "Infernalle", 
+        "text": "Hey all!  My teacher has started a non-profit opera company and needs help for her first production.  Any and all help would be greatly appreciated.  This worked when I asked for help with @neilhimself's Masterclass, and I hope it works for her. &lt;3\nhttps://t.co/EeXSC1awgr"
+      }, 
+      "1192497333935603712": {
+        "username": "Popehat", 
+        "text": "/4 So the professor, who was Socratic (though more typically Socratic in asking about how we felt about things), posed a hypothetical and asked for my analysis.  I said, correctly, that the evidence in question was inadmissible because of rule X, which applied Y."
+      }, 
+      "1123383193758048256": {
+        "username": "jdickerson", 
+        "text": "This was a letter the special counsel thought necessary to send even though the harshest line contained in the \u201csummary\u201c was that the evidence does not exonerate the president https://t.co/UEr9V5tYyH"
+      }, 
+      "1127970552755494912": {
+        "username": "zoecello", 
+        "text": "What $847 per month in health insurance buys: I asked for my \u201cfree\u201d mammogram during my health checkup but because my doctor simultaneously found a lump (benign, phew!) the bill was coded as \u201cdiagnostic\u201d rather than \u201cpreventative\u201d\u2026 so instead of $0 the bill is $1347. #America"
+      }, 
+      "1204826585892868097": {
+        "username": "HamillHimself", 
+        "text": "Before Elvis, there was the incomparable Big Mama Thornton. #BeyondAwesome https://t.co/TPZNwQbLbN"
+      }, 
+      "1093894769074425856": {
+        "username": "fabiombarreto", 
+        "text": "@neilhimself The press people from Universal got really mad at me when I asked for this picture. But, well, people at Universal are all gone from my life and the photo (and many other good things) remains. A little rebellion can be awesome here and then. :)"
+      }
+    }, 
+    "message": "Before Elvis, there was the big fuss when I asked for my analysis. I said, correctly, that the evidence does not exonerate him\".  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1162019300971929602"
+        ], 
+        "element": "\"are"
+      }, 
+      {
+        "labels": [
+          "1162019300971929602"
+        ], 
+        "element": "privileged"
+      }, 
+      {
+        "labels": [
+          "1162019300971929602"
+        ], 
+        "element": "by"
+      }, 
+      {
+        "labels": [
+          "1162019300971929602"
+        ], 
+        "element": "birth"
+      }, 
+      {
+        "labels": [
+          "1190365349725822977", 
+          "1078396524789297153", 
+          "1075573783627411457", 
+          "1162019300971929602"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1218279212429336576", 
+          "1174711984186486786", 
+          "1182384223706959872", 
+          "1075834598158782464", 
+          "1234909368191049728", 
+          "1078396524789297153"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1179524019415998464"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "explain"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "bubble"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "sort"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "7"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": "languages\u201d"
+      }, 
+      {
+        "labels": [
+          "1230163994586931200"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Fri Mar  6 12:59:36 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1218279212429336576": {
+        "username": "JohnCleese", 
+        "text": "And the man says ' No ! '\n\n' No, I don't want to have to explain it four times '"
+      }, 
+      "1162019300971929602": {
+        "username": "GreatDismal", 
+        "text": "\"are privileged by birth not to have to experience\"? Likewise, class. Three or four incidences of seeing member of a lower personally shat upon by member of an upper forever qualified my initial sense of Britain as a marvellous place. Memories that still make me uncomfortable. https://t.co/TXZDjZt8VD"
+      }, 
+      "1179524019415998464": {
+        "username": "elliott_downing", 
+        "text": "Come impeachment time, everyone hearing about ANY of Trump's offenses will be able to say \"Oh, I remember that\" and recall the opinion they formed about it at the time. The eggs won't all be in one basket. And Republican Senators would have to explain a \"no\" vote on ALL of them."
+      }, 
+      "1174711984186486786": {
+        "username": "Popehat", 
+        "text": "I'm totally going to have to explain Younger abstention on the radio @jbarro \n\nhttps://t.co/ycFlf7R95I"
+      }, 
+      "1182384223706959872": {
+        "username": "Popehat", 
+        "text": "I'm going to have to explain federal bail again, right"
+      }, 
+      "1075834598158782464": {
+        "username": "Popehat", 
+        "text": "oh christ i'm going to have to explain what en banc means again\n\nhttps://t.co/EZcypzB0Hg"
+      }, 
+      "1075573783627411457": {
+        "username": "DefenseRudy", 
+        "text": "This betrayal and abandonment by @AnnCoulter hurts a bit.   But we will endure.  And honestly it's going to be nice not to have to keep a coffin in the Lincoln Bedroom."
+      }, 
+      "1190365349725822977": {
+        "username": "scalzi", 
+        "text": "SHE'S GOING TO TAX THE RICH\n\nwhich is fine I'm rich I'll happily pay more taxes not to have to see another family grovel on gofundme so their parent/kid/spouse won't fucking die https://t.co/7PsCEmAypy"
+      }, 
+      "1078396524789297153": {
+        "username": "sharonmarkov", 
+        "text": "Sorry, but I intend to change twice more before I die It's going to be nice not to have to explain what en banc means again https://t.co/6ZyZk2qHDa"
+      }, 
+      "1234909368191049728": {
+        "username": "Popehat", 
+        "text": "If LSJABJ doesn't rule on Stone's motion for a new trial before 7 am tomorrow @jbarro is gonna ask me and I'm going to have to explain just how open-ended \"under submission\" can be"
+      }, 
+      "1230163994586931200": {
+        "username": "mathowie", 
+        "text": "@goldman \u201cI\u2019d like to explain a bubble sort in 7 languages\u201d"
+      }
+    }, 
+    "message": "\"are privileged by birth not to have to explain a bubble sort in 7 languages\u201d  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "\u2019"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "P"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "A"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "L"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "L"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "F"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "O"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "R"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "M"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "M"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "S"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "!"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "\u2019"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "B"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "y"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "f"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "\u2019"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1182643886470189056", 
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "-"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "b"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "O"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "\u2019"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "y"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "b"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1110937516109168641", 
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1110937516109168641", 
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1110937516109168641", 
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "v"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "y"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "\n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "\n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "T"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "w"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "\n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "\n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "W"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "b"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "u"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "g"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "e"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "s"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "p"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "l"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "m"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "c"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "y"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": ","
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "d"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": " "
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "#"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "N"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "o"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "W"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "W"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "i"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "t"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "h"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "r"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "n"
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": "."
+      }, 
+      {
+        "labels": [
+          "1178070881290997761"
+        ], 
+        "element": ""
+      }
+    ], 
+    "date": "Mon Mar  2 09:57:10 2020", 
+    "depth": 20, 
+    "seed": null, 
+    "separator": "", 
+    "tweets": {
+      "1182643886470189056": {
+        "username": "neilhimself", 
+        "text": "Following up on the Books and Libraries piece in the Atlantic, here's a well thought-out thread on why it's not that simple. https://t.co/FCTvCzjUs6"
+      }, 
+      "1110937516109168641": {
+        "username": "AstroKatie", 
+        "text": "I\u2019m with Phil on this one. I am ALL FOR sending humans to the Moon, or Mars. Send me! I\u2019ll sign up in a second. But only if it\u2019s done with a well thought-out plan and an actual budget. Otherwise, it\u2019s empty posturing at best, lives needlessly lost at worst. https://t.co/z52rBem2Ie"
+      }, 
+      "1178070881290997761": {
+        "username": "RoKhanna", 
+        "text": "Starting a war with Iran will only lead to billions of dollars wasted, destabilization in the Middle East, and more lives needlessly lost.\n\nThe answer is not more endless, unconstitutional wars. \n\nWe must be loud and clear in demanding restraint, diplomacy, and #NoWarWithIran."
+      }
+    }, 
+    "message": "I\u2019m with Phil on this one. I am ALL FOR sending humans to the Moon, or Mars. Send me! I\u2019ll sign up in a second. But only if it\u2019s done with a well thought-out plan and an actual budget. Otherwise, it\u2019s empty posturing at best, lives needlessly lost.\n\nThe answer is not more endless, unconstitutional wars. \n\nWe must be loud and clear in demanding restraint, diplomacy, and #NoWarWithIran."
+  },
+  {
+    "sequence": [
+      {
+        "labels": [
           "1088235401607811072"
         ], 
         "element": "I"
