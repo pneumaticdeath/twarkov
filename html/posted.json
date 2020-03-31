@@ -3,6 +3,299 @@
     "sequence": [
       {
         "labels": [
+          "1183458517266530305"
+        ], 
+        "element": "On"
+      }, 
+      {
+        "labels": [
+          "1183458517266530305"
+        ], 
+        "element": "sci-fi"
+      }, 
+      {
+        "labels": [
+          "1183458517266530305"
+        ], 
+        "element": "as"
+      }, 
+      {
+        "labels": [
+          "1183458517266530305"
+        ], 
+        "element": "prophecy"
+      }, 
+      {
+        "labels": [
+          "1215100818430603264", 
+          "1225059371782156288", 
+          "1201499328579133440", 
+          "1228862046722068480"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "an"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "era"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "water"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "shortage,"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "wildfire,"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "sea-level"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "rise,"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "extreme"
+      }, 
+      {
+        "labels": [
+          "1104154824910737410"
+        ], 
+        "element": "weather,"
+      }, 
+      {
+        "labels": [
+          "1074516062736068608", 
+          "1156988487868002304"
+        ], 
+        "element": "we"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "left"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "with"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "starlight"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "screaming."
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "More"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "heat,"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "pain."
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "Perhaps"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "stray"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "memory"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "of"
+      }, 
+      {
+        "labels": [
+          "1156988487868002304"
+        ], 
+        "element": "rain."
+      }, 
+      {
+        "labels": [
+          "1168572542703099915"
+        ], 
+        "element": "Lows"
+      }, 
+      {
+        "labels": [
+          "1168572542703099915", 
+          "1172724125518794752"
+        ], 
+        "element": "in"
+      }, 
+      {
+        "labels": [
+          "1168572542703099915", 
+          "1172724125518794752"
+        ], 
+        "element": "the"
+      }, 
+      {
+        "labels": [
+          "1168572542703099915", 
+          "1172724125518794752"
+        ], 
+        "element": "50s."
+      }, 
+      {
+        "labels": [
+          "1168572542703099915", 
+          "1172724125518794752"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Mon Mar 30 17:08:30 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1215100818430603264": {
+        "username": "scalzi", 
+        "text": "This is sure to usher in an era of daring and innovative film projects that will give WB a new Golden Age of content. https://t.co/6gtjxxrRvK"
+      }, 
+      "1228862046722068480": {
+        "username": "ClaraJeffery", 
+        "text": "Was just in an SF gay-owned store with bedecked with Pete signs and even if he\u2019s not your candidate, take not of how meaningful this moment is to LGBTQ community, especially those who came out in an era of little acceptance, and whose family-by-choice was gutted by AIDS."
+      }, 
+      "1172724125518794752": {
+        "username": "mulegirl", 
+        "text": "Watching Creature from the Black Lagoon (1954) and it\u2019s somewhat surprising that it starts with \u201cgod created earth\u201d and immediately segues to \u201cmillions of years of evolution\u201d.  Good job America having less enthusiasm for science than Universal Studios in the 50s."
+      }, 
+      "1183458517266530305": {
+        "username": "somebadideas", 
+        "text": "On sci-fi as prophecy in an era where the future is happening now... https://t.co/ykjRqKLxJG"
+      }, 
+      "1104154824910737410": {
+        "username": "NewYorker", 
+        "text": "As we race toward an era of water shortage, wildfire, sea-level rise, and extreme weather, we are left to wonder: How do we confront the apocalyptic possibilities of climate change? https://t.co/UzENPI3Evl https://t.co/jZ9xfkUbpk"
+      }, 
+      "1156988487868002304": {
+        "username": "MagicWeather", 
+        "text": "There will be more heat before the dark takes it away and we are left with starlight and screaming. More heat, and more pain. Perhaps a stray memory of rain.\n\nLows in the 60s."
+      }, 
+      "1225059371782156288": {
+        "username": "DrPhilGoff", 
+        "text": "#TrayvonMartin should be 25 today. Instead, the man who killed him is a constant reminder that we live in an era of cruel and stupid disregard for common sense human dignity.\n\nToday, let\u2019s look to the people who work to make us better. In his name. \n\nhttps://t.co/ktZ6Hl14x6"
+      }, 
+      "1074516062736068608": {
+        "username": "gnat", 
+        "text": "Interesting article: some of our best journalists are burning out. https://t.co/6Nmjig8k0S Many good principals burn out, too, and move to consultancies where they can have families, evenings, and weekends. How few good people we are left with when we insist they be superhuman."
+      }, 
+      "1168572542703099915": {
+        "username": "MagicWeather", 
+        "text": "Heavy rain tonight with a chance of strange smells and distant songs luring children from their beds later. Lock the doors. Watch the children. \n\nThe nights are growing long. \n\nLows in the 50s."
+      }, 
+      "1201499328579133440": {
+        "username": "gordonbrander", 
+        "text": "HTML was invented to accelerate the sharing of science papers, and then grew into a platform for shipping full-fledged apps, but we are still sharing science papers via 8.5x11\u201d PDFs in an era of ubiquitous networked 5\u201d screens. https://t.co/UPtwe5RAV5"
+      }
+    }, 
+    "message": "On sci-fi as prophecy in an era of water shortage, wildfire, sea-level rise, and extreme weather, we are left with starlight and screaming. More heat, and more pain. Perhaps a stray memory of rain. Lows in the 50s.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1082413577036795910", 
           "1178023764237402112"
         ], 

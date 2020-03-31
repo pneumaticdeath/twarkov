@@ -3,6 +3,121 @@
     "sequence": [
       {
         "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "\u201cTo"
+      }, 
+      {
+        "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "spark"
+      }, 
+      {
+        "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "moribund"
+      }, 
+      {
+        "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "writing"
+      }, 
+      {
+        "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "careers,"
+      }, 
+      {
+        "labels": [
+          "1077606242334457858"
+        ], 
+        "element": "agents"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "are"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "now"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "advising"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "against"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "all"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "non-essential"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "overseas"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "travel."
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": "https://t.co/ClJuu1n7aG"
+      }, 
+      {
+        "labels": [
+          "1239927057490075648"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Mon Mar 30 17:08:23 2020", 
+    "depth": 4, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1077606242334457858": {
+        "username": "jdickerson", 
+        "text": "\u201cTo spark moribund writing careers, agents are now advising writers to add at least one more initial to their names, or at the very least duplicate the existing one.\u201d"
+      }, 
+      "1239927057490075648": {
+        "username": "10DowningStreet", 
+        "text": "Today we have updated our travel guidance with immediate effect. \n\nWe are now advising against all non-essential overseas travel.\nhttps://t.co/ClJuu1n7aG"
+      }
+    }, 
+    "message": "\u201cTo spark moribund writing careers, agents are now advising against all non-essential overseas travel. https://t.co/ClJuu1n7aG  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1118632904589029382"
         ], 
         "element": "S"
