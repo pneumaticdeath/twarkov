@@ -3,15 +3,16 @@
 # Copyright 2009, Mitch Patenaude
 
 import sys
-from users import pneu
+import users
 
 from chain_utils import *
 
 if __name__ == "__main__":
   # TODO(mitch): replace ghetto argument parsing
+  pneu = users.load('pneumaticdeath')
   if len(sys.argv) > 1 and sys.argv[1] == '-c':
-   continuous_update(pneu.chain)
+    continuous_update(pneu)
   else:
-    do_all(pneu.chain)
+    check_updates(pneu)
 
 
