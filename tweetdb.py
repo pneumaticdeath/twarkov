@@ -4,14 +4,23 @@ import anydbm
 import config
 import cPickle
 import logging
+import re
 import sqlite3
 import twitter
 
+_quote_map = {"amp": "&", "lt": "<", "gt": ">"}
+
 def textof(tweet):
     if hasattr(tweet,'full_text') and len(tweet.full_text) > 0:
-        return tweet.full_text
+        text = tweet.full_text
     else:
-        return tweet.text
+        text = tweet.text
+
+    for key, value in _quote_map.items():
+        search = '&{0};'.format(key)
+        text = re.sub(search, value, text)
+
+    return text
 
 def TweetStore(filename):
     if filename is not None and '.sqlite' in filename:
