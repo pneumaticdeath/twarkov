@@ -50,7 +50,6 @@ class TwarkovChain(object):
 
   # This is a marker for the beginning of a chain. It should not exist in
   # the regular input domain.
-  _begin_marker = ' '
 
   def __init__(self,api=None, 
                storefile=DEFAULT_TWEETSTORE_FILE,
@@ -162,9 +161,6 @@ class TwarkovChain(object):
   def _ProcTweet(self, tweet, familiar=None):
     words = self._Tokenize(textof(tweet))
     if self.isFamiliar(tweet, familiar, words):
-      # we use a beginning of sequence marker, it should not exist in the
-      # regular input domain
-      words = [self.__class__._begin_marker, ] + list(words)
       self._chain.Update(words, label=tweet.id)
       return 1
     else:
@@ -222,7 +218,7 @@ class TwarkovChain(object):
     if seed is not None:
       seed_seq = tuple(self._Tokenize(seed))
     else:
-      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,),labelset=labelset)[-(self._max-1):]
+      seed_seq = self._chain.GetInitialRandomTuple(labelset=labelset)
 
     try:
       gen = self._chain.GetRandomSequence(seed=seed_seq, depth=depth, labelset=labelset)
@@ -256,7 +252,7 @@ class TwarkovChain(object):
     if seed:
       seed_seq = self._Tokenize(seed)
     else:
-      seed_seq = self._chain.GetRandomTuple((self.__class__._begin_marker,))[-(self._max-1):]
+      seed_seq = self._chain.GetInitialRandomTuple()
 
     try:
       gen = self._chain.GetAnnotatedSequence(seed=seed_seq, depth=depth)
@@ -306,8 +302,6 @@ class TwarkovChain(object):
 
 
 class CharChain(TwarkovChain):
-  # a two character string shouldn't be in the input domain, since we normally only deal in single characters.
-  _begin_marker = '--'
 
   def _Tokenize(self, text):
     return text
