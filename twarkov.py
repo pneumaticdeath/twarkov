@@ -304,7 +304,7 @@ class TwarkovChain(object):
 class CharChain(TwarkovChain):
 
   def _Tokenize(self, text):
-    return text
+    return list(text)
 
   def GetMessage(self, seed=None, max_len=280,
                  depth=None, sep='', trunc_char=" ", labelset=None):
