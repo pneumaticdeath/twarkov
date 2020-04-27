@@ -18,4 +18,8 @@ echo "$(date): 4 word chains:"
 time ./babble.py -s -d -m 4 -c 10 -j stores/sharon.sqlite > ${archivedir}/word4-${ds}.json
 ln -f ${archivedir}/word4-${ds}.json ${htmldir}/word4.json
 
+echo "$(date): 5 word chains:"
+time ./babble.py -s -d -m 5 -c 10 -j stores/sharon.sqlite > ${archivedir}/word5-${ds}.json
+ln -f ${archivedir}/word5-${ds}.json ${htmldir}/word5.json
+
 ./sync.sh

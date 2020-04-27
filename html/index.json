@@ -1,5 +1,6 @@
 [
     {"name" : "word4.json", "desc" : "Hourly random word chains of depth 4"},
+    {"name" : "word5.json", "desc" : "Hourly random word chains of depth 5"},
     {"name" : "char20.json", "desc" : "Hourly random character chains of depth 20"},
     {"name" : "char18.json", "desc" : "Hourly random character chains of depth 18"},
     {"name" : "interesting.json", "desc" : "Interesting but not tweet worthy"},
