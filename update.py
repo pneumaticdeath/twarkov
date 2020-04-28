@@ -15,10 +15,13 @@ if __name__ == "__main__":
     parser.add_argument('--user', '-u', default='sharon', help='Which user to update')
     args = parser.parse_args()
 
-    user = users.load(args.user)
-    if args.continuous:
-        continuous_update(user)
-    else:
-        check_updates(user)
+    try:
+        user = users.load(args.user)
+        if args.continuous:
+            continuous_update(user)
+        else:
+            check_updates(user)
+    except ValueError as e:
+        sys.stderr.write('{}\n'.format(str(e)))
 
 
