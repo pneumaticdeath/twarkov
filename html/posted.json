@@ -3,6 +3,295 @@
     "sequence": [
       {
         "labels": [
+          "1242111357576785921"
+        ], 
+        "element": "If"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312", 
+          "1242111357576785921"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "kids"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "at"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "home"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "who"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "like"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "writing"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "art?Are"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "a"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "kid"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "at"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "heart"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "who"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "likes"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "writing"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312"
+        ], 
+        "element": "art?"
+      }, 
+      {
+        "labels": [
+          "1247654107264909312", 
+          "1247989300223807491"
+        ], 
+        "element": "Do"
+      }, 
+      {
+        "labels": [
+          "1234536554481307649"
+        ], 
+        "element": "you"
+      }, 
+      {
+        "labels": [
+          "1218292969104642048", 
+          "1234536554481307649"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1218292969104642048", 
+          "1234536554481307649"
+        ], 
+        "element": "want"
+      }, 
+      {
+        "labels": [
+          "1234536554481307649"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1234536554481307649"
+        ], 
+        "element": "go"
+      }, 
+      {
+        "labels": [
+          "1234536554481307649"
+        ], 
+        "element": "home"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "work"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "your"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "relationships."
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "Most"
+      }, 
+      {
+        "labels": [
+          "1245590124693352449"
+        ], 
+        "element": "importantly,"
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": "try"
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": "not"
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": "go"
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": "insane."
+      }, 
+      {
+        "labels": [
+          "1238250949216477185"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Tue Apr 28 09:00:14 2020", 
+    "depth": 5, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1238250949216477185": {
+        "username": "jennieweiner", 
+        "text": "I\u2019m just going to say this and judge me all you want. We are not planning anything educational for our kids. Homeschool will not happen. We will survive and watch too much tv. We will eat cookies and carbs and hope for the best. We will love and try not to go insane."
+      }, 
+      "1247654107264909312": {
+        "username": "mulegirl", 
+        "text": "Hey pals, do you have kids at home who like writing and art?Are you a kid at heart who likes writing and art? Do you just want to hang out with some sunny people?\n\nTomorrow! Be here with us. https://t.co/3d75lsuiCV"
+      }, 
+      "1242111357576785921": {
+        "username": "DirkMaggs", 
+        "text": "If you have kids at home indefinitely, the BBC can offer useful teaching resources. (It may also be a useful reminder of how much teachers contribute on an everyday basis.) https://t.co/Ok8dM2oDnH"
+      }, 
+      "1247989300223807491": {
+        "username": "mulegirl", 
+        "text": "Hey friends,\n\nDo you enjoy YA fiction and art and stories about girls with moxie? You you live with people who do? Do you want to learn about getting published?\n\nDo you just want to hang out with *the* most delightful person?\n\nJoin us here in 15 minutes:\n\nhttps://t.co/QKAjADrC8n"
+      }, 
+      "1218292969104642048": {
+        "username": "Indigogirls", 
+        "text": "ARGH it\u2019s Friday and I\u2019m done with work and I just want to go home and take off my bra but I have to go to a staff appreciation party at a FOWLING place (that\u2019s football+bowling) instead. \ud83d\ude22"
+      }, 
+      "1234536554481307649": {
+        "username": "ATLChris", 
+        "text": "When you are stuck at work but you just want to go home and work on your side hustle! https://t.co/GfG4nmb4qM"
+      }, 
+      "1245590124693352449": {
+        "username": "nzpolice", 
+        "text": "Ep 4. The 7-day twitch.\n\nThe 7-day twitch could possibly be feeling worse than a 7-year itch right now. But don't do it, don't leave. Stay in and work on your relationships. Most importantly, try not to go mad like Minogue. https://t.co/JNtw4UsXmE"
+      }
+    }, 
+    "message": "If you have kids at home who like writing and art?Are you a kid at heart who likes writing and art? Do you just want to go home and work on your relationships. Most importantly, try not to go insane.  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1183458517266530305"
         ], 
         "element": "On"

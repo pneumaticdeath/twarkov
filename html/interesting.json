@@ -3,6 +3,253 @@
     "sequence": [
       {
         "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "just"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "accidentally"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "texted"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "@ewarren"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "to"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "get"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "me"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "more"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "wine"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "(because"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "I"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "am"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "an"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "idiot"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "and"
+      }, 
+      {
+        "labels": [
+          "1145478917815296000"
+        ], 
+        "element": "apparently"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "have"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "no"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "idea"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "how"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "this"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "item"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "ended"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "up"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "on"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "my"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "grocery"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "list\u2014or"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "why"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "it"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "was"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "categorized"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "under"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "\"Canned"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "Goods\"."
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": "https://t.co/jTBzN59nfg"
+      }, 
+      {
+        "labels": [
+          "1149093473653596161"
+        ], 
+        "element": " "
+      }
+    ], 
+    "date": "Mon Apr 27 10:04:48 2020", 
+    "depth": 5, 
+    "seed": null, 
+    "separator": " ", 
+    "tweets": {
+      "1149093473653596161": {
+        "username": "kgagne", 
+        "text": "This must've been an unnoticed voice-to-text, because I have no idea how this item ended up on my grocery list\u2014or why it was categorized under \"Canned Goods\". https://t.co/jTBzN59nfg"
+      }, 
+      "1145478917815296000": {
+        "username": "auntbeckyrose", 
+        "text": "I just accidentally texted @ewarren to get me more wine (because I am an idiot and apparently have no idea how to text) and their campaign staff is so lovely and understanding and I don\u2019t deserve them https://t.co/yA4xI5KPgX"
+      }
+    }, 
+    "message": "I just accidentally texted @ewarren to get me more wine (because I am an idiot and apparently have no idea how this item ended up on my grocery list\u2014or why it was categorized under \"Canned Goods\". https://t.co/jTBzN59nfg  "
+  }, 
+  {
+    "sequence": [
+      {
+        "labels": [
           "1243629896276025345"
         ], 
         "element": "When"
